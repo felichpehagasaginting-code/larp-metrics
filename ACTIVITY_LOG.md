@@ -97,3 +97,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T21:11:38+07:00** - [Event #1092] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-18T21:26:36+07:00** - [Event #1093] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-18T21:27:25+07:00** - [Event #1094] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-18T21:38:04+07:00** - [Event #1095] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
