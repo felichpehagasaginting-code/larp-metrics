@@ -31,3 +31,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T11:46:35+07:00** - [Event #1026] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-10-18T11:47:19+07:00** - [Event #1027] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-18T11:58:25+07:00** - [Event #1028] test(api): test input validation edge cases with malformed payloads
+- **2026-10-18T12:01:34+07:00** - [Event #1029] test(engine): add fuzzing tests for binary message deserializer
