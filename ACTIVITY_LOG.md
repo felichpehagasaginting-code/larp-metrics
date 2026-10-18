@@ -24,3 +24,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T10:54:32+07:00** - [Event #1019] feat(network): implement graceful connection draining on shutdown signal
 - **2026-10-18T11:03:12+07:00** - [Event #1020] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-18T11:08:27+07:00** - [Event #1021] fix(engine): correct task priority inversion in scheduler heap
+- **2026-10-18T11:14:14+07:00** - [Event #1022] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
