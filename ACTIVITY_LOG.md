@@ -55,3 +55,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T15:06:33+07:00** - [Event #1050] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-18T15:10:03+07:00** - [Event #1051] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-10-18T15:12:43+07:00** - [Event #1052] perf(memory): reduce GC pressure by reusing allocated slice buffers
+- **2026-10-18T15:26:39+07:00** - [Event #1053] fix(engine): prevent integer overflow when calculating exponential backoff
