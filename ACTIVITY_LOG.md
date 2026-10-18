@@ -29,3 +29,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T11:30:09+07:00** - [Event #1024] chore(git): add ignore rules for temporary build artifacts and test reports
 - **2026-10-18T11:40:20+07:00** - [Event #1025] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-18T11:46:35+07:00** - [Event #1026] fix(network): prevent HTTP response header injection via unescaped cookies
+- **2026-10-18T11:47:19+07:00** - [Event #1027] fix(engine): fix memory leak from unclosed event emitter subscriptions
