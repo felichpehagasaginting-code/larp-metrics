@@ -62,3 +62,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T15:43:42+07:00** - [Event #1057] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-18T15:50:16+07:00** - [Event #1058] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-18T15:54:37+07:00** - [Event #1059] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
+- **2026-10-18T16:01:30+07:00** - [Event #1060] test(engine): add fuzzing tests for binary message deserializer
