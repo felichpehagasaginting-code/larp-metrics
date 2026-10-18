@@ -33,3 +33,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T11:58:25+07:00** - [Event #1028] test(api): test input validation edge cases with malformed payloads
 - **2026-10-18T12:01:34+07:00** - [Event #1029] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-18T12:09:00+07:00** - [Event #1030] test(storage): verify cache eviction policy under memory pressure
+- **2026-10-18T12:18:01+07:00** - [Event #1031] docs(arch): add design document explaining persistent storage model
