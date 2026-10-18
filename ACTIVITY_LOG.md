@@ -82,3 +82,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T17:34:06+07:00** - [Event #1077] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-18T17:39:10+07:00** - [Event #1078] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-18T19:20:15+07:00** - [Event #1079] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-18T19:22:06+07:00** - [Event #1080] fix(network): fix DNS lookup timeout under slow upstream resolver
