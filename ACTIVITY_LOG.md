@@ -104,3 +104,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T22:17:15+07:00** - [Event #1099] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-18T22:20:45+07:00** - [Event #1100] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-10-18T22:33:53+07:00** - [Event #1101] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-18T22:47:00+07:00** - [Event #1102] fix(storage): ensure atomic sync to disk on critical commit markers
