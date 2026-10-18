@@ -30,3 +30,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T11:40:20+07:00** - [Event #1025] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-18T11:46:35+07:00** - [Event #1026] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-10-18T11:47:19+07:00** - [Event #1027] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-18T11:58:25+07:00** - [Event #1028] test(api): test input validation edge cases with malformed payloads
