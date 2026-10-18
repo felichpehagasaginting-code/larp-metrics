@@ -68,3 +68,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T16:15:52+07:00** - [Event #1063] refactor(network): consolidate HTTP client middleware pipeline handlers
 - **2026-10-18T16:26:40+07:00** - [Event #1064] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-18T16:28:58+07:00** - [Event #1065] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-10-18T16:38:11+07:00** - [Event #1066] docs(api): document endpoint authentication requirements and error codes
