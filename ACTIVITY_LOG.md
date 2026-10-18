@@ -73,3 +73,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T16:41:59+07:00** - [Event #1068] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-10-18T16:53:09+07:00** - [Event #1069] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-10-18T16:56:21+07:00** - [Event #1070] refactor(config): group environment variables into validated config structs
+- **2026-10-18T16:59:53+07:00** - [Event #1071] fix(api): prevent null pointer dereference on optional metadata attributes
