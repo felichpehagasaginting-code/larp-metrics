@@ -66,3 +66,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T16:05:20+07:00** - [Event #1061] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-10-18T16:06:55+07:00** - [Event #1062] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-18T16:15:52+07:00** - [Event #1063] refactor(network): consolidate HTTP client middleware pipeline handlers
+- **2026-10-18T16:26:40+07:00** - [Event #1064] feat(storage): add snapshot compaction and automated segment garbage collection
