@@ -99,3 +99,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T21:27:25+07:00** - [Event #1094] refactor(types): standardize domain error definitions and error code constants
 - **2026-10-18T21:38:04+07:00** - [Event #1095] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-18T21:43:32+07:00** - [Event #1096] fix(storage): fix file descriptor leak during rapid log rotation
+- **2026-10-18T22:01:29+07:00** - [Event #1097] docs(readme): add quickstart guide and architecture overview diagram
