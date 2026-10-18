@@ -19,3 +19,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T10:22:42+07:00** - [Event #1014] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-18T10:36:41+07:00** - [Event #1015] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-18T10:39:42+07:00** - [Event #1016] fix(api): prevent null pointer dereference on optional metadata attributes
+- **2026-10-18T10:41:52+07:00** - [Event #1017] refactor(network): replace raw socket handling with stream abstractions
