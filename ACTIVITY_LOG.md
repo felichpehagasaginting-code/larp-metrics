@@ -63,3 +63,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T15:50:16+07:00** - [Event #1058] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-18T15:54:37+07:00** - [Event #1059] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-10-18T16:01:30+07:00** - [Event #1060] test(engine): add fuzzing tests for binary message deserializer
+- **2026-10-18T16:05:20+07:00** - [Event #1061] fix(network): adjust buffer size to prevent MTU packet fragmentation
