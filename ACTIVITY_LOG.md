@@ -91,3 +91,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T20:21:59+07:00** - [Event #1086] feat(storage): implement atomic transaction rollback on write failure
 - **2026-10-18T20:29:13+07:00** - [Event #1087] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-18T20:32:34+07:00** - [Event #1088] feat(storage): implement atomic transaction rollback on write failure
+- **2026-10-18T20:49:48+07:00** - [Event #1089] feat(engine): add adaptive backoff retry strategy for failed event tasks
