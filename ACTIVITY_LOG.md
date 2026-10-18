@@ -83,3 +83,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T17:39:10+07:00** - [Event #1078] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-18T19:20:15+07:00** - [Event #1079] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-18T19:22:06+07:00** - [Event #1080] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-10-18T19:36:02+07:00** - [Event #1081] fix(storage): resolve cache stale read anomaly under high concurrency
