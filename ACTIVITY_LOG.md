@@ -10,3 +10,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T09:24:13+07:00** - [Event #1005] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-18T09:36:08+07:00** - [Event #1006] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-18T09:37:25+07:00** - [Event #1007] refactor(config): group environment variables into validated config structs
+- **2026-10-18T09:50:27+07:00** - [Event #1008] fix(storage): handle disk full error gracefully with alert notification
