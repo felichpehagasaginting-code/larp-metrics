@@ -125,3 +125,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T10:15:06+07:00** - [Event #1120] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-19T10:18:54+07:00** - [Event #1121] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-19T10:32:08+07:00** - [Event #1122] feat(engine): implement high-throughput asynchronous batch processor
+- **2026-10-19T10:33:55+07:00** - [Event #1123] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
