@@ -112,3 +112,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-18T23:28:37+07:00** - [Event #1107] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-18T23:33:26+07:00** - [Event #1108] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-19T09:00:46+07:00** - [Event #1109] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-19T09:06:08+07:00** - [Event #1110] feat(engine): implement dynamic configuration reloader without daemon restart
