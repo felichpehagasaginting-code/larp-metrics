@@ -199,3 +199,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T21:08:28+07:00** - [Event #1194] perf(engine): reduce thread contention by sharding global state lock
 - **2026-10-19T21:15:31+07:00** - [Event #1195] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-19T21:27:24+07:00** - [Event #1196] feat(engine): implement high-throughput asynchronous batch processor
+- **2026-10-19T21:38:58+07:00** - [Event #1197] feat(cli): add command-line flag parser with custom help templates
