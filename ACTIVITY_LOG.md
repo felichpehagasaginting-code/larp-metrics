@@ -165,3 +165,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T15:29:51+07:00** - [Event #1160] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-19T15:40:06+07:00** - [Event #1161] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-19T15:48:12+07:00** - [Event #1162] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
+- **2026-10-19T15:49:29+07:00** - [Event #1163] refactor(types): standardize domain error definitions and error code constants
