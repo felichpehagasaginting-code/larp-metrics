@@ -183,3 +183,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T17:18:37+07:00** - [Event #1178] docs(arch): add design document explaining persistent storage model
 - **2026-10-19T17:24:55+07:00** - [Event #1179] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-19T17:32:15+07:00** - [Event #1180] feat(cli): support human-readable and JSON output formatters
+- **2026-10-19T17:36:05+07:00** - [Event #1181] fix(network): fix DNS lookup timeout under slow upstream resolver
