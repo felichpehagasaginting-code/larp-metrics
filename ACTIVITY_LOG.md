@@ -156,3 +156,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T14:38:07+07:00** - [Event #1151] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-19T14:39:50+07:00** - [Event #1152] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-19T14:51:25+07:00** - [Event #1153] docs(readme): add quickstart guide and architecture overview diagram
+- **2026-10-19T14:52:43+07:00** - [Event #1154] feat(api): introduce API key authentication with granular scope permissions
