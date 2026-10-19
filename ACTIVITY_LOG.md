@@ -207,3 +207,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T22:18:18+07:00** - [Event #1202] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-19T22:32:50+07:00** - [Event #1203] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-19T22:41:19+07:00** - [Event #1204] perf(crypto): accelerate AES encryption using hardware CPU instructions
+- **2026-10-19T22:50:48+07:00** - [Event #1205] fix(network): fix TLS handshake failure on legacy certificate authorities
