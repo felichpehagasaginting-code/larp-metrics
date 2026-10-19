@@ -154,3 +154,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T14:23:16+07:00** - [Event #1149] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-19T14:26:47+07:00** - [Event #1150] docs(config): document all configuration options with safe defaults
 - **2026-10-19T14:38:07+07:00** - [Event #1151] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-10-19T14:39:50+07:00** - [Event #1152] chore(lint): enable strict static analysis and dead code elimination rules
