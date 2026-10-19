@@ -179,3 +179,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T17:01:55+07:00** - [Event #1174] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-19T17:06:04+07:00** - [Event #1175] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-10-19T17:08:11+07:00** - [Event #1176] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-19T17:17:29+07:00** - [Event #1177] fix(engine): fix memory leak from unclosed event emitter subscriptions
