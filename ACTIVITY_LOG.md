@@ -211,3 +211,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T22:53:12+07:00** - [Event #1206] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-19T23:04:13+07:00** - [Event #1207] test(api): test input validation edge cases with malformed payloads
 - **2026-10-19T23:20:35+07:00** - [Event #1208] test(engine): test worker recovery after simulated unhandled panic
+- **2026-10-19T23:29:34+07:00** - [Event #1209] perf(memory): reduce GC pressure by reusing allocated slice buffers
