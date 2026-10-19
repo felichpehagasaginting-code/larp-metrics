@@ -185,3 +185,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T17:32:15+07:00** - [Event #1180] feat(cli): support human-readable and JSON output formatters
 - **2026-10-19T17:36:05+07:00** - [Event #1181] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-19T19:20:52+07:00** - [Event #1182] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
+- **2026-10-19T19:28:41+07:00** - [Event #1183] fix(engine): correct task priority inversion in scheduler heap
