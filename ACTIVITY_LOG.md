@@ -166,3 +166,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T15:40:06+07:00** - [Event #1161] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-19T15:48:12+07:00** - [Event #1162] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-19T15:49:29+07:00** - [Event #1163] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-19T15:56:03+07:00** - [Event #1164] docs(readme): add quickstart guide and architecture overview diagram
