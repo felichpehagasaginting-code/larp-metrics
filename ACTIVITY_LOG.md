@@ -148,3 +148,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T13:49:36+07:00** - [Event #1143] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-19T13:57:13+07:00** - [Event #1144] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-19T14:03:25+07:00** - [Event #1145] feat(api): introduce API key authentication with granular scope permissions
+- **2026-10-19T14:09:31+07:00** - [Event #1146] feat(engine): support distributed tracing with OpenTelemetry context propagation
