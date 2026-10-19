@@ -134,3 +134,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T11:17:51+07:00** - [Event #1129] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-19T11:21:23+07:00** - [Event #1130] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-19T11:27:52+07:00** - [Event #1131] test(network): add mock server tests for HTTP client retry policies
+- **2026-10-19T11:39:27+07:00** - [Event #1132] refactor(engine): migrate event dispatcher to observer pub-sub pattern
