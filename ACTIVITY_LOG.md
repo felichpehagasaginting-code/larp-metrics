@@ -150,3 +150,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T14:03:25+07:00** - [Event #1145] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-19T14:09:31+07:00** - [Event #1146] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-19T14:14:09+07:00** - [Event #1147] fix(network): resolve TCP socket half-open state on silent client disconnect
+- **2026-10-19T14:20:03+07:00** - [Event #1148] refactor(engine): migrate event dispatcher to observer pub-sub pattern
