@@ -116,3 +116,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T09:10:20+07:00** - [Event #1111] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-19T09:18:33+07:00** - [Event #1112] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-19T09:27:48+07:00** - [Event #1113] test(storage): add integration tests for WAL replay on clean startup
+- **2026-10-19T09:32:05+07:00** - [Event #1114] feat(engine): add resilient circuit breaker for external service calls
