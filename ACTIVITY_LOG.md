@@ -131,3 +131,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T10:59:22+07:00** - [Event #1126] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-10-19T11:04:35+07:00** - [Event #1127] perf(network): compress outbound response bodies using gzip and brotli
 - **2026-10-19T11:05:19+07:00** - [Event #1128] fix(storage): fix file descriptor leak during rapid log rotation
+- **2026-10-19T11:17:51+07:00** - [Event #1129] feat(cli): add command-line flag parser with custom help templates
