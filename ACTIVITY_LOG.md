@@ -187,3 +187,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T19:20:52+07:00** - [Event #1182] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
 - **2026-10-19T19:28:41+07:00** - [Event #1183] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-19T19:34:01+07:00** - [Event #1184] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-19T19:45:28+07:00** - [Event #1185] refactor(storage): extract storage backend interface for pluggable drivers
