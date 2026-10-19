@@ -142,3 +142,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T12:07:18+07:00** - [Event #1137] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-19T12:20:07+07:00** - [Event #1138] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-19T12:22:09+07:00** - [Event #1139] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-10-19T13:30:37+07:00** - [Event #1140] test(storage): add integration tests for WAL replay on clean startup
