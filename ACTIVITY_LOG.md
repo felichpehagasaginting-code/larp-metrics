@@ -145,3 +145,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T13:30:37+07:00** - [Event #1140] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-19T13:31:28+07:00** - [Event #1141] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-19T13:37:59+07:00** - [Event #1142] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-10-19T13:49:36+07:00** - [Event #1143] refactor(storage): modularize WAL serialization codec into dedicated package
