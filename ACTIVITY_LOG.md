@@ -177,3 +177,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T16:45:49+07:00** - [Event #1172] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-10-19T16:49:11+07:00** - [Event #1173] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-19T17:01:55+07:00** - [Event #1174] feat(engine): add structured telemetry metrics exporter for Prometheus
+- **2026-10-19T17:06:04+07:00** - [Event #1175] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
