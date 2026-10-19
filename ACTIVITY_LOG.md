@@ -173,3 +173,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T16:15:53+07:00** - [Event #1168] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-19T16:24:13+07:00** - [Event #1169] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-19T16:29:54+07:00** - [Event #1170] feat(crypto): add secure entropy PRNG generator with fallback seeding
+- **2026-10-19T16:37:21+07:00** - [Event #1171] fix(engine): correct task priority inversion in scheduler heap
