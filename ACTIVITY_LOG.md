@@ -195,3 +195,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T20:32:12+07:00** - [Event #1190] feat(storage): support compressed chunked blob storage format
 - **2026-10-19T20:39:36+07:00** - [Event #1191] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-19T20:46:23+07:00** - [Event #1192] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-10-19T20:55:53+07:00** - [Event #1193] docs(config): document all configuration options with safe defaults
