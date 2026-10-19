@@ -194,3 +194,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T20:20:03+07:00** - [Event #1189] feat(cli): add daemon mode process manager with PID file tracking
 - **2026-10-19T20:32:12+07:00** - [Event #1190] feat(storage): support compressed chunked blob storage format
 - **2026-10-19T20:39:36+07:00** - [Event #1191] docs(readme): add quickstart guide and architecture overview diagram
+- **2026-10-19T20:46:23+07:00** - [Event #1192] feat(engine): add adaptive backoff retry strategy for failed event tasks
