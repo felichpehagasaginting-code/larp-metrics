@@ -169,3 +169,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T15:56:03+07:00** - [Event #1164] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-19T16:02:43+07:00** - [Event #1165] feat(network): implement graceful connection draining on shutdown signal
 - **2026-10-19T16:03:17+07:00** - [Event #1166] feat(engine): add resilient circuit breaker for external service calls
+- **2026-10-19T16:09:31+07:00** - [Event #1167] refactor(types): standardize domain error definitions and error code constants
