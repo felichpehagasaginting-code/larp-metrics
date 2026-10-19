@@ -161,3 +161,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T15:12:36+07:00** - [Event #1156] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-10-19T15:14:43+07:00** - [Event #1157] refactor(utils): streamline byte slice manipulation and buffer pooling
 - **2026-10-19T15:18:46+07:00** - [Event #1158] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
+- **2026-10-19T15:29:27+07:00** - [Event #1159] feat(network): introduce token bucket rate limiter with IP subnet bursting
