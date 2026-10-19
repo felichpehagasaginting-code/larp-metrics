@@ -141,3 +141,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T11:59:10+07:00** - [Event #1136] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-10-19T12:07:18+07:00** - [Event #1137] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-19T12:20:07+07:00** - [Event #1138] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-19T12:22:09+07:00** - [Event #1139] fix(api): sanitize input query parameters against wildcard regex DoS
