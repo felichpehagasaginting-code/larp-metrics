@@ -205,3 +205,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T22:08:45+07:00** - [Event #1200] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-19T22:14:56+07:00** - [Event #1201] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-19T22:18:18+07:00** - [Event #1202] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-19T22:32:50+07:00** - [Event #1203] test(storage): add integration tests for WAL replay on clean startup
