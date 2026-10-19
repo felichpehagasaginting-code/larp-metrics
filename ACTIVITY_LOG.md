@@ -129,3 +129,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T10:44:45+07:00** - [Event #1124] fix(api): adjust CORS allowed origins header for multi-tenant domains
 - **2026-10-19T10:45:45+07:00** - [Event #1125] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-19T10:59:22+07:00** - [Event #1126] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-10-19T11:04:35+07:00** - [Event #1127] perf(network): compress outbound response bodies using gzip and brotli
