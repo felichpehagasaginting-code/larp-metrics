@@ -216,3 +216,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T09:02:54+07:00** - [Event #1211] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-20T09:09:20+07:00** - [Event #1212] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-20T09:13:45+07:00** - [Event #1213] docs(api): document endpoint authentication requirements and error codes
+- **2026-10-20T09:17:16+07:00** - [Event #1214] refactor(storage): extract storage backend interface for pluggable drivers
