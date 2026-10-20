@@ -298,3 +298,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T17:40:08+07:00** - [Event #1293] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-20T19:15:42+07:00** - [Event #1294] feat(crypto): implement HMAC SHA-256 webhook payload signing
 - **2026-10-20T19:25:46+07:00** - [Event #1295] feat(engine): add resilient circuit breaker for external service calls
+- **2026-10-20T19:36:47+07:00** - [Event #1296] chore(git): add ignore rules for temporary build artifacts and test reports
