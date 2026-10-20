@@ -213,3 +213,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T23:20:35+07:00** - [Event #1208] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-19T23:29:34+07:00** - [Event #1209] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-19T23:37:58+07:00** - [Event #1210] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-10-20T09:02:54+07:00** - [Event #1211] feat(network): introduce token bucket rate limiter with IP subnet bursting
