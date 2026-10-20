@@ -323,3 +323,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T22:37:00+07:00** - [Event #1318] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-10-20T22:48:47+07:00** - [Event #1319] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-20T22:49:22+07:00** - [Event #1320] refactor(network): replace raw socket handling with stream abstractions
+- **2026-10-20T23:01:10+07:00** - [Event #1321] chore(ci): add automated benchmark regression testing to PR pipeline
