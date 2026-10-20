@@ -266,3 +266,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T14:52:50+07:00** - [Event #1261] refactor(engine): simplify worker state machine transitions and error states
 - **2026-10-20T14:54:00+07:00** - [Event #1262] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-20T15:04:58+07:00** - [Event #1263] perf(memory): reduce GC pressure by reusing allocated slice buffers
+- **2026-10-20T15:08:26+07:00** - [Event #1264] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
