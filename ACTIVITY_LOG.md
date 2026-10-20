@@ -310,3 +310,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T20:43:13+07:00** - [Event #1305] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-20T20:57:17+07:00** - [Event #1306] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-20T21:06:54+07:00** - [Event #1307] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-10-20T21:10:42+07:00** - [Event #1308] docs(api): document endpoint authentication requirements and error codes
