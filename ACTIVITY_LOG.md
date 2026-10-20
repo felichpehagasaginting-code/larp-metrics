@@ -243,3 +243,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T11:43:16+07:00** - [Event #1238] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-10-20T11:57:52+07:00** - [Event #1239] chore(deps): update core external dependencies to latest stable patches
 - **2026-10-20T12:02:24+07:00** - [Event #1240] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-10-20T12:03:18+07:00** - [Event #1241] fix(engine): fix memory leak from unclosed event emitter subscriptions
