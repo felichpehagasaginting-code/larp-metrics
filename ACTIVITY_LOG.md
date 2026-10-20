@@ -264,3 +264,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T14:46:42+07:00** - [Event #1259] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-20T14:48:54+07:00** - [Event #1260] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-20T14:52:50+07:00** - [Event #1261] refactor(engine): simplify worker state machine transitions and error states
+- **2026-10-20T14:54:00+07:00** - [Event #1262] fix(engine): fix memory leak from unclosed event emitter subscriptions
