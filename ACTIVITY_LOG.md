@@ -215,3 +215,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-19T23:37:58+07:00** - [Event #1210] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-10-20T09:02:54+07:00** - [Event #1211] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-20T09:09:20+07:00** - [Event #1212] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
+- **2026-10-20T09:13:45+07:00** - [Event #1213] docs(api): document endpoint authentication requirements and error codes
