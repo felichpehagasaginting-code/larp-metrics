@@ -321,3 +321,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T22:19:03+07:00** - [Event #1316] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-20T22:27:31+07:00** - [Event #1317] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-20T22:37:00+07:00** - [Event #1318] fix(storage): resolve cache stale read anomaly under high concurrency
+- **2026-10-20T22:48:47+07:00** - [Event #1319] fix(engine): fix memory leak from unclosed event emitter subscriptions
