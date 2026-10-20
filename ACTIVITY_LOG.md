@@ -228,3 +228,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T10:13:20+07:00** - [Event #1223] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-20T10:21:51+07:00** - [Event #1224] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-20T10:27:58+07:00** - [Event #1225] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-10-20T10:37:26+07:00** - [Event #1226] fix(network): fix DNS lookup timeout under slow upstream resolver
