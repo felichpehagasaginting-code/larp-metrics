@@ -317,3 +317,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T21:43:39+07:00** - [Event #1312] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-20T21:52:51+07:00** - [Event #1313] test(api): test input validation edge cases with malformed payloads
 - **2026-10-20T22:00:03+07:00** - [Event #1314] fix(engine): prevent integer overflow when calculating exponential backoff
+- **2026-10-20T22:08:29+07:00** - [Event #1315] fix(engine): fix memory leak from unclosed event emitter subscriptions
