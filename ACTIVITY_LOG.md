@@ -258,3 +258,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T14:12:09+07:00** - [Event #1253] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-20T14:14:12+07:00** - [Event #1254] refactor(types): standardize domain error definitions and error code constants
 - **2026-10-20T14:19:49+07:00** - [Event #1255] fix(engine): prevent integer overflow when calculating exponential backoff
+- **2026-10-20T14:24:12+07:00** - [Event #1256] fix(storage): ensure atomic sync to disk on critical commit markers
