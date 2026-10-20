@@ -233,3 +233,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T10:41:09+07:00** - [Event #1228] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-20T10:47:21+07:00** - [Event #1229] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-10-20T10:56:15+07:00** - [Event #1230] feat(crypto): add secure entropy PRNG generator with fallback seeding
+- **2026-10-20T11:00:27+07:00** - [Event #1231] chore(git): add ignore rules for temporary build artifacts and test reports
