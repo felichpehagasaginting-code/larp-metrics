@@ -237,3 +237,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T11:06:57+07:00** - [Event #1232] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-20T11:19:25+07:00** - [Event #1233] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-20T11:20:03+07:00** - [Event #1234] fix(storage): resolve cache stale read anomaly under high concurrency
+- **2026-10-20T11:25:23+07:00** - [Event #1235] fix(api): return 429 Too Many Requests status when rate limit exceeded
