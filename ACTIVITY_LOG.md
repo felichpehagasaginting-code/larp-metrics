@@ -226,3 +226,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T10:03:29+07:00** - [Event #1221] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-20T10:12:58+07:00** - [Event #1222] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-20T10:13:20+07:00** - [Event #1223] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-20T10:21:51+07:00** - [Event #1224] fix(api): return 429 Too Many Requests status when rate limit exceeded
