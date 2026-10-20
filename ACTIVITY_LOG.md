@@ -293,3 +293,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T17:13:16+07:00** - [Event #1288] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-20T17:19:27+07:00** - [Event #1289] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-20T17:22:44+07:00** - [Event #1290] feat(engine): add structured telemetry metrics exporter for Prometheus
+- **2026-10-20T17:32:24+07:00** - [Event #1291] perf(storage): replace JSON marshaling with zero-allocation binary codec
