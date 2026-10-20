@@ -224,3 +224,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T09:48:04+07:00** - [Event #1219] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-20T09:56:48+07:00** - [Event #1220] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-20T10:03:29+07:00** - [Event #1221] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-10-20T10:12:58+07:00** - [Event #1222] test(engine): test worker recovery after simulated unhandled panic
