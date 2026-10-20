@@ -257,3 +257,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T14:08:11+07:00** - [Event #1252] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-20T14:12:09+07:00** - [Event #1253] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-20T14:14:12+07:00** - [Event #1254] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-20T14:19:49+07:00** - [Event #1255] fix(engine): prevent integer overflow when calculating exponential backoff
