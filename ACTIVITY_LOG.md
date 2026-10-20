@@ -282,3 +282,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T16:17:07+07:00** - [Event #1277] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-10-20T16:22:40+07:00** - [Event #1278] fix(engine): prevent integer overflow when calculating exponential backoff
 - **2026-10-20T16:27:20+07:00** - [Event #1279] feat(crypto): add secure entropy PRNG generator with fallback seeding
+- **2026-10-20T16:31:03+07:00** - [Event #1280] fix(network): fix DNS lookup timeout under slow upstream resolver
