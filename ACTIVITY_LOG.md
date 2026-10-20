@@ -290,3 +290,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T17:03:09+07:00** - [Event #1285] docs(arch): add design document explaining persistent storage model
 - **2026-10-20T17:08:16+07:00** - [Event #1286] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-20T17:09:55+07:00** - [Event #1287] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-20T17:13:16+07:00** - [Event #1288] docs(readme): add quickstart guide and architecture overview diagram
