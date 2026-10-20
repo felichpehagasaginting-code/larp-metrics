@@ -219,3 +219,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T09:17:16+07:00** - [Event #1214] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-20T09:24:19+07:00** - [Event #1215] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-10-20T09:31:02+07:00** - [Event #1216] feat(cli): add daemon mode process manager with PID file tracking
+- **2026-10-20T09:39:21+07:00** - [Event #1217] refactor(types): standardize domain error definitions and error code constants
