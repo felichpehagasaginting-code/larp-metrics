@@ -230,3 +230,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T10:27:58+07:00** - [Event #1225] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-10-20T10:37:26+07:00** - [Event #1226] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-20T10:38:21+07:00** - [Event #1227] feat(engine): initialize core pipeline event stream architecture
+- **2026-10-20T10:41:09+07:00** - [Event #1228] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
