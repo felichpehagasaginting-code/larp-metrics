@@ -327,3 +327,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T23:13:38+07:00** - [Event #1322] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-20T23:17:36+07:00** - [Event #1323] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-20T23:28:12+07:00** - [Event #1324] chore(lint): enable strict static analysis and dead code elimination rules
+- **2026-10-20T23:37:26+07:00** - [Event #1325] feat(engine): add resilient circuit breaker for external service calls
