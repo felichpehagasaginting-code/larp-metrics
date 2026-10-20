@@ -275,3 +275,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T15:44:15+07:00** - [Event #1270] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-20T15:46:25+07:00** - [Event #1271] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-20T15:49:27+07:00** - [Event #1272] feat(storage): introduce lock-free concurrent hash map for state lookups
+- **2026-10-20T16:01:21+07:00** - [Event #1273] fix(api): prevent null pointer dereference on optional metadata attributes
