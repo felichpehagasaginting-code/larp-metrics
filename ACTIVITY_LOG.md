@@ -260,3 +260,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T14:19:49+07:00** - [Event #1255] fix(engine): prevent integer overflow when calculating exponential backoff
 - **2026-10-20T14:24:12+07:00** - [Event #1256] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-20T14:31:03+07:00** - [Event #1257] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
+- **2026-10-20T14:34:38+07:00** - [Event #1258] feat(storage): add snapshot compaction and automated segment garbage collection
