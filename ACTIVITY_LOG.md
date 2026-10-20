@@ -314,3 +314,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T21:21:34+07:00** - [Event #1309] refactor(config): group environment variables into validated config structs
 - **2026-10-20T21:34:49+07:00** - [Event #1310] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-20T21:43:10+07:00** - [Event #1311] feat(network): support TLS 1.3 session resumption and cipher suite configuration
+- **2026-10-20T21:43:39+07:00** - [Event #1312] refactor(network): replace raw socket handling with stream abstractions
