@@ -280,3 +280,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T16:02:38+07:00** - [Event #1275] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-20T16:10:42+07:00** - [Event #1276] feat(engine): initialize core pipeline event stream architecture
 - **2026-10-20T16:17:07+07:00** - [Event #1277] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
+- **2026-10-20T16:22:40+07:00** - [Event #1278] fix(engine): prevent integer overflow when calculating exponential backoff
