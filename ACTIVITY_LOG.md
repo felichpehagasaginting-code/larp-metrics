@@ -267,3 +267,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T14:54:00+07:00** - [Event #1262] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-20T15:04:58+07:00** - [Event #1263] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-20T15:08:26+07:00** - [Event #1264] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
+- **2026-10-20T15:13:54+07:00** - [Event #1265] fix(storage): repair index segment corruption on unexpected process kill
