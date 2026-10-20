@@ -296,3 +296,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T17:32:24+07:00** - [Event #1291] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-20T17:38:15+07:00** - [Event #1292] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-20T17:40:08+07:00** - [Event #1293] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-20T19:15:42+07:00** - [Event #1294] feat(crypto): implement HMAC SHA-256 webhook payload signing
