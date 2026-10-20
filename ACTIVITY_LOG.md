@@ -325,3 +325,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T22:49:22+07:00** - [Event #1320] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-20T23:01:10+07:00** - [Event #1321] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-10-20T23:13:38+07:00** - [Event #1322] refactor(network): replace raw socket handling with stream abstractions
+- **2026-10-20T23:17:36+07:00** - [Event #1323] fix(engine): correct task priority inversion in scheduler heap
