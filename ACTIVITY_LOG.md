@@ -269,3 +269,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T15:08:26+07:00** - [Event #1264] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-10-20T15:13:54+07:00** - [Event #1265] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-10-20T15:23:53+07:00** - [Event #1266] fix(api): prevent null pointer dereference on optional metadata attributes
+- **2026-10-20T15:26:56+07:00** - [Event #1267] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
