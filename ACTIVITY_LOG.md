@@ -382,3 +382,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T15:21:37+07:00** - [Event #1377] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-21T15:24:55+07:00** - [Event #1378] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-21T15:34:16+07:00** - [Event #1379] refactor(engine): decouple task scheduler from concrete queue implementations
+- **2026-10-21T15:36:53+07:00** - [Event #1380] docs(arch): add design document explaining persistent storage model
