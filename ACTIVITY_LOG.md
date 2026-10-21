@@ -384,3 +384,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T15:34:16+07:00** - [Event #1379] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-10-21T15:36:53+07:00** - [Event #1380] docs(arch): add design document explaining persistent storage model
 - **2026-10-21T15:46:24+07:00** - [Event #1381] refactor(utils): streamline byte slice manipulation and buffer pooling
+- **2026-10-21T15:46:46+07:00** - [Event #1382] docs(readme): add quickstart guide and architecture overview diagram
