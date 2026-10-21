@@ -357,3 +357,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T11:47:56+07:00** - [Event #1352] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-10-21T11:57:22+07:00** - [Event #1353] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-21T12:04:22+07:00** - [Event #1354] fix(api): prevent null pointer dereference on optional metadata attributes
+- **2026-10-21T12:08:04+07:00** - [Event #1355] feat(engine): add adaptive backoff retry strategy for failed event tasks
