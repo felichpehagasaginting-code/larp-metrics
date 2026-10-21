@@ -352,3 +352,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T11:19:47+07:00** - [Event #1347] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-10-21T11:25:17+07:00** - [Event #1348] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-21T11:35:41+07:00** - [Event #1349] refactor(config): group environment variables into validated config structs
+- **2026-10-21T11:38:16+07:00** - [Event #1350] fix(storage): resolve cache stale read anomaly under high concurrency
