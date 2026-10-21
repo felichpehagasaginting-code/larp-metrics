@@ -336,3 +336,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T09:35:58+07:00** - [Event #1331] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-21T09:39:42+07:00** - [Event #1332] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-21T09:43:42+07:00** - [Event #1333] feat(storage): implement atomic transaction rollback on write failure
+- **2026-10-21T09:50:38+07:00** - [Event #1334] docs(readme): add quickstart guide and architecture overview diagram
