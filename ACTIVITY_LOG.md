@@ -374,3 +374,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T14:35:11+07:00** - [Event #1369] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-10-21T14:43:16+07:00** - [Event #1370] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-21T14:49:24+07:00** - [Event #1371] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-10-21T14:51:30+07:00** - [Event #1372] perf(storage): replace JSON marshaling with zero-allocation binary codec
