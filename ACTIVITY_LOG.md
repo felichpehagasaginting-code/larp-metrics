@@ -423,3 +423,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T21:38:43+07:00** - [Event #1418] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-21T21:44:44+07:00** - [Event #1419] feat(api): implement JSON schema validation middleware with field error mapping
 - **2026-10-21T21:59:12+07:00** - [Event #1420] fix(api): return 429 Too Many Requests status when rate limit exceeded
+- **2026-10-21T22:10:39+07:00** - [Event #1421] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
