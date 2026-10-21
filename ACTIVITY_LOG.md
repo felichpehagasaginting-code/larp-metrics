@@ -411,3 +411,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T19:55:10+07:00** - [Event #1406] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-21T19:58:33+07:00** - [Event #1407] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-10-21T20:13:01+07:00** - [Event #1408] docs(arch): add design document explaining persistent storage model
+- **2026-10-21T20:22:33+07:00** - [Event #1409] feat(api): implement JSON schema validation middleware with field error mapping
