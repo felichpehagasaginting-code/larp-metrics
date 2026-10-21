@@ -338,3 +338,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T09:43:42+07:00** - [Event #1333] feat(storage): implement atomic transaction rollback on write failure
 - **2026-10-21T09:50:38+07:00** - [Event #1334] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-21T10:03:05+07:00** - [Event #1335] feat(storage): support compressed chunked blob storage format
+- **2026-10-21T10:10:10+07:00** - [Event #1336] test(api): add comprehensive contract test suite for REST endpoints
