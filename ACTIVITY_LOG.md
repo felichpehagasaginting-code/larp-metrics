@@ -426,3 +426,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T22:10:39+07:00** - [Event #1421] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-21T22:19:16+07:00** - [Event #1422] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-21T22:27:41+07:00** - [Event #1423] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-10-21T22:38:19+07:00** - [Event #1424] feat(storage): add snapshot compaction and automated segment garbage collection
