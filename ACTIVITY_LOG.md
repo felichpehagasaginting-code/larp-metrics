@@ -370,3 +370,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T14:07:27+07:00** - [Event #1365] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-10-21T14:18:29+07:00** - [Event #1366] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-21T14:19:08+07:00** - [Event #1367] test(network): test rate limiter burst behavior under load test harness
+- **2026-10-21T14:29:34+07:00** - [Event #1368] fix(api): return 429 Too Many Requests status when rate limit exceeded
