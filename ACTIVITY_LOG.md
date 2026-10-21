@@ -394,3 +394,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T16:25:32+07:00** - [Event #1389] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-21T16:36:45+07:00** - [Event #1390] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-21T16:40:45+07:00** - [Event #1391] docs(readme): add quickstart guide and architecture overview diagram
+- **2026-10-21T16:48:05+07:00** - [Event #1392] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
