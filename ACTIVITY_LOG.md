@@ -376,3 +376,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T14:49:24+07:00** - [Event #1371] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-21T14:51:30+07:00** - [Event #1372] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-21T15:01:51+07:00** - [Event #1373] feat(api): add pagination cursor support for high-cardinality audit logs
+- **2026-10-21T15:04:48+07:00** - [Event #1374] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
