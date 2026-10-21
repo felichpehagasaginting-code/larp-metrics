@@ -366,3 +366,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T13:48:48+07:00** - [Event #1361] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-21T13:52:30+07:00** - [Event #1362] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-21T14:00:37+07:00** - [Event #1363] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
+- **2026-10-21T14:06:03+07:00** - [Event #1364] test(storage): verify cache eviction policy under memory pressure
