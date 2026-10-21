@@ -380,3 +380,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T15:09:29+07:00** - [Event #1375] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-10-21T15:13:41+07:00** - [Event #1376] feat(cli): add daemon mode process manager with PID file tracking
 - **2026-10-21T15:21:37+07:00** - [Event #1377] test(engine): add stress test suite for concurrent event dispatcher
+- **2026-10-21T15:24:55+07:00** - [Event #1378] fix(engine): resolve race condition in worker thread pool task queue
