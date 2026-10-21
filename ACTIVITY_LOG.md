@@ -330,3 +330,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-20T23:37:26+07:00** - [Event #1325] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-21T09:00:19+07:00** - [Event #1326] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-21T09:03:58+07:00** - [Event #1327] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-10-21T09:16:04+07:00** - [Event #1328] fix(api): sanitize input query parameters against wildcard regex DoS
