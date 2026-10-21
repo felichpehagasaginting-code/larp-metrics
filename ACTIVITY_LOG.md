@@ -363,3 +363,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T13:30:04+07:00** - [Event #1358] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-21T13:37:51+07:00** - [Event #1359] feat(cli): add daemon mode process manager with PID file tracking
 - **2026-10-21T13:40:14+07:00** - [Event #1360] feat(storage): support compressed chunked blob storage format
+- **2026-10-21T13:48:48+07:00** - [Event #1361] docs(deploy): document containerized deployment guide with Docker and Helm
