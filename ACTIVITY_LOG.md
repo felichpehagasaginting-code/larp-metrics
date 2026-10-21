@@ -340,3 +340,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T10:03:05+07:00** - [Event #1335] feat(storage): support compressed chunked blob storage format
 - **2026-10-21T10:10:10+07:00** - [Event #1336] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-10-21T10:15:44+07:00** - [Event #1337] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-10-21T10:21:43+07:00** - [Event #1338] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
