@@ -405,3 +405,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T17:30:46+07:00** - [Event #1400] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-21T17:37:18+07:00** - [Event #1401] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-21T19:16:48+07:00** - [Event #1402] feat(api): introduce API key authentication with granular scope permissions
+- **2026-10-21T19:29:48+07:00** - [Event #1403] refactor(storage): modularize WAL serialization codec into dedicated package
