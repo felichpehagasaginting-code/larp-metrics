@@ -364,3 +364,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T13:37:51+07:00** - [Event #1359] feat(cli): add daemon mode process manager with PID file tracking
 - **2026-10-21T13:40:14+07:00** - [Event #1360] feat(storage): support compressed chunked blob storage format
 - **2026-10-21T13:48:48+07:00** - [Event #1361] docs(deploy): document containerized deployment guide with Docker and Helm
+- **2026-10-21T13:52:30+07:00** - [Event #1362] perf(storage): replace JSON marshaling with zero-allocation binary codec
