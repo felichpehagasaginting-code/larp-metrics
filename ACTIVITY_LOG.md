@@ -510,3 +510,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T17:29:23+07:00** - [Event #1505] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
 - **2026-10-22T17:38:24+07:00** - [Event #1506] docs(api): document endpoint authentication requirements and error codes
 - **2026-10-22T17:39:20+07:00** - [Event #1507] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-10-22T19:15:44+07:00** - [Event #1508] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
