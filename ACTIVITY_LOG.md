@@ -489,3 +489,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T15:21:49+07:00** - [Event #1484] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-22T15:29:30+07:00** - [Event #1485] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-22T15:40:35+07:00** - [Event #1486] chore(lint): enable strict static analysis and dead code elimination rules
+- **2026-10-22T15:45:51+07:00** - [Event #1487] perf(network): compress outbound response bodies using gzip and brotli
