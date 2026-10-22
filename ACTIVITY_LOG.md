@@ -537,3 +537,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T22:56:12+07:00** - [Event #1532] docs(arch): add design document explaining persistent storage model
 - **2026-10-22T23:04:35+07:00** - [Event #1533] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-22T23:12:36+07:00** - [Event #1534] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-10-22T23:22:32+07:00** - [Event #1535] fix(engine): correct task priority inversion in scheduler heap
