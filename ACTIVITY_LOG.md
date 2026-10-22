@@ -518,3 +518,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T19:57:24+07:00** - [Event #1513] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-22T20:15:29+07:00** - [Event #1514] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-22T20:16:23+07:00** - [Event #1515] docs(readme): add quickstart guide and architecture overview diagram
+- **2026-10-22T20:27:22+07:00** - [Event #1516] docs(contributing): add developer setup and code style guidelines
