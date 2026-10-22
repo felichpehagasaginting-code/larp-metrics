@@ -509,3 +509,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T17:21:26+07:00** - [Event #1504] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-22T17:29:23+07:00** - [Event #1505] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
 - **2026-10-22T17:38:24+07:00** - [Event #1506] docs(api): document endpoint authentication requirements and error codes
+- **2026-10-22T17:39:20+07:00** - [Event #1507] feat(engine): add adaptive backoff retry strategy for failed event tasks
