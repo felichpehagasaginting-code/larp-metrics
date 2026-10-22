@@ -440,3 +440,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T09:24:00+07:00** - [Event #1435] refactor(network): consolidate HTTP client middleware pipeline handlers
 - **2026-10-22T09:26:11+07:00** - [Event #1436] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-10-22T09:31:05+07:00** - [Event #1437] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-22T09:37:16+07:00** - [Event #1438] feat(cli): support human-readable and JSON output formatters
