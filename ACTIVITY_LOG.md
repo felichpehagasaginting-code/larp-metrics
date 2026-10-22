@@ -516,3 +516,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T19:43:29+07:00** - [Event #1511] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-10-22T19:55:49+07:00** - [Event #1512] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-22T19:57:24+07:00** - [Event #1513] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-10-22T20:15:29+07:00** - [Event #1514] fix(engine): handle SIGTERM signal gracefully during active transaction
