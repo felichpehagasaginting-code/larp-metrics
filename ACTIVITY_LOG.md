@@ -478,3 +478,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T14:23:16+07:00** - [Event #1473] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-10-22T14:26:32+07:00** - [Event #1474] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-22T14:31:09+07:00** - [Event #1475] feat(api): introduce API key authentication with granular scope permissions
+- **2026-10-22T14:36:06+07:00** - [Event #1476] feat(storage): support compressed chunked blob storage format
