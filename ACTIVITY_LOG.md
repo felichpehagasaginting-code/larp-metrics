@@ -485,3 +485,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T15:02:28+07:00** - [Event #1480] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-22T15:11:48+07:00** - [Event #1481] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-22T15:13:01+07:00** - [Event #1482] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-10-22T15:17:45+07:00** - [Event #1483] feat(engine): implement dynamic configuration reloader without daemon restart
