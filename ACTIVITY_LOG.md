@@ -535,3 +535,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T22:41:56+07:00** - [Event #1530] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-22T22:51:52+07:00** - [Event #1531] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-10-22T22:56:12+07:00** - [Event #1532] docs(arch): add design document explaining persistent storage model
+- **2026-10-22T23:04:35+07:00** - [Event #1533] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
