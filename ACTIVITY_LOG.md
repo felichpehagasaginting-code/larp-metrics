@@ -456,3 +456,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T11:07:53+07:00** - [Event #1451] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-22T11:09:15+07:00** - [Event #1452] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-22T11:14:53+07:00** - [Event #1453] test(engine): add fuzzing tests for binary message deserializer
+- **2026-10-22T11:28:37+07:00** - [Event #1454] fix(engine): handle SIGTERM signal gracefully during active transaction
