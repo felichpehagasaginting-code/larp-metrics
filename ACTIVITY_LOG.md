@@ -513,3 +513,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T19:15:44+07:00** - [Event #1508] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-22T19:28:17+07:00** - [Event #1509] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-22T19:33:52+07:00** - [Event #1510] docs(contributing): add developer setup and code style guidelines
+- **2026-10-22T19:43:29+07:00** - [Event #1511] fix(storage): repair index segment corruption on unexpected process kill
