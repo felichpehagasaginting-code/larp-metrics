@@ -458,3 +458,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T11:14:53+07:00** - [Event #1453] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-22T11:28:37+07:00** - [Event #1454] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-22T11:34:36+07:00** - [Event #1455] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-10-22T11:36:14+07:00** - [Event #1456] fix(network): fix TLS handshake failure on legacy certificate authorities
