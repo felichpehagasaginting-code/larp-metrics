@@ -460,3 +460,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T11:34:36+07:00** - [Event #1455] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-22T11:36:14+07:00** - [Event #1456] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-10-22T11:41:42+07:00** - [Event #1457] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-10-22T11:54:41+07:00** - [Event #1458] fix(api): return 429 Too Many Requests status when rate limit exceeded
