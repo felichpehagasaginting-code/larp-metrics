@@ -473,3 +473,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T13:52:22+07:00** - [Event #1468] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-22T14:03:48+07:00** - [Event #1469] chore(git): add ignore rules for temporary build artifacts and test reports
 - **2026-10-22T14:10:19+07:00** - [Event #1470] fix(network): resolve TCP socket half-open state on silent client disconnect
+- **2026-10-22T14:11:56+07:00** - [Event #1471] feat(cli): support human-readable and JSON output formatters
