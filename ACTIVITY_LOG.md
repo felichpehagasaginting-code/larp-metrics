@@ -476,3 +476,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T14:11:56+07:00** - [Event #1471] feat(cli): support human-readable and JSON output formatters
 - **2026-10-22T14:18:24+07:00** - [Event #1472] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-22T14:23:16+07:00** - [Event #1473] fix(api): prevent null pointer dereference on optional metadata attributes
+- **2026-10-22T14:26:32+07:00** - [Event #1474] fix(storage): fix file descriptor leak during rapid log rotation
