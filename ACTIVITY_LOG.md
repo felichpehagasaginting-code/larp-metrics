@@ -526,3 +526,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T21:21:50+07:00** - [Event #1521] chore(deps): update core external dependencies to latest stable patches
 - **2026-10-22T21:30:39+07:00** - [Event #1522] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-22T21:35:01+07:00** - [Event #1523] fix(network): adjust buffer size to prevent MTU packet fragmentation
+- **2026-10-22T21:49:25+07:00** - [Event #1524] test(api): test input validation edge cases with malformed payloads
