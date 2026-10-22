@@ -449,3 +449,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T10:20:30+07:00** - [Event #1444] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-22T10:21:05+07:00** - [Event #1445] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-22T10:35:12+07:00** - [Event #1446] feat(storage): implement append-only persistent WAL log storage driver
+- **2026-10-22T10:42:06+07:00** - [Event #1447] feat(engine): initialize core pipeline event stream architecture
