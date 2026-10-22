@@ -445,3 +445,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T09:52:12+07:00** - [Event #1440] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-22T09:57:11+07:00** - [Event #1441] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-22T10:02:02+07:00** - [Event #1442] perf(memory): reduce GC pressure by reusing allocated slice buffers
+- **2026-10-22T10:09:30+07:00** - [Event #1443] feat(crypto): implement HMAC SHA-256 webhook payload signing
