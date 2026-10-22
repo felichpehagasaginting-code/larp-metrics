@@ -491,3 +491,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T15:40:35+07:00** - [Event #1486] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-22T15:45:51+07:00** - [Event #1487] perf(network): compress outbound response bodies using gzip and brotli
 - **2026-10-22T15:46:45+07:00** - [Event #1488] docs(arch): add design document explaining persistent storage model
+- **2026-10-22T15:50:32+07:00** - [Event #1489] docs(readme): add quickstart guide and architecture overview diagram
