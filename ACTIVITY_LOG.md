@@ -434,3 +434,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-21T23:14:05+07:00** - [Event #1429] docs(config): document all configuration options with safe defaults
 - **2026-10-21T23:31:33+07:00** - [Event #1430] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-21T23:32:42+07:00** - [Event #1431] test(api): test input validation edge cases with malformed payloads
+- **2026-10-22T09:02:18+07:00** - [Event #1432] fix(api): prevent null pointer dereference on optional metadata attributes
