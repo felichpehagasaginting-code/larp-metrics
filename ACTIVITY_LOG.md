@@ -481,3 +481,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T14:36:06+07:00** - [Event #1476] feat(storage): support compressed chunked blob storage format
 - **2026-10-22T14:42:41+07:00** - [Event #1477] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-22T14:48:00+07:00** - [Event #1478] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-22T14:58:44+07:00** - [Event #1479] feat(engine): add adaptive backoff retry strategy for failed event tasks
