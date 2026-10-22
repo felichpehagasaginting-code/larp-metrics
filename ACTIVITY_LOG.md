@@ -495,3 +495,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T16:03:56+07:00** - [Event #1490] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-22T16:06:41+07:00** - [Event #1491] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-22T16:17:05+07:00** - [Event #1492] fix(api): prevent null pointer dereference on optional metadata attributes
+- **2026-10-22T16:20:18+07:00** - [Event #1493] fix(storage): resolve cache stale read anomaly under high concurrency
