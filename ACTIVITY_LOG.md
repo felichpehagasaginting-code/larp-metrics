@@ -447,3 +447,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T10:02:02+07:00** - [Event #1442] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-22T10:09:30+07:00** - [Event #1443] feat(crypto): implement HMAC SHA-256 webhook payload signing
 - **2026-10-22T10:20:30+07:00** - [Event #1444] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-10-22T10:21:05+07:00** - [Event #1445] feat(engine): support distributed tracing with OpenTelemetry context propagation
