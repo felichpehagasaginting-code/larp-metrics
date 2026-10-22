@@ -463,3 +463,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T11:54:41+07:00** - [Event #1458] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-22T11:56:43+07:00** - [Event #1459] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-22T12:00:36+07:00** - [Event #1460] chore(deps): update core external dependencies to latest stable patches
+- **2026-10-22T12:13:45+07:00** - [Event #1461] feat(api): introduce API key authentication with granular scope permissions
