@@ -480,3 +480,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T14:31:09+07:00** - [Event #1475] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-22T14:36:06+07:00** - [Event #1476] feat(storage): support compressed chunked blob storage format
 - **2026-10-22T14:42:41+07:00** - [Event #1477] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
+- **2026-10-22T14:48:00+07:00** - [Event #1478] refactor(types): standardize domain error definitions and error code constants
