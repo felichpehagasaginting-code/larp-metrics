@@ -608,3 +608,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T17:35:00+07:00** - [Event #1603] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-10-23T19:20:38+07:00** - [Event #1604] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-23T19:26:21+07:00** - [Event #1605] docs(deploy): document containerized deployment guide with Docker and Helm
+- **2026-10-23T19:36:44+07:00** - [Event #1606] refactor(storage): modularize WAL serialization codec into dedicated package
