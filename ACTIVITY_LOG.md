@@ -619,3 +619,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T21:01:45+07:00** - [Event #1614] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-10-23T21:05:26+07:00** - [Event #1615] feat(api): implement JSON schema validation middleware with field error mapping
 - **2026-10-23T21:21:05+07:00** - [Event #1616] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-10-23T21:35:00+07:00** - [Event #1617] fix(storage): repair index segment corruption on unexpected process kill
