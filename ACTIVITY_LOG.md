@@ -586,3 +586,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T15:10:26+07:00** - [Event #1581] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-23T15:24:07+07:00** - [Event #1582] feat(storage): implement append-only persistent WAL log storage driver
 - **2026-10-23T15:32:00+07:00** - [Event #1583] test(network): test rate limiter burst behavior under load test harness
+- **2026-10-23T15:33:19+07:00** - [Event #1584] feat(engine): support distributed tracing with OpenTelemetry context propagation
