@@ -564,3 +564,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T11:43:13+07:00** - [Event #1559] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-23T11:56:13+07:00** - [Event #1560] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-23T11:56:43+07:00** - [Event #1561] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-10-23T12:06:20+07:00** - [Event #1562] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
