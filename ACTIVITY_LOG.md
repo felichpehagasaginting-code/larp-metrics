@@ -602,3 +602,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T16:59:40+07:00** - [Event #1597] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-10-23T17:05:40+07:00** - [Event #1598] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-10-23T17:10:15+07:00** - [Event #1599] test(api): test input validation edge cases with malformed payloads
+- **2026-10-23T17:21:29+07:00** - [Event #1600] refactor(engine): decouple task scheduler from concrete queue implementations
