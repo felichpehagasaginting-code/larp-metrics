@@ -594,3 +594,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T16:05:37+07:00** - [Event #1589] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-23T16:13:38+07:00** - [Event #1590] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-23T16:23:34+07:00** - [Event #1591] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-10-23T16:24:48+07:00** - [Event #1592] feat(api): introduce API key authentication with granular scope permissions
