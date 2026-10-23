@@ -625,3 +625,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T22:01:27+07:00** - [Event #1620] feat(storage): implement atomic transaction rollback on write failure
 - **2026-10-23T22:07:24+07:00** - [Event #1621] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-10-23T22:24:52+07:00** - [Event #1622] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-23T22:36:59+07:00** - [Event #1623] feat(engine): add adaptive backoff retry strategy for failed event tasks
