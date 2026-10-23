@@ -539,3 +539,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T23:12:36+07:00** - [Event #1534] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-10-22T23:22:32+07:00** - [Event #1535] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-22T23:40:36+07:00** - [Event #1536] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-10-23T09:00:52+07:00** - [Event #1537] feat(cli): support human-readable and JSON output formatters
