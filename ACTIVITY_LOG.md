@@ -604,3 +604,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T17:10:15+07:00** - [Event #1599] test(api): test input validation edge cases with malformed payloads
 - **2026-10-23T17:21:29+07:00** - [Event #1600] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-10-23T17:24:34+07:00** - [Event #1601] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-23T17:27:23+07:00** - [Event #1602] test(engine): test worker recovery after simulated unhandled panic
