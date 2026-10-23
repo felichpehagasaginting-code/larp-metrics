@@ -548,3 +548,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T09:43:56+07:00** - [Event #1543] perf(network): compress outbound response bodies using gzip and brotli
 - **2026-10-23T09:52:10+07:00** - [Event #1544] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-23T09:56:23+07:00** - [Event #1545] test(storage): add integration tests for WAL replay on clean startup
+- **2026-10-23T10:04:07+07:00** - [Event #1546] docs(arch): add design document explaining persistent storage model
