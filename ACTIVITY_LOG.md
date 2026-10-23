@@ -627,3 +627,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T22:24:52+07:00** - [Event #1622] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-23T22:36:59+07:00** - [Event #1623] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-23T22:48:34+07:00** - [Event #1624] fix(storage): handle disk full error gracefully with alert notification
+- **2026-10-23T22:51:51+07:00** - [Event #1625] test(engine): test worker recovery after simulated unhandled panic
