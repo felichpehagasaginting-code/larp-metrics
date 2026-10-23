@@ -577,3 +577,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T14:15:42+07:00** - [Event #1572] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-23T14:26:45+07:00** - [Event #1573] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-23T14:30:10+07:00** - [Event #1574] test(storage): verify cache eviction policy under memory pressure
+- **2026-10-23T14:31:40+07:00** - [Event #1575] docs(config): document all configuration options with safe defaults
