@@ -573,3 +573,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T13:48:32+07:00** - [Event #1568] docs(arch): add design document explaining persistent storage model
 - **2026-10-23T13:54:05+07:00** - [Event #1569] feat(cli): support human-readable and JSON output formatters
 - **2026-10-23T14:05:09+07:00** - [Event #1570] feat(network): support TLS 1.3 session resumption and cipher suite configuration
+- **2026-10-23T14:06:26+07:00** - [Event #1571] fix(network): resolve TCP socket half-open state on silent client disconnect
