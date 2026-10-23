@@ -552,3 +552,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T10:14:00+07:00** - [Event #1547] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-10-23T10:22:30+07:00** - [Event #1548] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-10-23T10:31:08+07:00** - [Event #1549] feat(engine): initialize core pipeline event stream architecture
+- **2026-10-23T10:42:24+07:00** - [Event #1550] fix(engine): correct task priority inversion in scheduler heap
