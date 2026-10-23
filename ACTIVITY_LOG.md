@@ -562,3 +562,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T11:30:12+07:00** - [Event #1557] chore(deps): update core external dependencies to latest stable patches
 - **2026-10-23T11:40:42+07:00** - [Event #1558] feat(engine): implement dynamic configuration reloader without daemon restart
 - **2026-10-23T11:43:13+07:00** - [Event #1559] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-10-23T11:56:13+07:00** - [Event #1560] feat(storage): add snapshot compaction and automated segment garbage collection
