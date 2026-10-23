@@ -591,3 +591,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T15:46:12+07:00** - [Event #1586] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-23T15:53:31+07:00** - [Event #1587] refactor(config): group environment variables into validated config structs
 - **2026-10-23T15:56:57+07:00** - [Event #1588] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-23T16:05:37+07:00** - [Event #1589] test(network): test rate limiter burst behavior under load test harness
