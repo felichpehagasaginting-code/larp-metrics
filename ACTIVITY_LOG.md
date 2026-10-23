@@ -558,3 +558,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T10:59:49+07:00** - [Event #1553] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-23T11:10:16+07:00** - [Event #1554] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-23T11:18:19+07:00** - [Event #1555] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-10-23T11:24:15+07:00** - [Event #1556] docs(readme): add quickstart guide and architecture overview diagram
