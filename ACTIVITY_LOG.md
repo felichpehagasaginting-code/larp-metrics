@@ -543,3 +543,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T09:04:55+07:00** - [Event #1538] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-23T09:14:49+07:00** - [Event #1539] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-23T09:26:40+07:00** - [Event #1540] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-10-23T09:33:04+07:00** - [Event #1541] fix(network): adjust buffer size to prevent MTU packet fragmentation
