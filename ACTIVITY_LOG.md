@@ -571,3 +571,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T13:35:14+07:00** - [Event #1566] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-23T13:46:05+07:00** - [Event #1567] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-23T13:48:32+07:00** - [Event #1568] docs(arch): add design document explaining persistent storage model
+- **2026-10-23T13:54:05+07:00** - [Event #1569] feat(cli): support human-readable and JSON output formatters
