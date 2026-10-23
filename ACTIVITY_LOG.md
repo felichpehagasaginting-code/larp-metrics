@@ -609,3 +609,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T19:20:38+07:00** - [Event #1604] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-23T19:26:21+07:00** - [Event #1605] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-23T19:36:44+07:00** - [Event #1606] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-10-23T19:51:56+07:00** - [Event #1607] feat(engine): add adaptive backoff retry strategy for failed event tasks
