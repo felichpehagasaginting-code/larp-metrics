@@ -596,3 +596,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T16:23:34+07:00** - [Event #1591] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-23T16:24:48+07:00** - [Event #1592] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-23T16:33:57+07:00** - [Event #1593] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-23T16:35:13+07:00** - [Event #1594] feat(network): introduce token bucket rate limiter with IP subnet bursting
