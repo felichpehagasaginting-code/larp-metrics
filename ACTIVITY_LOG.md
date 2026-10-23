@@ -574,3 +574,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T13:54:05+07:00** - [Event #1569] feat(cli): support human-readable and JSON output formatters
 - **2026-10-23T14:05:09+07:00** - [Event #1570] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-23T14:06:26+07:00** - [Event #1571] fix(network): resolve TCP socket half-open state on silent client disconnect
+- **2026-10-23T14:15:42+07:00** - [Event #1572] test(storage): add integration tests for WAL replay on clean startup
