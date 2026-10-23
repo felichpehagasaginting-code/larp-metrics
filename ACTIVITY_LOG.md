@@ -581,3 +581,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T14:39:22+07:00** - [Event #1576] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-23T14:44:41+07:00** - [Event #1577] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-23T14:53:49+07:00** - [Event #1578] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-10-23T15:00:26+07:00** - [Event #1579] feat(network): support TLS 1.3 session resumption and cipher suite configuration
