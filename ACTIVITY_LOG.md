@@ -560,3 +560,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T11:18:19+07:00** - [Event #1555] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-23T11:24:15+07:00** - [Event #1556] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-23T11:30:12+07:00** - [Event #1557] chore(deps): update core external dependencies to latest stable patches
+- **2026-10-23T11:40:42+07:00** - [Event #1558] feat(engine): implement dynamic configuration reloader without daemon restart
