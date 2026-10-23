@@ -550,3 +550,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T09:56:23+07:00** - [Event #1545] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-23T10:04:07+07:00** - [Event #1546] docs(arch): add design document explaining persistent storage model
 - **2026-10-23T10:14:00+07:00** - [Event #1547] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-10-23T10:22:30+07:00** - [Event #1548] feat(crypto): add ED25519 asymmetric signature verification utility
