@@ -541,3 +541,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-22T23:40:36+07:00** - [Event #1536] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-10-23T09:00:52+07:00** - [Event #1537] feat(cli): support human-readable and JSON output formatters
 - **2026-10-23T09:04:55+07:00** - [Event #1538] perf(storage): batch sequential disk write operations into memory ring buffer
+- **2026-10-23T09:14:49+07:00** - [Event #1539] feat(api): introduce API key authentication with granular scope permissions
