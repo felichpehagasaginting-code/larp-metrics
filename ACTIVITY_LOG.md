@@ -702,3 +702,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T16:22:12+07:00** - [Event #1697] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-10-24T16:31:24+07:00** - [Event #1698] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-24T16:33:52+07:00** - [Event #1699] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
+- **2026-10-24T16:39:39+07:00** - [Event #1700] fix(network): fix DNS lookup timeout under slow upstream resolver
