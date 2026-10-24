@@ -732,3 +732,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T21:19:17+07:00** - [Event #1727] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-24T21:25:20+07:00** - [Event #1728] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-24T21:41:40+07:00** - [Event #1729] chore(lint): enable strict static analysis and dead code elimination rules
+- **2026-10-24T21:49:34+07:00** - [Event #1730] docs(deploy): document containerized deployment guide with Docker and Helm
