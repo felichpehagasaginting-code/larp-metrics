@@ -640,3 +640,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T09:29:29+07:00** - [Event #1635] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-24T09:37:53+07:00** - [Event #1636] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-24T09:40:51+07:00** - [Event #1637] feat(engine): implement high-throughput asynchronous batch processor
+- **2026-10-24T09:48:31+07:00** - [Event #1638] fix(api): adjust CORS allowed origins header for multi-tenant domains
