@@ -743,3 +743,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T22:58:13+07:00** - [Event #1738] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-24T23:01:14+07:00** - [Event #1739] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-24T23:07:19+07:00** - [Event #1740] feat(crypto): implement HMAC SHA-256 webhook payload signing
+- **2026-10-24T23:23:42+07:00** - [Event #1741] feat(engine): add resilient circuit breaker for external service calls
