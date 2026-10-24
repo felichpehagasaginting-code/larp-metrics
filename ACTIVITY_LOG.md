@@ -734,3 +734,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T21:41:40+07:00** - [Event #1729] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-24T21:49:34+07:00** - [Event #1730] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-24T21:58:02+07:00** - [Event #1731] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-10-24T22:02:56+07:00** - [Event #1732] feat(api): introduce API key authentication with granular scope permissions
