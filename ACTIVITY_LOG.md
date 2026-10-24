@@ -663,3 +663,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T11:52:49+07:00** - [Event #1658] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-24T12:00:09+07:00** - [Event #1659] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-24T12:03:47+07:00** - [Event #1660] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-10-24T12:07:22+07:00** - [Event #1661] chore(git): add ignore rules for temporary build artifacts and test reports
