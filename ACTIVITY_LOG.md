@@ -632,3 +632,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-23T23:15:40+07:00** - [Event #1627] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-10-23T23:21:18+07:00** - [Event #1628] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-23T23:38:18+07:00** - [Event #1629] feat(storage): implement append-only persistent WAL log storage driver
+- **2026-10-24T09:00:36+07:00** - [Event #1630] perf(storage): replace JSON marshaling with zero-allocation binary codec
