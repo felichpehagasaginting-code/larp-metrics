@@ -658,3 +658,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T11:26:10+07:00** - [Event #1653] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-24T11:26:57+07:00** - [Event #1654] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-24T11:36:12+07:00** - [Event #1655] fix(api): return 429 Too Many Requests status when rate limit exceeded
+- **2026-10-24T11:37:42+07:00** - [Event #1656] fix(network): adjust buffer size to prevent MTU packet fragmentation
