@@ -698,3 +698,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T16:03:19+07:00** - [Event #1693] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-24T16:11:54+07:00** - [Event #1694] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-10-24T16:20:17+07:00** - [Event #1695] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-24T16:20:52+07:00** - [Event #1696] feat(network): introduce token bucket rate limiter with IP subnet bursting
