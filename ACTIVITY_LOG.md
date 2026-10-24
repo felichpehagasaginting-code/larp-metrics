@@ -740,3 +740,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T22:29:55+07:00** - [Event #1735] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-24T22:41:12+07:00** - [Event #1736] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-24T22:48:50+07:00** - [Event #1737] docs(contributing): add developer setup and code style guidelines
+- **2026-10-24T22:58:13+07:00** - [Event #1738] refactor(engine): migrate event dispatcher to observer pub-sub pattern
