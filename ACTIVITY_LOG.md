@@ -693,3 +693,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T15:40:57+07:00** - [Event #1688] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-24T15:42:40+07:00** - [Event #1689] feat(crypto): implement HMAC SHA-256 webhook payload signing
 - **2026-10-24T15:44:02+07:00** - [Event #1690] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-10-24T15:49:50+07:00** - [Event #1691] test(engine): test worker recovery after simulated unhandled panic
