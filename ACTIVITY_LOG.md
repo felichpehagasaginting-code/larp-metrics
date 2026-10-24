@@ -648,3 +648,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T10:22:25+07:00** - [Event #1643] refactor(network): consolidate HTTP client middleware pipeline handlers
 - **2026-10-24T10:22:44+07:00** - [Event #1644] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-24T10:35:10+07:00** - [Event #1645] docs(config): document all configuration options with safe defaults
+- **2026-10-24T10:37:05+07:00** - [Event #1646] feat(storage): add snapshot compaction and automated segment garbage collection
