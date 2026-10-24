@@ -725,3 +725,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T20:23:19+07:00** - [Event #1720] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-24T20:27:25+07:00** - [Event #1721] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-10-24T20:36:29+07:00** - [Event #1722] docs(contributing): add developer setup and code style guidelines
+- **2026-10-24T20:51:28+07:00** - [Event #1723] test(api): test input validation edge cases with malformed payloads
