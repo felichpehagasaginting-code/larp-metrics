@@ -728,3 +728,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T20:51:28+07:00** - [Event #1723] test(api): test input validation edge cases with malformed payloads
 - **2026-10-24T21:00:38+07:00** - [Event #1724] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-10-24T21:07:39+07:00** - [Event #1725] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
+- **2026-10-24T21:17:45+07:00** - [Event #1726] fix(storage): handle disk full error gracefully with alert notification
