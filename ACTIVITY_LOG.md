@@ -711,3 +711,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T17:10:26+07:00** - [Event #1706] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-24T17:17:38+07:00** - [Event #1707] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-24T17:24:03+07:00** - [Event #1708] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-24T17:24:14+07:00** - [Event #1709] test(api): test input validation edge cases with malformed payloads
