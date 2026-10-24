@@ -687,3 +687,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T15:04:16+07:00** - [Event #1682] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-10-24T15:10:22+07:00** - [Event #1683] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-10-24T15:16:39+07:00** - [Event #1684] feat(storage): implement append-only persistent WAL log storage driver
+- **2026-10-24T15:26:16+07:00** - [Event #1685] feat(cli): support human-readable and JSON output formatters
