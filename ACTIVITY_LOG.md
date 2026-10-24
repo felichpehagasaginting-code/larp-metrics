@@ -731,3 +731,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T21:17:45+07:00** - [Event #1726] fix(storage): handle disk full error gracefully with alert notification
 - **2026-10-24T21:19:17+07:00** - [Event #1727] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-24T21:25:20+07:00** - [Event #1728] feat(api): introduce API key authentication with granular scope permissions
+- **2026-10-24T21:41:40+07:00** - [Event #1729] chore(lint): enable strict static analysis and dead code elimination rules
