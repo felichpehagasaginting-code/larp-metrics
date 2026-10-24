@@ -718,3 +718,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T19:26:37+07:00** - [Event #1713] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-24T19:30:07+07:00** - [Event #1714] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-10-24T19:45:45+07:00** - [Event #1715] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-10-24T19:54:57+07:00** - [Event #1716] fix(network): fix DNS lookup timeout under slow upstream resolver
