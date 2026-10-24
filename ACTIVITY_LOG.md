@@ -666,3 +666,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T12:07:22+07:00** - [Event #1661] chore(git): add ignore rules for temporary build artifacts and test reports
 - **2026-10-24T12:17:12+07:00** - [Event #1662] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-24T12:23:17+07:00** - [Event #1663] feat(api): add pagination cursor support for high-cardinality audit logs
+- **2026-10-24T13:30:00+07:00** - [Event #1664] fix(engine): correct task priority inversion in scheduler heap
