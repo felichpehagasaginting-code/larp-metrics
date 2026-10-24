@@ -696,3 +696,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T15:49:50+07:00** - [Event #1691] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-24T15:56:47+07:00** - [Event #1692] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-24T16:03:19+07:00** - [Event #1693] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-10-24T16:11:54+07:00** - [Event #1694] fix(network): adjust buffer size to prevent MTU packet fragmentation
