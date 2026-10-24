@@ -655,3 +655,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T11:01:24+07:00** - [Event #1650] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-24T11:13:02+07:00** - [Event #1651] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-24T11:19:04+07:00** - [Event #1652] fix(engine): correct task priority inversion in scheduler heap
+- **2026-10-24T11:26:10+07:00** - [Event #1653] perf(memory): reduce GC pressure by reusing allocated slice buffers
