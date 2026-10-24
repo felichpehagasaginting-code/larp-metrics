@@ -667,3 +667,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T12:17:12+07:00** - [Event #1662] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-24T12:23:17+07:00** - [Event #1663] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-24T13:30:00+07:00** - [Event #1664] fix(engine): correct task priority inversion in scheduler heap
+- **2026-10-24T13:40:08+07:00** - [Event #1665] refactor(engine): migrate event dispatcher to observer pub-sub pattern
