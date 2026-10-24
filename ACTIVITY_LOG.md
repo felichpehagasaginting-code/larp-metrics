@@ -653,3 +653,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T10:55:17+07:00** - [Event #1648] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-24T10:59:14+07:00** - [Event #1649] refactor(config): group environment variables into validated config structs
 - **2026-10-24T11:01:24+07:00** - [Event #1650] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-24T11:13:02+07:00** - [Event #1651] fix(engine): handle SIGTERM signal gracefully during active transaction
