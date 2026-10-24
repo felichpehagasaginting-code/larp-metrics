@@ -721,3 +721,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T19:54:57+07:00** - [Event #1716] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-24T19:55:30+07:00** - [Event #1717] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-24T20:02:35+07:00** - [Event #1718] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-10-24T20:11:48+07:00** - [Event #1719] feat(engine): implement dynamic configuration reloader without daemon restart
