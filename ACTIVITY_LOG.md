@@ -684,3 +684,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T14:52:36+07:00** - [Event #1679] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-24T14:57:37+07:00** - [Event #1680] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-10-24T15:01:35+07:00** - [Event #1681] refactor(network): replace raw socket handling with stream abstractions
+- **2026-10-24T15:04:16+07:00** - [Event #1682] fix(network): adjust buffer size to prevent MTU packet fragmentation
