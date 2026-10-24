@@ -708,3 +708,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T16:54:05+07:00** - [Event #1703] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-24T16:58:17+07:00** - [Event #1704] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-24T17:09:59+07:00** - [Event #1705] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-10-24T17:10:26+07:00** - [Event #1706] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
