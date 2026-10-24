@@ -710,3 +710,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T17:09:59+07:00** - [Event #1705] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-24T17:10:26+07:00** - [Event #1706] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-24T17:17:38+07:00** - [Event #1707] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-10-24T17:24:03+07:00** - [Event #1708] refactor(types): standardize domain error definitions and error code constants
