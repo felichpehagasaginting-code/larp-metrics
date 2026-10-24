@@ -729,3 +729,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T21:00:38+07:00** - [Event #1724] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-10-24T21:07:39+07:00** - [Event #1725] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-24T21:17:45+07:00** - [Event #1726] fix(storage): handle disk full error gracefully with alert notification
+- **2026-10-24T21:19:17+07:00** - [Event #1727] perf(storage): replace JSON marshaling with zero-allocation binary codec
