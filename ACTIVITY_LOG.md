@@ -704,3 +704,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T16:33:52+07:00** - [Event #1699] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-24T16:39:39+07:00** - [Event #1700] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-24T16:51:31+07:00** - [Event #1701] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-24T16:53:27+07:00** - [Event #1702] refactor(types): standardize domain error definitions and error code constants
