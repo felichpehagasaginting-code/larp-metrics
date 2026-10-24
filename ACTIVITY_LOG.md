@@ -637,3 +637,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T09:16:02+07:00** - [Event #1632] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-24T09:17:01+07:00** - [Event #1633] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-24T09:22:16+07:00** - [Event #1634] test(engine): add fuzzing tests for binary message deserializer
+- **2026-10-24T09:29:29+07:00** - [Event #1635] fix(api): return 429 Too Many Requests status when rate limit exceeded
