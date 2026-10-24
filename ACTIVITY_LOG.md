@@ -723,3 +723,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T20:02:35+07:00** - [Event #1718] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-24T20:11:48+07:00** - [Event #1719] feat(engine): implement dynamic configuration reloader without daemon restart
 - **2026-10-24T20:23:19+07:00** - [Event #1720] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-10-24T20:27:25+07:00** - [Event #1721] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
