@@ -651,3 +651,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T10:37:05+07:00** - [Event #1646] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-24T10:46:09+07:00** - [Event #1647] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-24T10:55:17+07:00** - [Event #1648] test(storage): add integration tests for WAL replay on clean startup
+- **2026-10-24T10:59:14+07:00** - [Event #1649] refactor(config): group environment variables into validated config structs
