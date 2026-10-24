@@ -679,3 +679,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T14:20:26+07:00** - [Event #1674] feat(storage): support compressed chunked blob storage format
 - **2026-10-24T14:31:07+07:00** - [Event #1675] feat(storage): support compressed chunked blob storage format
 - **2026-10-24T14:36:30+07:00** - [Event #1676] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
+- **2026-10-24T14:43:28+07:00** - [Event #1677] fix(api): sanitize input query parameters against wildcard regex DoS
