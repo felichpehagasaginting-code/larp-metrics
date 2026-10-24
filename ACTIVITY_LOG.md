@@ -677,3 +677,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T14:08:41+07:00** - [Event #1672] feat(api): implement JSON schema validation middleware with field error mapping
 - **2026-10-24T14:13:22+07:00** - [Event #1673] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-24T14:20:26+07:00** - [Event #1674] feat(storage): support compressed chunked blob storage format
+- **2026-10-24T14:31:07+07:00** - [Event #1675] feat(storage): support compressed chunked blob storage format
