@@ -670,3 +670,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T13:40:08+07:00** - [Event #1665] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-24T13:43:19+07:00** - [Event #1666] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-24T13:45:40+07:00** - [Event #1667] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-10-24T13:49:08+07:00** - [Event #1668] feat(storage): add snapshot compaction and automated segment garbage collection
