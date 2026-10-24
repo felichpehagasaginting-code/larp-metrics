@@ -668,3 +668,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T12:23:17+07:00** - [Event #1663] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-24T13:30:00+07:00** - [Event #1664] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-24T13:40:08+07:00** - [Event #1665] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-24T13:43:19+07:00** - [Event #1666] fix(storage): fix file descriptor leak during rapid log rotation
