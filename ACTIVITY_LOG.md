@@ -789,3 +789,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T13:50:57+07:00** - [Event #1784] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-25T13:53:56+07:00** - [Event #1785] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-25T14:02:04+07:00** - [Event #1786] perf(storage): replace JSON marshaling with zero-allocation binary codec
+- **2026-10-25T14:05:13+07:00** - [Event #1787] feat(engine): add adaptive backoff retry strategy for failed event tasks
