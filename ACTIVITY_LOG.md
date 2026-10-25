@@ -803,3 +803,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T15:01:14+07:00** - [Event #1798] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-10-25T15:09:20+07:00** - [Event #1799] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-10-25T15:10:46+07:00** - [Event #1800] fix(storage): handle disk full error gracefully with alert notification
+- **2026-10-25T15:15:00+07:00** - [Event #1801] docs(arch): add design document explaining persistent storage model
