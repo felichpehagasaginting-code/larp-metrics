@@ -800,3 +800,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T14:44:04+07:00** - [Event #1795] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-25T14:51:05+07:00** - [Event #1796] docs(config): document all configuration options with safe defaults
 - **2026-10-25T14:53:07+07:00** - [Event #1797] test(engine): add fuzzing tests for binary message deserializer
+- **2026-10-25T15:01:14+07:00** - [Event #1798] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
