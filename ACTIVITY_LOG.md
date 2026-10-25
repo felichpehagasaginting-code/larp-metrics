@@ -830,3 +830,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T17:10:36+07:00** - [Event #1825] chore(git): add ignore rules for temporary build artifacts and test reports
 - **2026-10-25T17:19:05+07:00** - [Event #1826] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-25T17:26:20+07:00** - [Event #1827] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-10-25T17:28:38+07:00** - [Event #1828] fix(network): adjust buffer size to prevent MTU packet fragmentation
