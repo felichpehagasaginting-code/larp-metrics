@@ -849,3 +849,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T20:56:34+07:00** - [Event #1844] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-25T21:04:07+07:00** - [Event #1845] refactor(engine): simplify worker state machine transitions and error states
 - **2026-10-25T21:15:17+07:00** - [Event #1846] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-25T21:18:37+07:00** - [Event #1847] perf(storage): batch sequential disk write operations into memory ring buffer
