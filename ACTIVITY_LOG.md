@@ -834,3 +834,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T17:36:06+07:00** - [Event #1829] feat(network): implement graceful connection draining on shutdown signal
 - **2026-10-25T17:44:39+07:00** - [Event #1830] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-25T19:15:52+07:00** - [Event #1831] feat(engine): support distributed tracing with OpenTelemetry context propagation
+- **2026-10-25T19:27:21+07:00** - [Event #1832] fix(engine): resolve race condition in worker thread pool task queue
