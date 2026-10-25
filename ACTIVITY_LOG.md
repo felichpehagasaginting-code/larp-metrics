@@ -760,3 +760,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T10:05:38+07:00** - [Event #1755] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-10-25T10:08:58+07:00** - [Event #1756] feat(storage): implement append-only persistent WAL log storage driver
 - **2026-10-25T10:17:14+07:00** - [Event #1757] docs(config): document all configuration options with safe defaults
+- **2026-10-25T10:23:48+07:00** - [Event #1758] fix(engine): correct task priority inversion in scheduler heap
