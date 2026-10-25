@@ -835,3 +835,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T17:44:39+07:00** - [Event #1830] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-25T19:15:52+07:00** - [Event #1831] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-25T19:27:21+07:00** - [Event #1832] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-10-25T19:34:07+07:00** - [Event #1833] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
