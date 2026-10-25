@@ -780,3 +780,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T12:05:23+07:00** - [Event #1775] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-25T12:06:11+07:00** - [Event #1776] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-25T12:12:49+07:00** - [Event #1777] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-25T12:15:07+07:00** - [Event #1778] fix(storage): handle disk full error gracefully with alert notification
