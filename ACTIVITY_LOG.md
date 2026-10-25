@@ -775,3 +775,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T11:31:56+07:00** - [Event #1770] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-25T11:34:26+07:00** - [Event #1771] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-10-25T11:42:34+07:00** - [Event #1772] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-25T11:51:06+07:00** - [Event #1773] fix(engine): resolve race condition in worker thread pool task queue
