@@ -853,3 +853,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T21:30:26+07:00** - [Event #1848] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-10-25T21:34:02+07:00** - [Event #1849] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-25T21:41:42+07:00** - [Event #1850] fix(network): prevent HTTP response header injection via unescaped cookies
+- **2026-10-25T21:56:38+07:00** - [Event #1851] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
