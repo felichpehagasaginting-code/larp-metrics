@@ -749,3 +749,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T09:00:58+07:00** - [Event #1744] docs(contributing): add developer setup and code style guidelines
 - **2026-10-25T09:03:05+07:00** - [Event #1745] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-25T09:12:37+07:00** - [Event #1746] feat(storage): support compressed chunked blob storage format
+- **2026-10-25T09:16:32+07:00** - [Event #1747] chore(lint): enable strict static analysis and dead code elimination rules
