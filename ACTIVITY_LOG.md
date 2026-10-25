@@ -799,3 +799,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T14:38:21+07:00** - [Event #1794] test(api): test input validation edge cases with malformed payloads
 - **2026-10-25T14:44:04+07:00** - [Event #1795] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-25T14:51:05+07:00** - [Event #1796] docs(config): document all configuration options with safe defaults
+- **2026-10-25T14:53:07+07:00** - [Event #1797] test(engine): add fuzzing tests for binary message deserializer
