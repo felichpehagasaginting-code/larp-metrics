@@ -813,3 +813,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T15:50:17+07:00** - [Event #1808] test(api): test input validation edge cases with malformed payloads
 - **2026-10-25T15:59:48+07:00** - [Event #1809] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-25T16:02:25+07:00** - [Event #1810] test(network): add mock server tests for HTTP client retry policies
+- **2026-10-25T16:05:48+07:00** - [Event #1811] fix(storage): fix file descriptor leak during rapid log rotation
