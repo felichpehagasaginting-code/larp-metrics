@@ -814,3 +814,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T15:59:48+07:00** - [Event #1809] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-25T16:02:25+07:00** - [Event #1810] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-25T16:05:48+07:00** - [Event #1811] fix(storage): fix file descriptor leak during rapid log rotation
+- **2026-10-25T16:10:57+07:00** - [Event #1812] fix(network): fix DNS lookup timeout under slow upstream resolver
