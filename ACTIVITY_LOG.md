@@ -846,3 +846,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T20:35:11+07:00** - [Event #1841] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-25T20:37:54+07:00** - [Event #1842] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-25T20:47:39+07:00** - [Event #1843] feat(engine): implement dynamic configuration reloader without daemon restart
+- **2026-10-25T20:56:34+07:00** - [Event #1844] refactor(engine): migrate event dispatcher to observer pub-sub pattern
