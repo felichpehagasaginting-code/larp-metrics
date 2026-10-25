@@ -762,3 +762,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T10:17:14+07:00** - [Event #1757] docs(config): document all configuration options with safe defaults
 - **2026-10-25T10:23:48+07:00** - [Event #1758] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-25T10:29:57+07:00** - [Event #1759] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-10-25T10:32:36+07:00** - [Event #1760] test(engine): test worker recovery after simulated unhandled panic
