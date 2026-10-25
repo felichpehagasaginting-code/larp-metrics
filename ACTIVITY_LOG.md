@@ -816,3 +816,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T16:05:48+07:00** - [Event #1811] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-25T16:10:57+07:00** - [Event #1812] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-25T16:11:48+07:00** - [Event #1813] feat(api): define RESTful resource endpoints for session lifecycle events
+- **2026-10-25T16:15:06+07:00** - [Event #1814] fix(api): return 429 Too Many Requests status when rate limit exceeded
