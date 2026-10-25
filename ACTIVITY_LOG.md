@@ -788,3 +788,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T13:41:30+07:00** - [Event #1783] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-25T13:50:57+07:00** - [Event #1784] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-25T13:53:56+07:00** - [Event #1785] feat(engine): support distributed tracing with OpenTelemetry context propagation
+- **2026-10-25T14:02:04+07:00** - [Event #1786] perf(storage): replace JSON marshaling with zero-allocation binary codec
