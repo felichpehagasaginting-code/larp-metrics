@@ -861,3 +861,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T22:32:57+07:00** - [Event #1856] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-25T22:44:52+07:00** - [Event #1857] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-25T22:46:16+07:00** - [Event #1858] refactor(config): group environment variables into validated config structs
+- **2026-10-25T23:01:07+07:00** - [Event #1859] fix(api): sanitize input query parameters against wildcard regex DoS
