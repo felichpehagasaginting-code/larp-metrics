@@ -777,3 +777,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T11:42:34+07:00** - [Event #1772] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-25T11:51:06+07:00** - [Event #1773] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-25T11:52:32+07:00** - [Event #1774] docs(deploy): document containerized deployment guide with Docker and Helm
+- **2026-10-25T12:05:23+07:00** - [Event #1775] test(engine): test worker recovery after simulated unhandled panic
