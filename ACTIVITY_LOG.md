@@ -784,3 +784,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T12:27:44+07:00** - [Event #1779] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-10-25T13:30:18+07:00** - [Event #1780] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-25T13:34:51+07:00** - [Event #1781] feat(cli): implement interactive terminal progress spinner and progress bar
+- **2026-10-25T13:40:36+07:00** - [Event #1782] fix(engine): fix memory leak from unclosed event emitter subscriptions
