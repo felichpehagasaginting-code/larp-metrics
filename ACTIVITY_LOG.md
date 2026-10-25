@@ -786,3 +786,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T13:34:51+07:00** - [Event #1781] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-10-25T13:40:36+07:00** - [Event #1782] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-25T13:41:30+07:00** - [Event #1783] fix(api): return 429 Too Many Requests status when rate limit exceeded
+- **2026-10-25T13:50:57+07:00** - [Event #1784] fix(engine): fix memory leak from unclosed event emitter subscriptions
