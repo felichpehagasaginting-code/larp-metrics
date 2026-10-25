@@ -767,3 +767,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T10:42:38+07:00** - [Event #1762] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-25T10:54:21+07:00** - [Event #1763] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-25T10:58:58+07:00** - [Event #1764] refactor(engine): simplify worker state machine transitions and error states
+- **2026-10-25T11:00:58+07:00** - [Event #1765] refactor(storage): extract storage backend interface for pluggable drivers
