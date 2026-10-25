@@ -795,3 +795,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T14:23:14+07:00** - [Event #1790] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-25T14:23:27+07:00** - [Event #1791] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-25T14:35:43+07:00** - [Event #1792] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-10-25T14:37:19+07:00** - [Event #1793] docs(readme): add quickstart guide and architecture overview diagram
