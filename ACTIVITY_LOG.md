@@ -792,3 +792,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T14:05:13+07:00** - [Event #1787] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-25T14:14:40+07:00** - [Event #1788] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-25T14:19:38+07:00** - [Event #1789] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-10-25T14:23:14+07:00** - [Event #1790] feat(engine): support distributed tracing with OpenTelemetry context propagation
