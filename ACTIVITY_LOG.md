@@ -746,3 +746,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-24T23:23:42+07:00** - [Event #1741] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-24T23:27:19+07:00** - [Event #1742] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-24T23:41:11+07:00** - [Event #1743] docs(arch): add design document explaining persistent storage model
+- **2026-10-25T09:00:58+07:00** - [Event #1744] docs(contributing): add developer setup and code style guidelines
