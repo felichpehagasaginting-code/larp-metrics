@@ -851,3 +851,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T21:15:17+07:00** - [Event #1846] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-25T21:18:37+07:00** - [Event #1847] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-25T21:30:26+07:00** - [Event #1848] feat(cli): implement interactive terminal progress spinner and progress bar
+- **2026-10-25T21:34:02+07:00** - [Event #1849] fix(engine): fix memory leak from unclosed event emitter subscriptions
