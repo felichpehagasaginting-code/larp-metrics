@@ -819,3 +819,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T16:15:06+07:00** - [Event #1814] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-25T16:25:36+07:00** - [Event #1815] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-10-25T16:32:25+07:00** - [Event #1816] feat(network): add gRPC service definition and protobuf serialization stubs
+- **2026-10-25T16:33:06+07:00** - [Event #1817] perf(memory): reduce GC pressure by reusing allocated slice buffers
