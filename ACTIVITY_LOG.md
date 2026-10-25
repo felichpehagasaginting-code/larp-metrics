@@ -769,3 +769,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T10:58:58+07:00** - [Event #1764] refactor(engine): simplify worker state machine transitions and error states
 - **2026-10-25T11:00:58+07:00** - [Event #1765] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-25T11:08:44+07:00** - [Event #1766] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-25T11:11:37+07:00** - [Event #1767] feat(network): implement graceful connection draining on shutdown signal
