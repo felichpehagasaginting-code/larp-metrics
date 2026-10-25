@@ -754,3 +754,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T09:32:27+07:00** - [Event #1749] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-25T09:38:19+07:00** - [Event #1750] test(api): test input validation edge cases with malformed payloads
 - **2026-10-25T09:40:01+07:00** - [Event #1751] chore(lint): enable strict static analysis and dead code elimination rules
+- **2026-10-25T09:46:18+07:00** - [Event #1752] feat(storage): implement atomic transaction rollback on write failure
