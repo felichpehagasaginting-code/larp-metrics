@@ -817,3 +817,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T16:10:57+07:00** - [Event #1812] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-25T16:11:48+07:00** - [Event #1813] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-25T16:15:06+07:00** - [Event #1814] fix(api): return 429 Too Many Requests status when rate limit exceeded
+- **2026-10-25T16:25:36+07:00** - [Event #1815] fix(network): resolve TCP socket half-open state on silent client disconnect
