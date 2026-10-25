@@ -820,3 +820,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T16:25:36+07:00** - [Event #1815] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-10-25T16:32:25+07:00** - [Event #1816] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-25T16:33:06+07:00** - [Event #1817] perf(memory): reduce GC pressure by reusing allocated slice buffers
+- **2026-10-25T16:40:09+07:00** - [Event #1818] fix(network): adjust buffer size to prevent MTU packet fragmentation
