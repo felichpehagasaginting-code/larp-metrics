@@ -757,3 +757,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T09:46:18+07:00** - [Event #1752] feat(storage): implement atomic transaction rollback on write failure
 - **2026-10-25T09:54:57+07:00** - [Event #1753] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-25T10:01:39+07:00** - [Event #1754] test(network): add mock server tests for HTTP client retry policies
+- **2026-10-25T10:05:38+07:00** - [Event #1755] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
