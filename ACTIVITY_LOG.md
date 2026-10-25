@@ -764,3 +764,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T10:29:57+07:00** - [Event #1759] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-25T10:32:36+07:00** - [Event #1760] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-25T10:36:15+07:00** - [Event #1761] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-25T10:42:38+07:00** - [Event #1762] feat(cli): add command-line flag parser with custom help templates
