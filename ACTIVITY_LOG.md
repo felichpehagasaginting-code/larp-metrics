@@ -773,3 +773,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T11:17:35+07:00** - [Event #1768] docs(arch): add design document explaining persistent storage model
 - **2026-10-25T11:29:42+07:00** - [Event #1769] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-25T11:31:56+07:00** - [Event #1770] docs(readme): add quickstart guide and architecture overview diagram
+- **2026-10-25T11:34:26+07:00** - [Event #1771] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
