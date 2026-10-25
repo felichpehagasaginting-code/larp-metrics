@@ -806,3 +806,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T15:15:00+07:00** - [Event #1801] docs(arch): add design document explaining persistent storage model
 - **2026-10-25T15:18:08+07:00** - [Event #1802] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-25T15:24:06+07:00** - [Event #1803] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-25T15:35:21+07:00** - [Event #1804] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
