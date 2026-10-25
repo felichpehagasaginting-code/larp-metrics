@@ -828,3 +828,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T17:06:52+07:00** - [Event #1823] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-25T17:09:37+07:00** - [Event #1824] docs(config): document all configuration options with safe defaults
 - **2026-10-25T17:10:36+07:00** - [Event #1825] chore(git): add ignore rules for temporary build artifacts and test reports
+- **2026-10-25T17:19:05+07:00** - [Event #1826] feat(cli): add command-line flag parser with custom help templates
