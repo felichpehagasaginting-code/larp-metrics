@@ -860,3 +860,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T22:22:54+07:00** - [Event #1855] docs(api): document endpoint authentication requirements and error codes
 - **2026-10-25T22:32:57+07:00** - [Event #1856] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-25T22:44:52+07:00** - [Event #1857] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-10-25T22:46:16+07:00** - [Event #1858] refactor(config): group environment variables into validated config structs
