@@ -965,3 +965,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T20:49:23+07:00** - [Event #1960] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
 - **2026-10-26T20:50:26+07:00** - [Event #1961] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-26T21:06:18+07:00** - [Event #1962] feat(api): introduce API key authentication with granular scope permissions
+- **2026-10-26T21:11:29+07:00** - [Event #1963] feat(storage): add snapshot compaction and automated segment garbage collection
