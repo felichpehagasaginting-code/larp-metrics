@@ -899,3 +899,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T11:54:35+07:00** - [Event #1894] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-10-26T11:58:16+07:00** - [Event #1895] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-26T12:03:45+07:00** - [Event #1896] perf(network): compress outbound response bodies using gzip and brotli
+- **2026-10-26T12:10:48+07:00** - [Event #1897] refactor(storage): modularize WAL serialization codec into dedicated package
