@@ -923,3 +923,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T15:01:22+07:00** - [Event #1918] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-26T15:05:57+07:00** - [Event #1919] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-26T15:13:38+07:00** - [Event #1920] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-10-26T15:19:07+07:00** - [Event #1921] fix(engine): fix memory leak from unclosed event emitter subscriptions
