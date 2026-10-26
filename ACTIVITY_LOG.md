@@ -961,3 +961,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T20:12:24+07:00** - [Event #1956] docs(arch): add design document explaining persistent storage model
 - **2026-10-26T20:23:28+07:00** - [Event #1957] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-26T20:31:11+07:00** - [Event #1958] test(storage): verify cache eviction policy under memory pressure
+- **2026-10-26T20:42:03+07:00** - [Event #1959] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
