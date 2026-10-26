@@ -885,3 +885,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T10:32:31+07:00** - [Event #1880] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-26T10:40:47+07:00** - [Event #1881] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-26T10:42:59+07:00** - [Event #1882] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-10-26T10:45:40+07:00** - [Event #1883] fix(engine): fix memory leak from unclosed event emitter subscriptions
