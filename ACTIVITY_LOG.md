@@ -973,3 +973,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T21:50:14+07:00** - [Event #1968] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-26T21:54:29+07:00** - [Event #1969] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-26T22:08:45+07:00** - [Event #1970] refactor(utils): streamline byte slice manipulation and buffer pooling
+- **2026-10-26T22:18:37+07:00** - [Event #1971] refactor(network): replace raw socket handling with stream abstractions
