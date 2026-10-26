@@ -958,3 +958,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T19:46:34+07:00** - [Event #1953] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-10-26T19:51:45+07:00** - [Event #1954] feat(crypto): implement HMAC SHA-256 webhook payload signing
 - **2026-10-26T20:00:23+07:00** - [Event #1955] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-10-26T20:12:24+07:00** - [Event #1956] docs(arch): add design document explaining persistent storage model
