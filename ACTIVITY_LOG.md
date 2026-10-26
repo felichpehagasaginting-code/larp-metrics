@@ -970,3 +970,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T21:29:53+07:00** - [Event #1965] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-26T21:37:20+07:00** - [Event #1966] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-26T21:38:50+07:00** - [Event #1967] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
+- **2026-10-26T21:50:14+07:00** - [Event #1968] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
