@@ -909,3 +909,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T13:48:25+07:00** - [Event #1904] feat(storage): implement atomic transaction rollback on write failure
 - **2026-10-26T14:00:47+07:00** - [Event #1905] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-10-26T14:01:51+07:00** - [Event #1906] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-10-26T14:05:29+07:00** - [Event #1907] fix(api): return 429 Too Many Requests status when rate limit exceeded
