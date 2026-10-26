@@ -933,3 +933,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T15:55:21+07:00** - [Event #1928] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-26T16:04:11+07:00** - [Event #1929] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-10-26T16:08:10+07:00** - [Event #1930] perf(network): compress outbound response bodies using gzip and brotli
+- **2026-10-26T16:14:29+07:00** - [Event #1931] fix(network): resolve TCP socket half-open state on silent client disconnect
