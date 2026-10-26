@@ -954,3 +954,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T19:15:30+07:00** - [Event #1949] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-26T19:20:32+07:00** - [Event #1950] docs(arch): add design document explaining persistent storage model
 - **2026-10-26T19:33:17+07:00** - [Event #1951] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-10-26T19:40:02+07:00** - [Event #1952] feat(storage): implement atomic transaction rollback on write failure
