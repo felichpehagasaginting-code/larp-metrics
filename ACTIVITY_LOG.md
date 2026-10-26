@@ -879,3 +879,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T09:56:43+07:00** - [Event #1874] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-10-26T10:02:37+07:00** - [Event #1875] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-10-26T10:07:48+07:00** - [Event #1876] feat(storage): support compressed chunked blob storage format
+- **2026-10-26T10:09:38+07:00** - [Event #1877] fix(api): sanitize input query parameters against wildcard regex DoS
