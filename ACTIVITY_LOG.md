@@ -924,3 +924,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T15:05:57+07:00** - [Event #1919] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-26T15:13:38+07:00** - [Event #1920] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-26T15:19:07+07:00** - [Event #1921] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-26T15:26:29+07:00** - [Event #1922] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
