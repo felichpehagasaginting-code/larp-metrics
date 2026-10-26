@@ -960,3 +960,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T20:00:23+07:00** - [Event #1955] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-26T20:12:24+07:00** - [Event #1956] docs(arch): add design document explaining persistent storage model
 - **2026-10-26T20:23:28+07:00** - [Event #1957] test(engine): add stress test suite for concurrent event dispatcher
+- **2026-10-26T20:31:11+07:00** - [Event #1958] test(storage): verify cache eviction policy under memory pressure
