@@ -905,3 +905,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T13:30:30+07:00** - [Event #1900] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-26T13:38:06+07:00** - [Event #1901] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-26T13:40:35+07:00** - [Event #1902] feat(crypto): add secure entropy PRNG generator with fallback seeding
+- **2026-10-26T13:41:06+07:00** - [Event #1903] docs(arch): add design document explaining persistent storage model
