@@ -911,3 +911,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T14:01:51+07:00** - [Event #1906] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-26T14:05:29+07:00** - [Event #1907] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-26T14:13:29+07:00** - [Event #1908] refactor(engine): decouple task scheduler from concrete queue implementations
+- **2026-10-26T14:19:05+07:00** - [Event #1909] refactor(types): standardize domain error definitions and error code constants
