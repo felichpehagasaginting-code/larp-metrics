@@ -945,3 +945,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T16:57:20+07:00** - [Event #1940] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-26T17:03:35+07:00** - [Event #1941] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-26T17:09:50+07:00** - [Event #1942] feat(crypto): add secure entropy PRNG generator with fallback seeding
+- **2026-10-26T17:12:51+07:00** - [Event #1943] docs(arch): add design document explaining persistent storage model
