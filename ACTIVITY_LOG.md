@@ -938,3 +938,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T16:21:11+07:00** - [Event #1933] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-26T16:28:01+07:00** - [Event #1934] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-26T16:29:11+07:00** - [Event #1935] fix(engine): handle SIGTERM signal gracefully during active transaction
+- **2026-10-26T16:36:45+07:00** - [Event #1936] refactor(network): consolidate HTTP client middleware pipeline handlers
