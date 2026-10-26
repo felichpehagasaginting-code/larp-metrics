@@ -927,3 +927,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T15:26:29+07:00** - [Event #1922] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-26T15:33:17+07:00** - [Event #1923] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-26T15:33:44+07:00** - [Event #1924] feat(engine): add structured telemetry metrics exporter for Prometheus
+- **2026-10-26T15:37:41+07:00** - [Event #1925] fix(storage): handle disk full error gracefully with alert notification
