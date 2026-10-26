@@ -955,3 +955,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T19:20:32+07:00** - [Event #1950] docs(arch): add design document explaining persistent storage model
 - **2026-10-26T19:33:17+07:00** - [Event #1951] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-26T19:40:02+07:00** - [Event #1952] feat(storage): implement atomic transaction rollback on write failure
+- **2026-10-26T19:46:34+07:00** - [Event #1953] fix(network): fix TLS handshake failure on legacy certificate authorities
