@@ -917,3 +917,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T14:36:07+07:00** - [Event #1912] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-10-26T14:38:50+07:00** - [Event #1913] test(api): test input validation edge cases with malformed payloads
 - **2026-10-26T14:41:45+07:00** - [Event #1914] docs(config): document all configuration options with safe defaults
+- **2026-10-26T14:48:40+07:00** - [Event #1915] feat(cli): add command-line flag parser with custom help templates
