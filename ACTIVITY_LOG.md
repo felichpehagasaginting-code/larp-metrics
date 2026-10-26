@@ -921,3 +921,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T14:54:20+07:00** - [Event #1916] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-26T14:55:24+07:00** - [Event #1917] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-26T15:01:22+07:00** - [Event #1918] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-10-26T15:05:57+07:00** - [Event #1919] perf(storage): replace JSON marshaling with zero-allocation binary codec
