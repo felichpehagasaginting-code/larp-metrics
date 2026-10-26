@@ -883,3 +883,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T10:15:28+07:00** - [Event #1878] chore(git): add ignore rules for temporary build artifacts and test reports
 - **2026-10-26T10:24:21+07:00** - [Event #1879] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-26T10:32:31+07:00** - [Event #1880] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-10-26T10:40:47+07:00** - [Event #1881] docs(readme): add quickstart guide and architecture overview diagram
