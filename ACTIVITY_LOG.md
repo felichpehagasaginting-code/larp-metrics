@@ -975,3 +975,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T22:08:45+07:00** - [Event #1970] refactor(utils): streamline byte slice manipulation and buffer pooling
 - **2026-10-26T22:18:37+07:00** - [Event #1971] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-26T22:19:13+07:00** - [Event #1972] feat(storage): implement atomic transaction rollback on write failure
+- **2026-10-26T22:30:12+07:00** - [Event #1973] perf(storage): replace JSON marshaling with zero-allocation binary codec
