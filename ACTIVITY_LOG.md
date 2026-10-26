@@ -876,3 +876,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T09:39:19+07:00** - [Event #1871] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-10-26T09:43:36+07:00** - [Event #1872] fix(engine): prevent integer overflow when calculating exponential backoff
 - **2026-10-26T09:45:05+07:00** - [Event #1873] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-26T09:56:43+07:00** - [Event #1874] fix(network): resolve TCP socket half-open state on silent client disconnect
