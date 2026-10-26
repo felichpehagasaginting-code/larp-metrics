@@ -953,3 +953,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T17:44:01+07:00** - [Event #1948] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-26T19:15:30+07:00** - [Event #1949] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-26T19:20:32+07:00** - [Event #1950] docs(arch): add design document explaining persistent storage model
+- **2026-10-26T19:33:17+07:00** - [Event #1951] fix(engine): resolve race condition in worker thread pool task queue
