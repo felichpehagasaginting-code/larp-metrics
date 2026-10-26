@@ -881,3 +881,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T10:07:48+07:00** - [Event #1876] feat(storage): support compressed chunked blob storage format
 - **2026-10-26T10:09:38+07:00** - [Event #1877] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-26T10:15:28+07:00** - [Event #1878] chore(git): add ignore rules for temporary build artifacts and test reports
+- **2026-10-26T10:24:21+07:00** - [Event #1879] fix(engine): resolve race condition in worker thread pool task queue
