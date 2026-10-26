@@ -869,3 +869,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-25T23:39:54+07:00** - [Event #1864] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-10-26T09:00:23+07:00** - [Event #1865] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-26T09:06:39+07:00** - [Event #1866] feat(crypto): add ED25519 asymmetric signature verification utility
+- **2026-10-26T09:10:24+07:00** - [Event #1867] refactor(network): replace raw socket handling with stream abstractions
