@@ -919,3 +919,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T14:41:45+07:00** - [Event #1914] docs(config): document all configuration options with safe defaults
 - **2026-10-26T14:48:40+07:00** - [Event #1915] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-26T14:54:20+07:00** - [Event #1916] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-26T14:55:24+07:00** - [Event #1917] fix(engine): correct task priority inversion in scheduler heap
