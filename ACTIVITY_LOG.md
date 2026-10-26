@@ -888,3 +888,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T10:45:40+07:00** - [Event #1883] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-26T10:51:06+07:00** - [Event #1884] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-26T10:59:37+07:00** - [Event #1885] test(network): add mock server tests for HTTP client retry policies
+- **2026-10-26T11:07:32+07:00** - [Event #1886] feat(engine): add adaptive backoff retry strategy for failed event tasks
