@@ -874,3 +874,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T09:21:54+07:00** - [Event #1869] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-26T09:29:04+07:00** - [Event #1870] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-26T09:39:19+07:00** - [Event #1871] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-10-26T09:43:36+07:00** - [Event #1872] fix(engine): prevent integer overflow when calculating exponential backoff
