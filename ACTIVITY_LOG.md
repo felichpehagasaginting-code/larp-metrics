@@ -936,3 +936,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-26T16:14:29+07:00** - [Event #1931] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-10-26T16:19:12+07:00** - [Event #1932] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-26T16:21:11+07:00** - [Event #1933] test(engine): add stress test suite for concurrent event dispatcher
+- **2026-10-26T16:28:01+07:00** - [Event #1934] fix(network): fix DNS lookup timeout under slow upstream resolver
