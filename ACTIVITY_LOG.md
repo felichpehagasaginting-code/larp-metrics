@@ -1036,3 +1036,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T15:09:27+07:00** - [Event #2031] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-27T15:19:28+07:00** - [Event #2032] feat(api): implement JSON schema validation middleware with field error mapping
 - **2026-10-27T15:28:28+07:00** - [Event #2033] docs(config): document all configuration options with safe defaults
+- **2026-10-27T15:34:52+07:00** - [Event #2034] perf(storage): replace JSON marshaling with zero-allocation binary codec
