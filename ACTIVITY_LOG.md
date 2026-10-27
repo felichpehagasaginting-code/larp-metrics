@@ -1039,3 +1039,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T15:34:52+07:00** - [Event #2034] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-27T15:40:54+07:00** - [Event #2035] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-27T15:43:33+07:00** - [Event #2036] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-27T15:52:02+07:00** - [Event #2037] fix(network): resolve TCP socket half-open state on silent client disconnect
