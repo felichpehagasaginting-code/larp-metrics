@@ -1038,3 +1038,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T15:28:28+07:00** - [Event #2033] docs(config): document all configuration options with safe defaults
 - **2026-10-27T15:34:52+07:00** - [Event #2034] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-27T15:40:54+07:00** - [Event #2035] feat(api): add pagination cursor support for high-cardinality audit logs
+- **2026-10-27T15:43:33+07:00** - [Event #2036] refactor(types): standardize domain error definitions and error code constants
