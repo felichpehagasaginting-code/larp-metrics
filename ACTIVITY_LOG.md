@@ -1059,3 +1059,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T17:23:15+07:00** - [Event #2054] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-27T17:36:03+07:00** - [Event #2055] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-27T17:44:56+07:00** - [Event #2056] feat(api): implement JSON schema validation middleware with field error mapping
+- **2026-10-27T19:15:10+07:00** - [Event #2057] fix(engine): correct task priority inversion in scheduler heap
