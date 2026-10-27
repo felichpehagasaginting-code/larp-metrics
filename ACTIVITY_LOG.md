@@ -1077,3 +1077,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T21:34:32+07:00** - [Event #2072] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-27T21:46:30+07:00** - [Event #2073] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-27T21:57:54+07:00** - [Event #2074] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-10-27T22:01:40+07:00** - [Event #2075] fix(storage): handle disk full error gracefully with alert notification
