@@ -1025,3 +1025,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T14:07:25+07:00** - [Event #2020] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-27T14:18:15+07:00** - [Event #2021] feat(cli): support human-readable and JSON output formatters
 - **2026-10-27T14:20:30+07:00** - [Event #2022] fix(storage): fix file descriptor leak during rapid log rotation
+- **2026-10-27T14:26:35+07:00** - [Event #2023] fix(engine): resolve race condition in worker thread pool task queue
