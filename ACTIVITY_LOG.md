@@ -1072,3 +1072,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T20:48:33+07:00** - [Event #2067] feat(storage): implement append-only persistent WAL log storage driver
 - **2026-10-27T20:54:50+07:00** - [Event #2068] fix(storage): handle disk full error gracefully with alert notification
 - **2026-10-27T21:11:15+07:00** - [Event #2069] refactor(network): replace raw socket handling with stream abstractions
+- **2026-10-27T21:21:37+07:00** - [Event #2070] feat(api): define RESTful resource endpoints for session lifecycle events
