@@ -992,3 +992,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T09:35:35+07:00** - [Event #1987] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-27T09:44:00+07:00** - [Event #1988] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-27T09:45:11+07:00** - [Event #1989] perf(storage): batch sequential disk write operations into memory ring buffer
+- **2026-10-27T09:50:52+07:00** - [Event #1990] feat(api): introduce API key authentication with granular scope permissions
