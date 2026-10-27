@@ -1010,3 +1010,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T11:33:16+07:00** - [Event #2005] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-27T11:39:09+07:00** - [Event #2006] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-10-27T11:47:16+07:00** - [Event #2007] test(api): add comprehensive contract test suite for REST endpoints
+- **2026-10-27T11:57:14+07:00** - [Event #2008] refactor(storage): extract storage backend interface for pluggable drivers
