@@ -995,3 +995,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T09:50:52+07:00** - [Event #1990] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-27T10:02:02+07:00** - [Event #1991] docs(config): document all configuration options with safe defaults
 - **2026-10-27T10:08:52+07:00** - [Event #1992] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-27T10:13:13+07:00** - [Event #1993] fix(api): sanitize input query parameters against wildcard regex DoS
