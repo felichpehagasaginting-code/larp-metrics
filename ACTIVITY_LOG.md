@@ -1019,3 +1019,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T13:41:06+07:00** - [Event #2014] docs(config): document all configuration options with safe defaults
 - **2026-10-27T13:44:39+07:00** - [Event #2015] docs(config): document all configuration options with safe defaults
 - **2026-10-27T13:48:32+07:00** - [Event #2016] feat(engine): support distributed tracing with OpenTelemetry context propagation
+- **2026-10-27T13:53:22+07:00** - [Event #2017] feat(engine): add resilient circuit breaker for external service calls
