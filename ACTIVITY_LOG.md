@@ -1050,3 +1050,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T16:36:39+07:00** - [Event #2045] feat(cli): add daemon mode process manager with PID file tracking
 - **2026-10-27T16:41:04+07:00** - [Event #2046] docs(arch): add design document explaining persistent storage model
 - **2026-10-27T16:43:36+07:00** - [Event #2047] fix(storage): fix file descriptor leak during rapid log rotation
+- **2026-10-27T16:49:11+07:00** - [Event #2048] refactor(engine): simplify worker state machine transitions and error states
