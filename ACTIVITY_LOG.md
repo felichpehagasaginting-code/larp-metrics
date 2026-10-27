@@ -999,3 +999,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T10:20:26+07:00** - [Event #1994] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-27T10:30:19+07:00** - [Event #1995] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-27T10:37:27+07:00** - [Event #1996] feat(cli): support human-readable and JSON output formatters
+- **2026-10-27T10:43:27+07:00** - [Event #1997] fix(storage): ensure atomic sync to disk on critical commit markers
