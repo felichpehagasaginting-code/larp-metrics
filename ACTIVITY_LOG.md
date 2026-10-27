@@ -1057,3 +1057,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-27T17:18:44+07:00** - [Event #2052] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-27T17:18:58+07:00** - [Event #2053] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-27T17:23:15+07:00** - [Event #2054] test(storage): add integration tests for WAL replay on clean startup
+- **2026-10-27T17:36:03+07:00** - [Event #2055] refactor(engine): migrate event dispatcher to observer pub-sub pattern
