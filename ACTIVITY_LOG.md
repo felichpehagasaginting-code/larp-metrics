@@ -1135,3 +1135,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T15:09:01+07:00** - [Event #2130] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-28T15:11:52+07:00** - [Event #2131] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-28T15:19:08+07:00** - [Event #2132] fix(api): return 429 Too Many Requests status when rate limit exceeded
+- **2026-10-28T15:29:00+07:00** - [Event #2133] refactor(network): replace raw socket handling with stream abstractions
