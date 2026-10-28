@@ -1157,3 +1157,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T17:26:34+07:00** - [Event #2152] feat(storage): support compressed chunked blob storage format
 - **2026-10-28T17:27:01+07:00** - [Event #2153] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-28T17:43:30+07:00** - [Event #2154] perf(storage): replace JSON marshaling with zero-allocation binary codec
+- **2026-10-28T19:20:23+07:00** - [Event #2155] fix(engine): resolve race condition in worker thread pool task queue
