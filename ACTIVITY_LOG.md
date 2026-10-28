@@ -1107,3 +1107,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T10:52:26+07:00** - [Event #2102] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-10-28T11:05:58+07:00** - [Event #2103] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-28T11:08:38+07:00** - [Event #2104] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-10-28T11:14:50+07:00** - [Event #2105] docs(readme): add quickstart guide and architecture overview diagram
