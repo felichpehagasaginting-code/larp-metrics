@@ -1161,3 +1161,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T19:29:24+07:00** - [Event #2156] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-28T19:34:24+07:00** - [Event #2157] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-28T19:48:58+07:00** - [Event #2158] feat(network): support TLS 1.3 session resumption and cipher suite configuration
+- **2026-10-28T19:51:29+07:00** - [Event #2159] fix(storage): repair index segment corruption on unexpected process kill
