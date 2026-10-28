@@ -1146,3 +1146,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T16:11:16+07:00** - [Event #2141] feat(crypto): implement HMAC SHA-256 webhook payload signing
 - **2026-10-28T16:27:07+07:00** - [Event #2142] docs(arch): add design document explaining persistent storage model
 - **2026-10-28T16:31:31+07:00** - [Event #2143] feat(cli): support human-readable and JSON output formatters
+- **2026-10-28T16:32:42+07:00** - [Event #2144] test(storage): verify cache eviction policy under memory pressure
