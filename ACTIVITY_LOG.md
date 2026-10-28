@@ -1114,3 +1114,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T11:45:24+07:00** - [Event #2109] docs(arch): add design document explaining persistent storage model
 - **2026-10-28T11:57:38+07:00** - [Event #2110] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-10-28T11:58:37+07:00** - [Event #2111] test(api): test input validation edge cases with malformed payloads
+- **2026-10-28T12:07:14+07:00** - [Event #2112] refactor(network): replace raw socket handling with stream abstractions
