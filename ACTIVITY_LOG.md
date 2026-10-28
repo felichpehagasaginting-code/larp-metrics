@@ -1123,3 +1123,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T13:52:15+07:00** - [Event #2118] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-28T13:54:44+07:00** - [Event #2119] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-28T14:07:50+07:00** - [Event #2120] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-10-28T14:10:19+07:00** - [Event #2121] docs(arch): add design document explaining persistent storage model
