@@ -1126,3 +1126,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T14:10:19+07:00** - [Event #2121] docs(arch): add design document explaining persistent storage model
 - **2026-10-28T14:16:45+07:00** - [Event #2122] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-28T14:25:56+07:00** - [Event #2123] test(storage): add integration tests for WAL replay on clean startup
+- **2026-10-28T14:30:27+07:00** - [Event #2124] refactor(engine): decouple task scheduler from concrete queue implementations
