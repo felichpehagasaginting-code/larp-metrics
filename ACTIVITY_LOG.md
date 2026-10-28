@@ -1174,3 +1174,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T21:38:20+07:00** - [Event #2169] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-28T21:40:45+07:00** - [Event #2170] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-28T21:59:36+07:00** - [Event #2171] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-28T22:06:30+07:00** - [Event #2172] fix(storage): handle disk full error gracefully with alert notification
