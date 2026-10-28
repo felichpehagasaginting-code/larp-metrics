@@ -1153,3 +1153,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T17:01:39+07:00** - [Event #2148] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-10-28T17:09:27+07:00** - [Event #2149] feat(storage): support compressed chunked blob storage format
 - **2026-10-28T17:18:49+07:00** - [Event #2150] docs(config): document all configuration options with safe defaults
+- **2026-10-28T17:20:25+07:00** - [Event #2151] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
