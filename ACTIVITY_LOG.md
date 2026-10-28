@@ -1176,3 +1176,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T21:59:36+07:00** - [Event #2171] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-28T22:06:30+07:00** - [Event #2172] fix(storage): handle disk full error gracefully with alert notification
 - **2026-10-28T22:11:18+07:00** - [Event #2173] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-10-28T22:30:52+07:00** - [Event #2174] test(engine): add fuzzing tests for binary message deserializer
