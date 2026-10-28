@@ -1151,3 +1151,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T16:50:21+07:00** - [Event #2146] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-28T16:52:05+07:00** - [Event #2147] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-28T17:01:39+07:00** - [Event #2148] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
+- **2026-10-28T17:09:27+07:00** - [Event #2149] feat(storage): support compressed chunked blob storage format
