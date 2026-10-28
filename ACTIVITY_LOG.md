@@ -1142,3 +1142,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T15:49:02+07:00** - [Event #2137] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-28T15:58:38+07:00** - [Event #2138] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-28T16:02:51+07:00** - [Event #2139] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-10-28T16:08:32+07:00** - [Event #2140] fix(network): fix DNS lookup timeout under slow upstream resolver
