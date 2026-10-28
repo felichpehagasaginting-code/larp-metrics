@@ -1166,3 +1166,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T20:19:50+07:00** - [Event #2161] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-10-28T20:24:53+07:00** - [Event #2162] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-28T20:30:29+07:00** - [Event #2163] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-10-28T20:48:20+07:00** - [Event #2164] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
