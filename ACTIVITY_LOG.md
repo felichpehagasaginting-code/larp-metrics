@@ -1127,3 +1127,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T14:16:45+07:00** - [Event #2122] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-28T14:25:56+07:00** - [Event #2123] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-28T14:30:27+07:00** - [Event #2124] refactor(engine): decouple task scheduler from concrete queue implementations
+- **2026-10-28T14:32:55+07:00** - [Event #2125] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
