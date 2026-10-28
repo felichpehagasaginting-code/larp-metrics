@@ -1155,3 +1155,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T17:18:49+07:00** - [Event #2150] docs(config): document all configuration options with safe defaults
 - **2026-10-28T17:20:25+07:00** - [Event #2151] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-10-28T17:26:34+07:00** - [Event #2152] feat(storage): support compressed chunked blob storage format
+- **2026-10-28T17:27:01+07:00** - [Event #2153] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
