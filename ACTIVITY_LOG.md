@@ -1140,3 +1140,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T15:42:46+07:00** - [Event #2135] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-10-28T15:48:03+07:00** - [Event #2136] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-28T15:49:02+07:00** - [Event #2137] perf(storage): replace JSON marshaling with zero-allocation binary codec
+- **2026-10-28T15:58:38+07:00** - [Event #2138] feat(engine): support distributed tracing with OpenTelemetry context propagation
