@@ -1117,3 +1117,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T12:07:14+07:00** - [Event #2112] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-28T12:16:48+07:00** - [Event #2113] feat(network): add gRPC service definition and protobuf serialization stubs
 - **2026-10-28T12:25:15+07:00** - [Event #2114] refactor(engine): simplify worker state machine transitions and error states
+- **2026-10-28T13:30:51+07:00** - [Event #2115] feat(storage): support compressed chunked blob storage format
