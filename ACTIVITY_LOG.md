@@ -1145,3 +1145,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T16:08:32+07:00** - [Event #2140] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-28T16:11:16+07:00** - [Event #2141] feat(crypto): implement HMAC SHA-256 webhook payload signing
 - **2026-10-28T16:27:07+07:00** - [Event #2142] docs(arch): add design document explaining persistent storage model
+- **2026-10-28T16:31:31+07:00** - [Event #2143] feat(cli): support human-readable and JSON output formatters
