@@ -1109,3 +1109,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T11:08:38+07:00** - [Event #2104] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-28T11:14:50+07:00** - [Event #2105] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-10-28T11:27:47+07:00** - [Event #2106] feat(engine): add resilient circuit breaker for external service calls
+- **2026-10-28T11:32:54+07:00** - [Event #2107] test(storage): add integration tests for WAL replay on clean startup
