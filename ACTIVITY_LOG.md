@@ -1149,3 +1149,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T16:32:42+07:00** - [Event #2144] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-28T16:45:02+07:00** - [Event #2145] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-28T16:50:21+07:00** - [Event #2146] feat(network): add gRPC service definition and protobuf serialization stubs
+- **2026-10-28T16:52:05+07:00** - [Event #2147] feat(api): define RESTful resource endpoints for session lifecycle events
