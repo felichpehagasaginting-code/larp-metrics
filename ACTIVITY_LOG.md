@@ -1133,3 +1133,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T14:50:55+07:00** - [Event #2128] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-28T14:54:49+07:00** - [Event #2129] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-10-28T15:09:01+07:00** - [Event #2130] test(engine): add fuzzing tests for binary message deserializer
+- **2026-10-28T15:11:52+07:00** - [Event #2131] fix(storage): ensure atomic sync to disk on critical commit markers
