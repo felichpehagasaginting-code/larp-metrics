@@ -1121,3 +1121,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T13:31:40+07:00** - [Event #2116] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-28T13:42:09+07:00** - [Event #2117] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-28T13:52:15+07:00** - [Event #2118] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-10-28T13:54:44+07:00** - [Event #2119] feat(api): introduce API key authentication with granular scope permissions
