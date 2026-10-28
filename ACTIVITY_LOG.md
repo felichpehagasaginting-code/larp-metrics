@@ -1125,3 +1125,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T14:07:50+07:00** - [Event #2120] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-28T14:10:19+07:00** - [Event #2121] docs(arch): add design document explaining persistent storage model
 - **2026-10-28T14:16:45+07:00** - [Event #2122] feat(crypto): add secure entropy PRNG generator with fallback seeding
+- **2026-10-28T14:25:56+07:00** - [Event #2123] test(storage): add integration tests for WAL replay on clean startup
