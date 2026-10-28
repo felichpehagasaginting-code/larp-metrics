@@ -1100,3 +1100,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T10:06:31+07:00** - [Event #2095] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-28T10:14:12+07:00** - [Event #2096] fix(storage): handle disk full error gracefully with alert notification
 - **2026-10-28T10:19:52+07:00** - [Event #2097] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-10-28T10:31:23+07:00** - [Event #2098] feat(api): implement JSON schema validation middleware with field error mapping
