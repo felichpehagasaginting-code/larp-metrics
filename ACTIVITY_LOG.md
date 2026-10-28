@@ -1138,3 +1138,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T15:29:00+07:00** - [Event #2133] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-28T15:29:18+07:00** - [Event #2134] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-10-28T15:42:46+07:00** - [Event #2135] feat(storage): introduce lock-free concurrent hash map for state lookups
+- **2026-10-28T15:48:03+07:00** - [Event #2136] docs(readme): add quickstart guide and architecture overview diagram
