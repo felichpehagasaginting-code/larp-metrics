@@ -1173,3 +1173,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T21:30:38+07:00** - [Event #2168] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-28T21:38:20+07:00** - [Event #2169] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-10-28T21:40:45+07:00** - [Event #2170] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
+- **2026-10-28T21:59:36+07:00** - [Event #2171] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
