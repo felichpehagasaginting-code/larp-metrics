@@ -1112,3 +1112,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T11:32:54+07:00** - [Event #2107] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-28T11:39:02+07:00** - [Event #2108] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-10-28T11:45:24+07:00** - [Event #2109] docs(arch): add design document explaining persistent storage model
+- **2026-10-28T11:57:38+07:00** - [Event #2110] fix(network): adjust buffer size to prevent MTU packet fragmentation
