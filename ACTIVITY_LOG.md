@@ -1278,3 +1278,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T21:01:24+07:00** - [Event #2273] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-10-29T21:11:33+07:00** - [Event #2274] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-29T21:17:23+07:00** - [Event #2275] test(network): test rate limiter burst behavior under load test harness
+- **2026-10-29T21:23:21+07:00** - [Event #2276] feat(engine): support distributed tracing with OpenTelemetry context propagation
