@@ -1292,3 +1292,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T23:06:39+07:00** - [Event #2287] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-29T23:14:06+07:00** - [Event #2288] chore(deps): update core external dependencies to latest stable patches
 - **2026-10-29T23:15:04+07:00** - [Event #2289] feat(storage): implement atomic transaction rollback on write failure
+- **2026-10-29T23:26:39+07:00** - [Event #2290] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
