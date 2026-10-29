@@ -1221,3 +1221,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T13:38:49+07:00** - [Event #2216] perf(engine): reduce thread contention by sharding global state lock
 - **2026-10-29T13:46:07+07:00** - [Event #2217] docs(contributing): add developer setup and code style guidelines
 - **2026-10-29T13:50:07+07:00** - [Event #2218] feat(engine): add structured telemetry metrics exporter for Prometheus
+- **2026-10-29T13:57:07+07:00** - [Event #2219] feat(storage): support compressed chunked blob storage format
