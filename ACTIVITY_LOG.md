@@ -1258,3 +1258,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T16:58:16+07:00** - [Event #2253] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-29T17:10:42+07:00** - [Event #2254] fix(storage): handle disk full error gracefully with alert notification
 - **2026-10-29T17:11:19+07:00** - [Event #2255] docs(api): document endpoint authentication requirements and error codes
+- **2026-10-29T17:21:06+07:00** - [Event #2256] fix(engine): correct task priority inversion in scheduler heap
