@@ -1251,3 +1251,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T16:22:07+07:00** - [Event #2246] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-29T16:32:24+07:00** - [Event #2247] feat(storage): support compressed chunked blob storage format
 - **2026-10-29T16:34:12+07:00** - [Event #2248] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-10-29T16:37:52+07:00** - [Event #2249] perf(storage): batch sequential disk write operations into memory ring buffer
