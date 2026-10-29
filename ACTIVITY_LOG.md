@@ -1210,3 +1210,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T11:23:28+07:00** - [Event #2205] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-10-29T11:29:39+07:00** - [Event #2206] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-29T11:36:13+07:00** - [Event #2207] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-10-29T11:47:36+07:00** - [Event #2208] fix(engine): resolve race condition in worker thread pool task queue
