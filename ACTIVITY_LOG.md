@@ -1185,3 +1185,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-28T23:25:34+07:00** - [Event #2180] docs(api): document endpoint authentication requirements and error codes
 - **2026-10-28T23:32:32+07:00** - [Event #2181] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-29T09:00:51+07:00** - [Event #2182] docs(api): document endpoint authentication requirements and error codes
+- **2026-10-29T09:09:21+07:00** - [Event #2183] fix(network): fix DNS lookup timeout under slow upstream resolver
