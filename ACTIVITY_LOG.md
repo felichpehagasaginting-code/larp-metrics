@@ -1188,3 +1188,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T09:09:21+07:00** - [Event #2183] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-29T09:14:54+07:00** - [Event #2184] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-10-29T09:16:31+07:00** - [Event #2185] feat(storage): support compressed chunked blob storage format
+- **2026-10-29T09:29:33+07:00** - [Event #2186] feat(storage): support compressed chunked blob storage format
