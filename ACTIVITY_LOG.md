@@ -1217,3 +1217,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T12:11:45+07:00** - [Event #2212] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-29T12:20:02+07:00** - [Event #2213] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-10-29T12:21:02+07:00** - [Event #2214] test(engine): add stress test suite for concurrent event dispatcher
+- **2026-10-29T13:31:23+07:00** - [Event #2215] docs(arch): add design document explaining persistent storage model
