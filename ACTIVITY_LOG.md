@@ -1286,3 +1286,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T22:12:35+07:00** - [Event #2281] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-29T22:17:34+07:00** - [Event #2282] feat(api): implement JSON schema validation middleware with field error mapping
 - **2026-10-29T22:24:38+07:00** - [Event #2283] feat(cli): implement interactive terminal progress spinner and progress bar
+- **2026-10-29T22:38:02+07:00** - [Event #2284] docs(arch): add design document explaining persistent storage model
