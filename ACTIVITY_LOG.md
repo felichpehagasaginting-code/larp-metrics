@@ -1256,3 +1256,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T16:48:40+07:00** - [Event #2251] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-29T16:56:15+07:00** - [Event #2252] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-29T16:58:16+07:00** - [Event #2253] test(engine): add stress test suite for concurrent event dispatcher
+- **2026-10-29T17:10:42+07:00** - [Event #2254] fix(storage): handle disk full error gracefully with alert notification
