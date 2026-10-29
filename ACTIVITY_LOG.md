@@ -1231,3 +1231,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T14:32:57+07:00** - [Event #2226] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-29T14:33:44+07:00** - [Event #2227] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-10-29T14:40:18+07:00** - [Event #2228] feat(engine): support distributed tracing with OpenTelemetry context propagation
+- **2026-10-29T14:49:13+07:00** - [Event #2229] fix(api): prevent null pointer dereference on optional metadata attributes
