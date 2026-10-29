@@ -1223,3 +1223,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T13:50:07+07:00** - [Event #2218] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-29T13:57:07+07:00** - [Event #2219] feat(storage): support compressed chunked blob storage format
 - **2026-10-29T13:59:16+07:00** - [Event #2220] fix(network): fix TLS handshake failure on legacy certificate authorities
+- **2026-10-29T14:05:45+07:00** - [Event #2221] perf(storage): optimize binary search lookup in sorted key segments
