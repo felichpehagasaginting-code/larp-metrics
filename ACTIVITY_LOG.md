@@ -1274,3 +1274,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T20:22:54+07:00** - [Event #2269] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-10-29T20:36:25+07:00** - [Event #2270] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-10-29T20:47:24+07:00** - [Event #2271] chore(lint): enable strict static analysis and dead code elimination rules
+- **2026-10-29T20:53:07+07:00** - [Event #2272] fix(api): return 429 Too Many Requests status when rate limit exceeded
