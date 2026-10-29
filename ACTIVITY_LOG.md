@@ -1261,3 +1261,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T17:21:06+07:00** - [Event #2256] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-29T17:22:24+07:00** - [Event #2257] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-29T17:33:28+07:00** - [Event #2258] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-10-29T17:35:45+07:00** - [Event #2259] feat(crypto): implement HMAC SHA-256 webhook payload signing
