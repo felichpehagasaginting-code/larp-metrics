@@ -1200,3 +1200,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T10:23:22+07:00** - [Event #2195] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-10-29T10:31:55+07:00** - [Event #2196] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-10-29T10:34:32+07:00** - [Event #2197] feat(storage): implement append-only persistent WAL log storage driver
+- **2026-10-29T10:40:14+07:00** - [Event #2198] docs(api): document endpoint authentication requirements and error codes
