@@ -1207,3 +1207,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T11:08:56+07:00** - [Event #2202] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-10-29T11:12:32+07:00** - [Event #2203] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-29T11:23:13+07:00** - [Event #2204] feat(storage): support compressed chunked blob storage format
+- **2026-10-29T11:23:28+07:00** - [Event #2205] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
