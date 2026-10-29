@@ -1249,3 +1249,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T16:14:00+07:00** - [Event #2244] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-29T16:20:28+07:00** - [Event #2245] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-29T16:22:07+07:00** - [Event #2246] chore(lint): enable strict static analysis and dead code elimination rules
+- **2026-10-29T16:32:24+07:00** - [Event #2247] feat(storage): support compressed chunked blob storage format
