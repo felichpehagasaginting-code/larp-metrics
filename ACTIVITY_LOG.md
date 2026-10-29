@@ -1283,3 +1283,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T21:44:40+07:00** - [Event #2278] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-29T21:51:47+07:00** - [Event #2279] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-10-29T21:57:34+07:00** - [Event #2280] docs(api): document endpoint authentication requirements and error codes
+- **2026-10-29T22:12:35+07:00** - [Event #2281] docs(deploy): document containerized deployment guide with Docker and Helm
