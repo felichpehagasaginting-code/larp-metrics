@@ -1233,3 +1233,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T14:40:18+07:00** - [Event #2228] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-29T14:49:13+07:00** - [Event #2229] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-10-29T14:49:50+07:00** - [Event #2230] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-29T14:58:48+07:00** - [Event #2231] docs(deploy): document containerized deployment guide with Docker and Helm
