@@ -1219,3 +1219,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T12:21:02+07:00** - [Event #2214] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-29T13:31:23+07:00** - [Event #2215] docs(arch): add design document explaining persistent storage model
 - **2026-10-29T13:38:49+07:00** - [Event #2216] perf(engine): reduce thread contention by sharding global state lock
+- **2026-10-29T13:46:07+07:00** - [Event #2217] docs(contributing): add developer setup and code style guidelines
