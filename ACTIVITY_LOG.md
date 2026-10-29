@@ -1190,3 +1190,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T09:16:31+07:00** - [Event #2185] feat(storage): support compressed chunked blob storage format
 - **2026-10-29T09:29:33+07:00** - [Event #2186] feat(storage): support compressed chunked blob storage format
 - **2026-10-29T09:33:54+07:00** - [Event #2187] feat(engine): implement dynamic configuration reloader without daemon restart
+- **2026-10-29T09:39:49+07:00** - [Event #2188] perf(network): compress outbound response bodies using gzip and brotli
