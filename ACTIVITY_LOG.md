@@ -1276,3 +1276,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T20:47:24+07:00** - [Event #2271] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-29T20:53:07+07:00** - [Event #2272] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-29T21:01:24+07:00** - [Event #2273] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-10-29T21:11:33+07:00** - [Event #2274] fix(engine): correct task priority inversion in scheduler heap
