@@ -1241,3 +1241,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T15:28:25+07:00** - [Event #2236] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-29T15:35:45+07:00** - [Event #2237] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-10-29T15:38:36+07:00** - [Event #2238] fix(engine): handle SIGTERM signal gracefully during active transaction
+- **2026-10-29T15:42:29+07:00** - [Event #2239] chore(ci): add automated benchmark regression testing to PR pipeline
