@@ -1271,3 +1271,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T19:59:13+07:00** - [Event #2266] feat(storage): implement atomic transaction rollback on write failure
 - **2026-10-29T20:05:21+07:00** - [Event #2267] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-29T20:15:37+07:00** - [Event #2268] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
+- **2026-10-29T20:22:54+07:00** - [Event #2269] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
