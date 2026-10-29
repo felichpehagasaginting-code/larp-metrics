@@ -1229,3 +1229,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T14:23:11+07:00** - [Event #2224] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-10-29T14:29:42+07:00** - [Event #2225] test(api): test input validation edge cases with malformed payloads
 - **2026-10-29T14:32:57+07:00** - [Event #2226] feat(engine): support distributed tracing with OpenTelemetry context propagation
+- **2026-10-29T14:33:44+07:00** - [Event #2227] perf(storage): optimize binary search lookup in sorted key segments
