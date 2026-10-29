@@ -1266,3 +1266,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T19:15:40+07:00** - [Event #2261] refactor(utils): streamline byte slice manipulation and buffer pooling
 - **2026-10-29T19:21:57+07:00** - [Event #2262] fix(engine): correct task priority inversion in scheduler heap
 - **2026-10-29T19:27:30+07:00** - [Event #2263] test(engine): add stress test suite for concurrent event dispatcher
+- **2026-10-29T19:41:22+07:00** - [Event #2264] fix(engine): correct task priority inversion in scheduler heap
