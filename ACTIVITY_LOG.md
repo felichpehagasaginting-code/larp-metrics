@@ -1280,3 +1280,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T21:17:23+07:00** - [Event #2275] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-29T21:23:21+07:00** - [Event #2276] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-29T21:30:17+07:00** - [Event #2277] feat(engine): add resilient circuit breaker for external service calls
+- **2026-10-29T21:44:40+07:00** - [Event #2278] feat(cli): add command-line flag parser with custom help templates
