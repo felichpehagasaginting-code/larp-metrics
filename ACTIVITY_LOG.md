@@ -1288,3 +1288,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T22:24:38+07:00** - [Event #2283] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-10-29T22:38:02+07:00** - [Event #2284] docs(arch): add design document explaining persistent storage model
 - **2026-10-29T22:39:17+07:00** - [Event #2285] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-10-29T22:51:43+07:00** - [Event #2286] docs(api): document endpoint authentication requirements and error codes
