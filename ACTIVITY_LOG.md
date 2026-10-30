@@ -1357,3 +1357,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T15:46:46+07:00** - [Event #2352] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-30T16:00:25+07:00** - [Event #2353] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-30T16:03:15+07:00** - [Event #2354] docs(deploy): document containerized deployment guide with Docker and Helm
+- **2026-10-30T16:08:35+07:00** - [Event #2355] docs(api): document endpoint authentication requirements and error codes
