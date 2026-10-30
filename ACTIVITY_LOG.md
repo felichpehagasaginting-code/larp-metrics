@@ -1367,3 +1367,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T16:46:31+07:00** - [Event #2362] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-30T16:52:42+07:00** - [Event #2363] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-30T16:53:58+07:00** - [Event #2364] perf(storage): batch sequential disk write operations into memory ring buffer
+- **2026-10-30T16:57:09+07:00** - [Event #2365] fix(api): adjust CORS allowed origins header for multi-tenant domains
