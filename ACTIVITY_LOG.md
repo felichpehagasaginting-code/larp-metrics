@@ -1394,3 +1394,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T21:34:38+07:00** - [Event #2389] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-30T21:47:15+07:00** - [Event #2390] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-30T21:53:12+07:00** - [Event #2391] fix(storage): fix file descriptor leak during rapid log rotation
+- **2026-10-30T21:58:23+07:00** - [Event #2392] chore(lint): enable strict static analysis and dead code elimination rules
