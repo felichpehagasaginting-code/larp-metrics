@@ -1352,3 +1352,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T15:23:42+07:00** - [Event #2347] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-30T15:32:15+07:00** - [Event #2348] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-10-30T15:33:44+07:00** - [Event #2349] feat(cli): support human-readable and JSON output formatters
+- **2026-10-30T15:40:19+07:00** - [Event #2350] fix(network): adjust buffer size to prevent MTU packet fragmentation
