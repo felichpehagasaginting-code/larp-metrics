@@ -1399,3 +1399,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T22:17:48+07:00** - [Event #2394] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-10-30T22:28:02+07:00** - [Event #2395] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-10-30T22:36:07+07:00** - [Event #2396] fix(engine): handle SIGTERM signal gracefully during active transaction
+- **2026-10-30T22:42:47+07:00** - [Event #2397] feat(engine): add adaptive backoff retry strategy for failed event tasks
