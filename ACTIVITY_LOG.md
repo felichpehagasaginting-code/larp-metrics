@@ -1302,3 +1302,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T09:33:10+07:00** - [Event #2297] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-30T09:39:29+07:00** - [Event #2298] refactor(config): group environment variables into validated config structs
 - **2026-10-30T09:47:23+07:00** - [Event #2299] docs(contributing): add developer setup and code style guidelines
+- **2026-10-30T09:50:51+07:00** - [Event #2300] refactor(storage): modularize WAL serialization codec into dedicated package
