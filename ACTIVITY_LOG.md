@@ -1381,3 +1381,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T19:43:35+07:00** - [Event #2376] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-30T19:50:18+07:00** - [Event #2377] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-30T20:01:51+07:00** - [Event #2378] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-10-30T20:07:33+07:00** - [Event #2379] feat(api): introduce API key authentication with granular scope permissions
