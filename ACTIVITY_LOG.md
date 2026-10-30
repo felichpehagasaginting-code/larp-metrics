@@ -1403,3 +1403,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T22:57:22+07:00** - [Event #2398] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-30T23:01:23+07:00** - [Event #2399] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-10-30T23:06:02+07:00** - [Event #2400] feat(engine): add resilient circuit breaker for external service calls
+- **2026-10-30T23:16:49+07:00** - [Event #2401] refactor(config): group environment variables into validated config structs
