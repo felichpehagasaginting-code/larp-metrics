@@ -1326,3 +1326,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T11:57:37+07:00** - [Event #2321] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-30T12:05:24+07:00** - [Event #2322] refactor(engine): simplify worker state machine transitions and error states
 - **2026-10-30T12:15:45+07:00** - [Event #2323] refactor(utils): streamline byte slice manipulation and buffer pooling
+- **2026-10-30T12:15:52+07:00** - [Event #2324] feat(network): introduce token bucket rate limiter with IP subnet bursting
