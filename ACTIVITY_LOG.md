@@ -1370,3 +1370,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T16:57:09+07:00** - [Event #2365] fix(api): adjust CORS allowed origins header for multi-tenant domains
 - **2026-10-30T17:08:15+07:00** - [Event #2366] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-30T17:10:55+07:00** - [Event #2367] feat(api): add pagination cursor support for high-cardinality audit logs
+- **2026-10-30T17:22:05+07:00** - [Event #2368] test(storage): verify cache eviction policy under memory pressure
