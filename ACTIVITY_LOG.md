@@ -1388,3 +1388,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T20:46:18+07:00** - [Event #2383] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-30T20:46:35+07:00** - [Event #2384] feat(crypto): implement HMAC SHA-256 webhook payload signing
 - **2026-10-30T20:59:58+07:00** - [Event #2385] fix(storage): fix file descriptor leak during rapid log rotation
+- **2026-10-30T21:07:01+07:00** - [Event #2386] fix(network): adjust buffer size to prevent MTU packet fragmentation
