@@ -1355,3 +1355,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T15:40:19+07:00** - [Event #2350] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-10-30T15:42:03+07:00** - [Event #2351] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-30T15:46:46+07:00** - [Event #2352] feat(api): introduce API key authentication with granular scope permissions
+- **2026-10-30T16:00:25+07:00** - [Event #2353] test(storage): add integration tests for WAL replay on clean startup
