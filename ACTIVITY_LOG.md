@@ -1384,3 +1384,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T20:07:33+07:00** - [Event #2379] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-30T20:13:11+07:00** - [Event #2380] docs(api): document endpoint authentication requirements and error codes
 - **2026-10-30T20:21:39+07:00** - [Event #2381] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-10-30T20:30:25+07:00** - [Event #2382] feat(engine): implement dynamic configuration reloader without daemon restart
