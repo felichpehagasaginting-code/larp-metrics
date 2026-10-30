@@ -1342,3 +1342,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T14:32:45+07:00** - [Event #2337] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-30T14:34:07+07:00** - [Event #2338] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-10-30T14:43:38+07:00** - [Event #2339] fix(network): resolve TCP socket half-open state on silent client disconnect
+- **2026-10-30T14:47:04+07:00** - [Event #2340] docs(api): document endpoint authentication requirements and error codes
