@@ -1390,3 +1390,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T20:59:58+07:00** - [Event #2385] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-10-30T21:07:01+07:00** - [Event #2386] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-10-30T21:20:10+07:00** - [Event #2387] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-10-30T21:22:51+07:00** - [Event #2388] fix(network): resolve TCP socket half-open state on silent client disconnect
