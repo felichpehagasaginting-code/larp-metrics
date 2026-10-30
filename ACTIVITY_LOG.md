@@ -1360,3 +1360,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T16:08:35+07:00** - [Event #2355] docs(api): document endpoint authentication requirements and error codes
 - **2026-10-30T16:13:10+07:00** - [Event #2356] feat(cli): support human-readable and JSON output formatters
 - **2026-10-30T16:19:06+07:00** - [Event #2357] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-10-30T16:19:20+07:00** - [Event #2358] refactor(config): group environment variables into validated config structs
