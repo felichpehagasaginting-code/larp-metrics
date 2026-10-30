@@ -1316,3 +1316,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T10:54:10+07:00** - [Event #2311] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-30T11:00:35+07:00** - [Event #2312] refactor(utils): streamline byte slice manipulation and buffer pooling
 - **2026-10-30T11:14:20+07:00** - [Event #2313] chore(git): add ignore rules for temporary build artifacts and test reports
+- **2026-10-30T11:16:09+07:00** - [Event #2314] feat(api): define RESTful resource endpoints for session lifecycle events
