@@ -1323,3 +1323,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T11:39:18+07:00** - [Event #2318] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-10-30T11:51:47+07:00** - [Event #2319] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-30T11:56:00+07:00** - [Event #2320] feat(engine): add resilient circuit breaker for external service calls
+- **2026-10-30T11:57:37+07:00** - [Event #2321] perf(storage): replace JSON marshaling with zero-allocation binary codec
