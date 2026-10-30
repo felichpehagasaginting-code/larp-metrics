@@ -1374,3 +1374,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T17:25:33+07:00** - [Event #2369] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-30T17:29:46+07:00** - [Event #2370] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-30T17:34:04+07:00** - [Event #2371] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
+- **2026-10-30T17:43:56+07:00** - [Event #2372] refactor(types): standardize domain error definitions and error code constants
