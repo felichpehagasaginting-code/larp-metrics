@@ -1313,3 +1313,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T10:38:19+07:00** - [Event #2308] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-10-30T10:44:36+07:00** - [Event #2309] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-10-30T10:50:35+07:00** - [Event #2310] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-10-30T10:54:10+07:00** - [Event #2311] feat(api): introduce API key authentication with granular scope permissions
