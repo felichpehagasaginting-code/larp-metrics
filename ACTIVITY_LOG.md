@@ -1309,3 +1309,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T10:10:53+07:00** - [Event #2304] docs(contributing): add developer setup and code style guidelines
 - **2026-10-30T10:19:51+07:00** - [Event #2305] refactor(network): consolidate HTTP client middleware pipeline handlers
 - **2026-10-30T10:28:04+07:00** - [Event #2306] feat(storage): introduce lock-free concurrent hash map for state lookups
+- **2026-10-30T10:32:59+07:00** - [Event #2307] feat(api): define RESTful resource endpoints for session lifecycle events
