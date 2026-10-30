@@ -1358,3 +1358,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T16:00:25+07:00** - [Event #2353] test(storage): add integration tests for WAL replay on clean startup
 - **2026-10-30T16:03:15+07:00** - [Event #2354] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-30T16:08:35+07:00** - [Event #2355] docs(api): document endpoint authentication requirements and error codes
+- **2026-10-30T16:13:10+07:00** - [Event #2356] feat(cli): support human-readable and JSON output formatters
