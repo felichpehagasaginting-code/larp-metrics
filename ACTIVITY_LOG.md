@@ -1331,3 +1331,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T13:30:18+07:00** - [Event #2326] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-10-30T13:30:59+07:00** - [Event #2327] feat(storage): support compressed chunked blob storage format
 - **2026-10-30T13:44:11+07:00** - [Event #2328] refactor(types): standardize domain error definitions and error code constants
+- **2026-10-30T13:50:10+07:00** - [Event #2329] perf(storage): optimize binary search lookup in sorted key segments
