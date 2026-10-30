@@ -1365,3 +1365,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T16:31:12+07:00** - [Event #2360] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-30T16:41:18+07:00** - [Event #2361] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-10-30T16:46:31+07:00** - [Event #2362] refactor(engine): migrate event dispatcher to observer pub-sub pattern
+- **2026-10-30T16:52:42+07:00** - [Event #2363] feat(engine): implement high-throughput asynchronous batch processor
