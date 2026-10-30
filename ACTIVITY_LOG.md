@@ -1345,3 +1345,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T14:47:04+07:00** - [Event #2340] docs(api): document endpoint authentication requirements and error codes
 - **2026-10-30T14:47:46+07:00** - [Event #2341] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-30T14:55:53+07:00** - [Event #2342] feat(engine): add structured telemetry metrics exporter for Prometheus
+- **2026-10-30T15:02:40+07:00** - [Event #2343] feat(network): implement graceful connection draining on shutdown signal
