@@ -1295,3 +1295,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-29T23:26:39+07:00** - [Event #2290] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-10-29T23:39:53+07:00** - [Event #2291] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-30T09:00:29+07:00** - [Event #2292] test(engine): test worker recovery after simulated unhandled panic
+- **2026-10-30T09:02:15+07:00** - [Event #2293] feat(cli): add command-line flag parser with custom help templates
