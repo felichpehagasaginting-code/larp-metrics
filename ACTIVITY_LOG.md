@@ -1350,3 +1350,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T15:13:08+07:00** - [Event #2345] test(api): test input validation edge cases with malformed payloads
 - **2026-10-30T15:19:43+07:00** - [Event #2346] chore(deps): update core external dependencies to latest stable patches
 - **2026-10-30T15:23:42+07:00** - [Event #2347] test(storage): add integration tests for WAL replay on clean startup
+- **2026-10-30T15:32:15+07:00** - [Event #2348] feat(engine): add adaptive backoff retry strategy for failed event tasks
