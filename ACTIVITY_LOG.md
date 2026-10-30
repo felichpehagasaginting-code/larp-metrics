@@ -1319,3 +1319,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T11:16:09+07:00** - [Event #2314] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-10-30T11:20:34+07:00** - [Event #2315] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-30T11:32:02+07:00** - [Event #2316] feat(cli): support human-readable and JSON output formatters
+- **2026-10-30T11:33:16+07:00** - [Event #2317] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
