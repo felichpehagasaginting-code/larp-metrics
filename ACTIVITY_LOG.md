@@ -1329,3 +1329,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T12:15:52+07:00** - [Event #2324] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-30T12:27:20+07:00** - [Event #2325] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-30T13:30:18+07:00** - [Event #2326] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-10-30T13:30:59+07:00** - [Event #2327] feat(storage): support compressed chunked blob storage format
