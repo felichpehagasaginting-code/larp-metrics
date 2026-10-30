@@ -1297,3 +1297,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T09:00:29+07:00** - [Event #2292] test(engine): test worker recovery after simulated unhandled panic
 - **2026-10-30T09:02:15+07:00** - [Event #2293] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-30T09:16:50+07:00** - [Event #2294] feat(storage): introduce lock-free concurrent hash map for state lookups
+- **2026-10-30T09:17:42+07:00** - [Event #2295] test(storage): verify cache eviction policy under memory pressure
