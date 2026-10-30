@@ -1371,3 +1371,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T17:08:15+07:00** - [Event #2366] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-30T17:10:55+07:00** - [Event #2367] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-10-30T17:22:05+07:00** - [Event #2368] test(storage): verify cache eviction policy under memory pressure
+- **2026-10-30T17:25:33+07:00** - [Event #2369] feat(cli): add command-line flag parser with custom help templates
