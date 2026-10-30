@@ -1386,3 +1386,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T20:21:39+07:00** - [Event #2381] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-10-30T20:30:25+07:00** - [Event #2382] feat(engine): implement dynamic configuration reloader without daemon restart
 - **2026-10-30T20:46:18+07:00** - [Event #2383] feat(api): introduce API key authentication with granular scope permissions
+- **2026-10-30T20:46:35+07:00** - [Event #2384] feat(crypto): implement HMAC SHA-256 webhook payload signing
