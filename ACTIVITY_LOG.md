@@ -1363,3 +1363,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T16:19:20+07:00** - [Event #2358] refactor(config): group environment variables into validated config structs
 - **2026-10-30T16:30:45+07:00** - [Event #2359] feat(storage): implement append-only persistent WAL log storage driver
 - **2026-10-30T16:31:12+07:00** - [Event #2360] feat(api): define RESTful resource endpoints for session lifecycle events
+- **2026-10-30T16:41:18+07:00** - [Event #2361] feat(engine): support distributed tracing with OpenTelemetry context propagation
