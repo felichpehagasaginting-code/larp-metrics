@@ -1392,3 +1392,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T21:20:10+07:00** - [Event #2387] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-30T21:22:51+07:00** - [Event #2388] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-10-30T21:34:38+07:00** - [Event #2389] feat(api): define RESTful resource endpoints for session lifecycle events
+- **2026-10-30T21:47:15+07:00** - [Event #2390] refactor(engine): migrate event dispatcher to observer pub-sub pattern
