@@ -1429,3 +1429,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T11:08:11+07:00** - [Event #2424] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-31T11:15:09+07:00** - [Event #2425] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-10-31T11:20:52+07:00** - [Event #2426] test(storage): add integration tests for WAL replay on clean startup
+- **2026-10-31T11:22:16+07:00** - [Event #2427] feat(network): introduce token bucket rate limiter with IP subnet bursting
