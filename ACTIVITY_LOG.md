@@ -1488,3 +1488,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T19:19:43+07:00** - [Event #2483] docs(contributing): add developer setup and code style guidelines
 - **2026-10-31T19:28:53+07:00** - [Event #2484] test(engine): add fuzzing tests for binary message deserializer
 - **2026-10-31T19:34:24+07:00** - [Event #2485] docs(contributing): add developer setup and code style guidelines
+- **2026-10-31T19:43:25+07:00** - [Event #2486] refactor(engine): simplify worker state machine transitions and error states
