@@ -1502,3 +1502,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T21:18:25+07:00** - [Event #2497] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-31T21:28:13+07:00** - [Event #2498] refactor(storage): extract storage backend interface for pluggable drivers
 - **2026-10-31T21:37:19+07:00** - [Event #2499] fix(engine): prevent integer overflow when calculating exponential backoff
+- **2026-10-31T21:38:31+07:00** - [Event #2500] fix(storage): repair index segment corruption on unexpected process kill
