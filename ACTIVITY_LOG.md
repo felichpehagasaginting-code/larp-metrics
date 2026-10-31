@@ -1464,3 +1464,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T15:34:34+07:00** - [Event #2459] test(storage): verify cache eviction policy under memory pressure
 - **2026-10-31T15:37:08+07:00** - [Event #2460] docs(arch): add design document explaining persistent storage model
 - **2026-10-31T15:44:19+07:00** - [Event #2461] feat(network): add gRPC service definition and protobuf serialization stubs
+- **2026-10-31T15:48:32+07:00** - [Event #2462] test(engine): test worker recovery after simulated unhandled panic
