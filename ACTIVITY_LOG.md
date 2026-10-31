@@ -1480,3 +1480,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T16:59:11+07:00** - [Event #2475] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-31T17:05:24+07:00** - [Event #2476] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-10-31T17:14:23+07:00** - [Event #2477] refactor(network): replace raw socket handling with stream abstractions
+- **2026-10-31T17:19:04+07:00** - [Event #2478] fix(api): return 429 Too Many Requests status when rate limit exceeded
