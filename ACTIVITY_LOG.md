@@ -1444,3 +1444,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T13:44:32+07:00** - [Event #2439] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-10-31T13:45:28+07:00** - [Event #2440] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-10-31T13:47:07+07:00** - [Event #2441] fix(network): fix TLS handshake failure on legacy certificate authorities
+- **2026-10-31T13:54:09+07:00** - [Event #2442] fix(network): fix DNS lookup timeout under slow upstream resolver
