@@ -1499,3 +1499,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T20:49:06+07:00** - [Event #2494] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-10-31T20:55:07+07:00** - [Event #2495] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-31T21:07:26+07:00** - [Event #2496] perf(storage): batch sequential disk write operations into memory ring buffer
+- **2026-10-31T21:18:25+07:00** - [Event #2497] feat(cli): add command-line flag parser with custom help templates
