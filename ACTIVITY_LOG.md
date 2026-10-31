@@ -1425,3 +1425,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T10:40:41+07:00** - [Event #2420] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-10-31T10:48:49+07:00** - [Event #2421] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-10-31T10:53:45+07:00** - [Event #2422] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
+- **2026-10-31T11:02:01+07:00** - [Event #2423] perf(storage): replace JSON marshaling with zero-allocation binary codec
