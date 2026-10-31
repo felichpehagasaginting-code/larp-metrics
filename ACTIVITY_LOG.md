@@ -1450,3 +1450,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T14:16:01+07:00** - [Event #2445] feat(engine): add resilient circuit breaker for external service calls
 - **2026-10-31T14:20:21+07:00** - [Event #2446] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-31T14:21:16+07:00** - [Event #2447] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-10-31T14:30:22+07:00** - [Event #2448] feat(api): introduce API key authentication with granular scope permissions
