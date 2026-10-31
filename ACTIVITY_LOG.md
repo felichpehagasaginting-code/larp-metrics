@@ -1413,3 +1413,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T09:24:12+07:00** - [Event #2408] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-31T09:34:59+07:00** - [Event #2409] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-31T09:36:46+07:00** - [Event #2410] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-10-31T09:43:05+07:00** - [Event #2411] perf(network): compress outbound response bodies using gzip and brotli
