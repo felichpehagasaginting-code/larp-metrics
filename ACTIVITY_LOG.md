@@ -1447,3 +1447,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T13:54:09+07:00** - [Event #2442] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-31T14:01:12+07:00** - [Event #2443] fix(engine): prevent integer overflow when calculating exponential backoff
 - **2026-10-31T14:10:18+07:00** - [Event #2444] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-10-31T14:16:01+07:00** - [Event #2445] feat(engine): add resilient circuit breaker for external service calls
