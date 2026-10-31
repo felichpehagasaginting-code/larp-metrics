@@ -1455,3 +1455,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T14:47:24+07:00** - [Event #2450] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-10-31T14:47:33+07:00** - [Event #2451] docs(arch): add design document explaining persistent storage model
 - **2026-10-31T14:54:32+07:00** - [Event #2452] feat(engine): add structured telemetry metrics exporter for Prometheus
+- **2026-10-31T14:55:19+07:00** - [Event #2453] refactor(engine): simplify worker state machine transitions and error states
