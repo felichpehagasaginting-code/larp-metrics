@@ -1496,3 +1496,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T20:28:01+07:00** - [Event #2491] refactor(engine): simplify worker state machine transitions and error states
 - **2026-10-31T20:30:46+07:00** - [Event #2492] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-10-31T20:42:30+07:00** - [Event #2493] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
+- **2026-10-31T20:49:06+07:00** - [Event #2494] refactor(engine): migrate event dispatcher to observer pub-sub pattern
