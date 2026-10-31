@@ -1439,3 +1439,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T12:12:04+07:00** - [Event #2434] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-10-31T12:18:04+07:00** - [Event #2435] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-10-31T12:28:09+07:00** - [Event #2436] docs(api): document endpoint authentication requirements and error codes
+- **2026-10-31T13:32:35+07:00** - [Event #2437] feat(api): implement JSON schema validation middleware with field error mapping
