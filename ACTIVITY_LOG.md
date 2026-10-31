@@ -1483,3 +1483,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T17:19:04+07:00** - [Event #2478] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-10-31T17:20:02+07:00** - [Event #2479] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-10-31T17:32:47+07:00** - [Event #2480] fix(network): fix TLS handshake failure on legacy certificate authorities
+- **2026-10-31T17:33:32+07:00** - [Event #2481] fix(engine): handle SIGTERM signal gracefully during active transaction
