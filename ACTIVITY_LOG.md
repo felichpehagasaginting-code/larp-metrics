@@ -1472,3 +1472,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T16:16:47+07:00** - [Event #2467] fix(storage): handle disk full error gracefully with alert notification
 - **2026-10-31T16:18:31+07:00** - [Event #2468] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-10-31T16:27:32+07:00** - [Event #2469] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
+- **2026-10-31T16:33:05+07:00** - [Event #2470] feat(crypto): implement HMAC SHA-256 webhook payload signing
