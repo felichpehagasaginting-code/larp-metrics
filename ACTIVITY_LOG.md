@@ -1420,3 +1420,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T10:08:49+07:00** - [Event #2415] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-10-31T10:12:40+07:00** - [Event #2416] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-10-31T10:24:53+07:00** - [Event #2417] fix(api): prevent null pointer dereference on optional metadata attributes
+- **2026-10-31T10:31:17+07:00** - [Event #2418] feat(api): implement JSON schema validation middleware with field error mapping
