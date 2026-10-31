@@ -1411,3 +1411,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T09:16:14+07:00** - [Event #2406] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-10-31T09:23:14+07:00** - [Event #2407] feat(cli): add command-line flag parser with custom help templates
 - **2026-10-31T09:24:12+07:00** - [Event #2408] perf(storage): replace JSON marshaling with zero-allocation binary codec
+- **2026-10-31T09:34:59+07:00** - [Event #2409] refactor(network): replace raw socket handling with stream abstractions
