@@ -1510,3 +1510,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T22:30:38+07:00** - [Event #2505] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-10-31T22:31:13+07:00** - [Event #2506] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-10-31T22:47:33+07:00** - [Event #2507] feat(cli): add command-line flag parser with custom help templates
+- **2026-10-31T22:54:31+07:00** - [Event #2508] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
