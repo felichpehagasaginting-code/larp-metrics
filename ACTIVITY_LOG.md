@@ -1453,3 +1453,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T14:30:22+07:00** - [Event #2448] feat(api): introduce API key authentication with granular scope permissions
 - **2026-10-31T14:37:47+07:00** - [Event #2449] fix(api): adjust CORS allowed origins header for multi-tenant domains
 - **2026-10-31T14:47:24+07:00** - [Event #2450] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
+- **2026-10-31T14:47:33+07:00** - [Event #2451] docs(arch): add design document explaining persistent storage model
