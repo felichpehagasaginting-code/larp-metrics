@@ -1493,3 +1493,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T20:00:32+07:00** - [Event #2488] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-10-31T20:12:30+07:00** - [Event #2489] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-31T20:14:24+07:00** - [Event #2490] fix(network): resolve TCP socket half-open state on silent client disconnect
+- **2026-10-31T20:28:01+07:00** - [Event #2491] refactor(engine): simplify worker state machine transitions and error states
