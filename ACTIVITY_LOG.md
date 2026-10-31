@@ -1478,3 +1478,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T16:47:10+07:00** - [Event #2473] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-10-31T16:57:15+07:00** - [Event #2474] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-10-31T16:59:11+07:00** - [Event #2475] perf(storage): replace JSON marshaling with zero-allocation binary codec
+- **2026-10-31T17:05:24+07:00** - [Event #2476] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
