@@ -1457,3 +1457,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T14:54:32+07:00** - [Event #2452] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-10-31T14:55:19+07:00** - [Event #2453] refactor(engine): simplify worker state machine transitions and error states
 - **2026-10-31T15:01:29+07:00** - [Event #2454] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-10-31T15:15:46+07:00** - [Event #2455] feat(engine): add structured telemetry metrics exporter for Prometheus
