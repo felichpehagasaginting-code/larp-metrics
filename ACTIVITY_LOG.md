@@ -1436,3 +1436,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T11:50:04+07:00** - [Event #2431] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-10-31T11:56:25+07:00** - [Event #2432] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-10-31T12:08:12+07:00** - [Event #2433] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-10-31T12:12:04+07:00** - [Event #2434] docs(deploy): document containerized deployment guide with Docker and Helm
