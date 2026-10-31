@@ -1408,3 +1408,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-30T23:33:38+07:00** - [Event #2403] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-10-31T09:03:35+07:00** - [Event #2404] test(network): add mock server tests for HTTP client retry policies
 - **2026-10-31T09:04:52+07:00** - [Event #2405] perf(storage): replace JSON marshaling with zero-allocation binary codec
+- **2026-10-31T09:16:14+07:00** - [Event #2406] fix(engine): handle SIGTERM signal gracefully during active transaction
