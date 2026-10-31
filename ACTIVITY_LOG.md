@@ -1432,3 +1432,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T11:22:16+07:00** - [Event #2427] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-10-31T11:30:38+07:00** - [Event #2428] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-10-31T11:42:52+07:00** - [Event #2429] fix(api): return 429 Too Many Requests status when rate limit exceeded
+- **2026-10-31T11:44:01+07:00** - [Event #2430] test(network): test rate limiter burst behavior under load test harness
