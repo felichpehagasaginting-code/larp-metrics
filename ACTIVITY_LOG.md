@@ -1428,3 +1428,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T11:02:01+07:00** - [Event #2423] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-10-31T11:08:11+07:00** - [Event #2424] refactor(network): replace raw socket handling with stream abstractions
 - **2026-10-31T11:15:09+07:00** - [Event #2425] feat(engine): implement high-throughput asynchronous batch processor
+- **2026-10-31T11:20:52+07:00** - [Event #2426] test(storage): add integration tests for WAL replay on clean startup
