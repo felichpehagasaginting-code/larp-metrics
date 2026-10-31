@@ -1508,3 +1508,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T22:09:58+07:00** - [Event #2503] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-10-31T22:15:36+07:00** - [Event #2504] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-10-31T22:30:38+07:00** - [Event #2505] fix(network): fix TLS handshake failure on legacy certificate authorities
+- **2026-10-31T22:31:13+07:00** - [Event #2506] fix(network): resolve TCP socket half-open state on silent client disconnect
