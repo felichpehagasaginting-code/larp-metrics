@@ -1575,3 +1575,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T16:10:49+07:00** - [Event #2570] test(network): test rate limiter burst behavior under load test harness
 - **2026-11-01T16:15:43+07:00** - [Event #2571] feat(api): introduce API key authentication with granular scope permissions
 - **2026-11-01T16:25:07+07:00** - [Event #2572] feat(network): support TLS 1.3 session resumption and cipher suite configuration
+- **2026-11-01T16:26:20+07:00** - [Event #2573] feat(api): introduce API key authentication with granular scope permissions
