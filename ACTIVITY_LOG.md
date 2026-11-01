@@ -1516,3 +1516,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T23:17:43+07:00** - [Event #2511] test(network): test rate limiter burst behavior under load test harness
 - **2026-10-31T23:31:14+07:00** - [Event #2512] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-10-31T23:32:34+07:00** - [Event #2513] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-11-01T09:00:19+07:00** - [Event #2514] fix(storage): ensure atomic sync to disk on critical commit markers
