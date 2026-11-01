@@ -1537,3 +1537,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T11:09:55+07:00** - [Event #2532] test(storage): verify cache eviction policy under memory pressure
 - **2026-11-01T11:15:15+07:00** - [Event #2533] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-11-01T11:19:47+07:00** - [Event #2534] refactor(config): group environment variables into validated config structs
+- **2026-11-01T11:30:18+07:00** - [Event #2535] refactor(engine): decouple task scheduler from concrete queue implementations
