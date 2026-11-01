@@ -1567,3 +1567,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T15:24:55+07:00** - [Event #2562] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-11-01T15:27:28+07:00** - [Event #2563] feat(cli): support human-readable and JSON output formatters
 - **2026-11-01T15:31:10+07:00** - [Event #2564] fix(network): resolve TCP socket half-open state on silent client disconnect
+- **2026-11-01T15:36:44+07:00** - [Event #2565] refactor(storage): extract storage backend interface for pluggable drivers
