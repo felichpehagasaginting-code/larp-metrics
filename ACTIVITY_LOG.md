@@ -1522,3 +1522,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T09:17:16+07:00** - [Event #2517] docs(contributing): add developer setup and code style guidelines
 - **2026-11-01T09:27:45+07:00** - [Event #2518] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-11-01T09:36:32+07:00** - [Event #2519] test(engine): add fuzzing tests for binary message deserializer
+- **2026-11-01T09:39:09+07:00** - [Event #2520] feat(engine): support distributed tracing with OpenTelemetry context propagation
