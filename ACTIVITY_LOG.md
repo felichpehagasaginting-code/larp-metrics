@@ -1610,3 +1610,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T22:31:49+07:00** - [Event #2605] refactor(engine): simplify worker state machine transitions and error states
 - **2026-11-01T22:37:53+07:00** - [Event #2606] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-11-01T22:47:29+07:00** - [Event #2607] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-11-01T22:58:44+07:00** - [Event #2608] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
