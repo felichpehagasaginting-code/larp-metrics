@@ -1613,3 +1613,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T22:58:44+07:00** - [Event #2608] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-11-01T23:09:25+07:00** - [Event #2609] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-11-01T23:11:11+07:00** - [Event #2610] test(api): add comprehensive contract test suite for REST endpoints
+- **2026-11-01T23:31:37+07:00** - [Event #2611] docs(contributing): add developer setup and code style guidelines
