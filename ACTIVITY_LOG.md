@@ -1518,3 +1518,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-10-31T23:32:34+07:00** - [Event #2513] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-11-01T09:00:19+07:00** - [Event #2514] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-11-01T09:10:22+07:00** - [Event #2515] fix(network): fix TLS handshake failure on legacy certificate authorities
+- **2026-11-01T09:17:09+07:00** - [Event #2516] fix(network): fix DNS lookup timeout under slow upstream resolver
