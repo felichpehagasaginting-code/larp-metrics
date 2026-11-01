@@ -1590,3 +1590,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T19:20:56+07:00** - [Event #2585] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-11-01T19:27:11+07:00** - [Event #2586] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-11-01T19:32:00+07:00** - [Event #2587] test(network): add mock server tests for HTTP client retry policies
+- **2026-11-01T19:40:40+07:00** - [Event #2588] refactor(engine): decouple task scheduler from concrete queue implementations
