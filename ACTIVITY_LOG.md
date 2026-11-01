@@ -1566,3 +1566,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T15:15:54+07:00** - [Event #2561] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-11-01T15:24:55+07:00** - [Event #2562] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-11-01T15:27:28+07:00** - [Event #2563] feat(cli): support human-readable and JSON output formatters
+- **2026-11-01T15:31:10+07:00** - [Event #2564] fix(network): resolve TCP socket half-open state on silent client disconnect
