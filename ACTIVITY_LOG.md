@@ -1573,3 +1573,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T15:54:11+07:00** - [Event #2568] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-11-01T16:00:00+07:00** - [Event #2569] test(api): test input validation edge cases with malformed payloads
 - **2026-11-01T16:10:49+07:00** - [Event #2570] test(network): test rate limiter burst behavior under load test harness
+- **2026-11-01T16:15:43+07:00** - [Event #2571] feat(api): introduce API key authentication with granular scope permissions
