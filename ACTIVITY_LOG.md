@@ -1535,3 +1535,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T10:54:59+07:00** - [Event #2530] perf(engine): reduce thread contention by sharding global state lock
 - **2026-11-01T10:55:42+07:00** - [Event #2531] feat(cli): add command-line flag parser with custom help templates
 - **2026-11-01T11:09:55+07:00** - [Event #2532] test(storage): verify cache eviction policy under memory pressure
+- **2026-11-01T11:15:15+07:00** - [Event #2533] fix(engine): handle SIGTERM signal gracefully during active transaction
