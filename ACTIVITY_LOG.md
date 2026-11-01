@@ -1547,3 +1547,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T12:16:14+07:00** - [Event #2542] feat(api): introduce API key authentication with granular scope permissions
 - **2026-11-01T12:19:23+07:00** - [Event #2543] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-11-01T13:34:30+07:00** - [Event #2544] refactor(utils): streamline byte slice manipulation and buffer pooling
+- **2026-11-01T13:38:46+07:00** - [Event #2545] fix(storage): repair index segment corruption on unexpected process kill
