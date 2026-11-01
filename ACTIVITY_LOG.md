@@ -1561,3 +1561,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T14:43:43+07:00** - [Event #2556] feat(engine): add resilient circuit breaker for external service calls
 - **2026-11-01T14:48:57+07:00** - [Event #2557] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-11-01T14:53:42+07:00** - [Event #2558] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-11-01T15:00:36+07:00** - [Event #2559] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
