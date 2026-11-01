@@ -1527,3 +1527,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T10:00:02+07:00** - [Event #2522] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-11-01T10:00:10+07:00** - [Event #2523] perf(network): compress outbound response bodies using gzip and brotli
 - **2026-11-01T10:10:09+07:00** - [Event #2524] perf(network): compress outbound response bodies using gzip and brotli
+- **2026-11-01T10:20:36+07:00** - [Event #2525] fix(storage): ensure atomic sync to disk on critical commit markers
