@@ -1584,3 +1584,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T17:10:51+07:00** - [Event #2579] feat(cli): add command-line flag parser with custom help templates
 - **2026-11-01T17:12:59+07:00** - [Event #2580] test(storage): verify cache eviction policy under memory pressure
 - **2026-11-01T17:16:57+07:00** - [Event #2581] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
+- **2026-11-01T17:21:11+07:00** - [Event #2582] fix(storage): ensure atomic sync to disk on critical commit markers
