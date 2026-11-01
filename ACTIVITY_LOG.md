@@ -1597,3 +1597,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T20:19:40+07:00** - [Event #2592] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-11-01T20:28:59+07:00** - [Event #2593] refactor(types): standardize domain error definitions and error code constants
 - **2026-11-01T20:42:37+07:00** - [Event #2594] refactor(config): group environment variables into validated config structs
+- **2026-11-01T20:48:10+07:00** - [Event #2595] test(engine): add fuzzing tests for binary message deserializer
