@@ -1577,3 +1577,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T16:25:07+07:00** - [Event #2572] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-11-01T16:26:20+07:00** - [Event #2573] feat(api): introduce API key authentication with granular scope permissions
 - **2026-11-01T16:37:50+07:00** - [Event #2574] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
+- **2026-11-01T16:38:23+07:00** - [Event #2575] test(storage): add integration tests for WAL replay on clean startup
