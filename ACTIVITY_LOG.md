@@ -1531,3 +1531,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T10:22:27+07:00** - [Event #2526] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-11-01T10:29:30+07:00** - [Event #2527] feat(engine): add structured telemetry metrics exporter for Prometheus
 - **2026-11-01T10:37:03+07:00** - [Event #2528] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-11-01T10:46:52+07:00** - [Event #2529] perf(storage): batch sequential disk write operations into memory ring buffer
