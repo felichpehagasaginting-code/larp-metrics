@@ -1594,3 +1594,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T19:52:49+07:00** - [Event #2589] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-11-01T20:02:50+07:00** - [Event #2590] fix(api): return 429 Too Many Requests status when rate limit exceeded
 - **2026-11-01T20:12:20+07:00** - [Event #2591] chore(deps): update core external dependencies to latest stable patches
+- **2026-11-01T20:19:40+07:00** - [Event #2592] fix(storage): ensure atomic sync to disk on critical commit markers
