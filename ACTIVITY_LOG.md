@@ -1602,3 +1602,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T21:13:20+07:00** - [Event #2597] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-11-01T21:22:18+07:00** - [Event #2598] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-11-01T21:31:22+07:00** - [Event #2599] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
+- **2026-11-01T21:44:57+07:00** - [Event #2600] refactor(network): replace raw socket handling with stream abstractions
