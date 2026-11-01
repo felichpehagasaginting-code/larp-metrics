@@ -1519,3 +1519,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T09:00:19+07:00** - [Event #2514] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-11-01T09:10:22+07:00** - [Event #2515] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-11-01T09:17:09+07:00** - [Event #2516] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-11-01T09:17:16+07:00** - [Event #2517] docs(contributing): add developer setup and code style guidelines
