@@ -1582,3 +1582,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T16:52:54+07:00** - [Event #2577] feat(storage): implement append-only persistent WAL log storage driver
 - **2026-11-01T17:01:50+07:00** - [Event #2578] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-11-01T17:10:51+07:00** - [Event #2579] feat(cli): add command-line flag parser with custom help templates
+- **2026-11-01T17:12:59+07:00** - [Event #2580] test(storage): verify cache eviction policy under memory pressure
