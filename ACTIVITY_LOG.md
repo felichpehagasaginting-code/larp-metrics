@@ -1528,3 +1528,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T10:00:10+07:00** - [Event #2523] perf(network): compress outbound response bodies using gzip and brotli
 - **2026-11-01T10:10:09+07:00** - [Event #2524] perf(network): compress outbound response bodies using gzip and brotli
 - **2026-11-01T10:20:36+07:00** - [Event #2525] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-11-01T10:22:27+07:00** - [Event #2526] fix(storage): repair index segment corruption on unexpected process kill
