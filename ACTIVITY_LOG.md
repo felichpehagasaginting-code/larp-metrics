@@ -1564,3 +1564,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T15:00:36+07:00** - [Event #2559] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-11-01T15:14:22+07:00** - [Event #2560] feat(api): introduce API key authentication with granular scope permissions
 - **2026-11-01T15:15:54+07:00** - [Event #2561] perf(storage): batch sequential disk write operations into memory ring buffer
+- **2026-11-01T15:24:55+07:00** - [Event #2562] fix(storage): resolve cache stale read anomaly under high concurrency
