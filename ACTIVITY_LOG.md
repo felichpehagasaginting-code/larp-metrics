@@ -1571,3 +1571,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T15:48:45+07:00** - [Event #2566] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-11-01T15:53:43+07:00** - [Event #2567] docs(contributing): add developer setup and code style guidelines
 - **2026-11-01T15:54:11+07:00** - [Event #2568] feat(engine): add structured telemetry metrics exporter for Prometheus
+- **2026-11-01T16:00:00+07:00** - [Event #2569] test(api): test input validation edge cases with malformed payloads
