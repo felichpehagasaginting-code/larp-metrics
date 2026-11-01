@@ -1607,3 +1607,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T22:03:04+07:00** - [Event #2602] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-11-01T22:11:25+07:00** - [Event #2603] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-11-01T22:16:13+07:00** - [Event #2604] feat(cli): implement interactive terminal progress spinner and progress bar
+- **2026-11-01T22:31:49+07:00** - [Event #2605] refactor(engine): simplify worker state machine transitions and error states
