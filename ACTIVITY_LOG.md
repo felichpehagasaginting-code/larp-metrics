@@ -1533,3 +1533,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T10:37:03+07:00** - [Event #2528] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-11-01T10:46:52+07:00** - [Event #2529] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-11-01T10:54:59+07:00** - [Event #2530] perf(engine): reduce thread contention by sharding global state lock
+- **2026-11-01T10:55:42+07:00** - [Event #2531] feat(cli): add command-line flag parser with custom help templates
