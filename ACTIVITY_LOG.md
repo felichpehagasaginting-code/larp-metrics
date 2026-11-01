@@ -1588,3 +1588,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T17:29:28+07:00** - [Event #2583] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-11-01T17:36:32+07:00** - [Event #2584] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-11-01T19:20:56+07:00** - [Event #2585] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-11-01T19:27:11+07:00** - [Event #2586] fix(engine): handle SIGTERM signal gracefully during active transaction
