@@ -1683,3 +1683,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T16:47:12+07:00** - [Event #2678] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-11-02T17:00:25+07:00** - [Event #2679] chore(deps): update core external dependencies to latest stable patches
 - **2026-11-02T17:00:38+07:00** - [Event #2680] feat(engine): initialize core pipeline event stream architecture
+- **2026-11-02T17:04:45+07:00** - [Event #2681] refactor(engine): decouple task scheduler from concrete queue implementations
