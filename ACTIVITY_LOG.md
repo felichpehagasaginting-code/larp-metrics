@@ -1676,3 +1676,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T16:11:33+07:00** - [Event #2671] test(engine): test worker recovery after simulated unhandled panic
 - **2026-11-02T16:12:51+07:00** - [Event #2672] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-11-02T16:19:59+07:00** - [Event #2673] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-11-02T16:28:51+07:00** - [Event #2674] perf(storage): replace JSON marshaling with zero-allocation binary codec
