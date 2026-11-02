@@ -1654,3 +1654,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T13:59:59+07:00** - [Event #2649] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
 - **2026-11-02T14:02:57+07:00** - [Event #2650] chore(deps): update core external dependencies to latest stable patches
 - **2026-11-02T14:15:01+07:00** - [Event #2651] fix(engine): prevent integer overflow when calculating exponential backoff
+- **2026-11-02T14:15:07+07:00** - [Event #2652] feat(api): introduce API key authentication with granular scope permissions
