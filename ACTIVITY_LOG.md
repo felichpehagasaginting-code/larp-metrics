@@ -1629,3 +1629,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T10:13:44+07:00** - [Event #2624] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-11-02T10:21:10+07:00** - [Event #2625] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-11-02T10:25:45+07:00** - [Event #2626] perf(storage): batch sequential disk write operations into memory ring buffer
+- **2026-11-02T10:32:37+07:00** - [Event #2627] fix(network): adjust buffer size to prevent MTU packet fragmentation
