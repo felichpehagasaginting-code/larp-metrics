@@ -1698,3 +1698,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T20:14:37+07:00** - [Event #2693] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-11-02T20:16:41+07:00** - [Event #2694] feat(engine): add resilient circuit breaker for external service calls
 - **2026-11-02T20:31:06+07:00** - [Event #2695] refactor(config): group environment variables into validated config structs
+- **2026-11-02T20:44:32+07:00** - [Event #2696] fix(api): adjust CORS allowed origins header for multi-tenant domains
