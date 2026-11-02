@@ -1616,3 +1616,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-01T23:31:37+07:00** - [Event #2611] docs(contributing): add developer setup and code style guidelines
 - **2026-11-01T23:33:45+07:00** - [Event #2612] refactor(types): standardize domain error definitions and error code constants
 - **2026-11-02T09:00:00+07:00** - [Event #2613] test(api): test input validation edge cases with malformed payloads
+- **2026-11-02T09:05:40+07:00** - [Event #2614] fix(engine): correct task priority inversion in scheduler heap
