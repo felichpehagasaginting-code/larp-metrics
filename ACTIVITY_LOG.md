@@ -1623,3 +1623,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T09:32:54+07:00** - [Event #2618] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-11-02T09:44:31+07:00** - [Event #2619] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-11-02T09:48:29+07:00** - [Event #2620] feat(storage): implement append-only persistent WAL log storage driver
+- **2026-11-02T09:50:41+07:00** - [Event #2621] fix(engine): resolve race condition in worker thread pool task queue
