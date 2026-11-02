@@ -1643,3 +1643,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T11:53:10+07:00** - [Event #2638] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-11-02T11:53:39+07:00** - [Event #2639] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-11-02T12:05:07+07:00** - [Event #2640] feat(engine): support distributed tracing with OpenTelemetry context propagation
+- **2026-11-02T12:12:30+07:00** - [Event #2641] fix(api): adjust CORS allowed origins header for multi-tenant domains
