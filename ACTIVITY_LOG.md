@@ -1656,3 +1656,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T14:15:01+07:00** - [Event #2651] fix(engine): prevent integer overflow when calculating exponential backoff
 - **2026-11-02T14:15:07+07:00** - [Event #2652] feat(api): introduce API key authentication with granular scope permissions
 - **2026-11-02T14:22:34+07:00** - [Event #2653] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-11-02T14:32:56+07:00** - [Event #2654] perf(storage): replace JSON marshaling with zero-allocation binary codec
