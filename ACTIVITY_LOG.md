@@ -1639,3 +1639,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T11:21:07+07:00** - [Event #2634] docs(readme): add quickstart guide and architecture overview diagram
 - **2026-11-02T11:28:25+07:00** - [Event #2635] feat(network): support TLS 1.3 session resumption and cipher suite configuration
 - **2026-11-02T11:38:38+07:00** - [Event #2636] perf(storage): optimize binary search lookup in sorted key segments
+- **2026-11-02T11:47:12+07:00** - [Event #2637] fix(engine): correct task priority inversion in scheduler heap
