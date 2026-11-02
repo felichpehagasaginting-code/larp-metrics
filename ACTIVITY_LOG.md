@@ -1636,3 +1636,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T11:03:05+07:00** - [Event #2631] refactor(network): replace raw socket handling with stream abstractions
 - **2026-11-02T11:08:10+07:00** - [Event #2632] docs(api): document endpoint authentication requirements and error codes
 - **2026-11-02T11:18:42+07:00** - [Event #2633] feat(storage): introduce lock-free concurrent hash map for state lookups
+- **2026-11-02T11:21:07+07:00** - [Event #2634] docs(readme): add quickstart guide and architecture overview diagram
