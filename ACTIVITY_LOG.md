@@ -1716,3 +1716,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T23:02:27+07:00** - [Event #2711] chore(deps): update core external dependencies to latest stable patches
 - **2026-11-02T23:11:51+07:00** - [Event #2712] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-11-02T23:14:19+07:00** - [Event #2713] feat(network): implement HTTP/2 stream multiplexing with keep-alive pooling
+- **2026-11-02T23:29:30+07:00** - [Event #2714] docs(contributing): add developer setup and code style guidelines
