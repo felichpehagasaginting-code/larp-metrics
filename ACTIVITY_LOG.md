@@ -1675,3 +1675,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T16:09:20+07:00** - [Event #2670] test(network): test rate limiter burst behavior under load test harness
 - **2026-11-02T16:11:33+07:00** - [Event #2671] test(engine): test worker recovery after simulated unhandled panic
 - **2026-11-02T16:12:51+07:00** - [Event #2672] refactor(engine): decouple task scheduler from concrete queue implementations
+- **2026-11-02T16:19:59+07:00** - [Event #2673] fix(storage): ensure atomic sync to disk on critical commit markers
