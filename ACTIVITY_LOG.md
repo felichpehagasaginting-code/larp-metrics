@@ -1641,3 +1641,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T11:38:38+07:00** - [Event #2636] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-11-02T11:47:12+07:00** - [Event #2637] fix(engine): correct task priority inversion in scheduler heap
 - **2026-11-02T11:53:10+07:00** - [Event #2638] fix(engine): fix memory leak from unclosed event emitter subscriptions
+- **2026-11-02T11:53:39+07:00** - [Event #2639] feat(storage): add snapshot compaction and automated segment garbage collection
