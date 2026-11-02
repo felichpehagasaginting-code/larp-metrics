@@ -1689,3 +1689,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T17:23:32+07:00** - [Event #2684] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-11-02T17:38:14+07:00** - [Event #2685] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-11-02T17:43:41+07:00** - [Event #2686] feat(cli): support human-readable and JSON output formatters
+- **2026-11-02T19:15:56+07:00** - [Event #2687] feat(api): add pagination cursor support for high-cardinality audit logs
