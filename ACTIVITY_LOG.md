@@ -1634,3 +1634,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T10:46:03+07:00** - [Event #2629] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-11-02T10:54:39+07:00** - [Event #2630] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-11-02T11:03:05+07:00** - [Event #2631] refactor(network): replace raw socket handling with stream abstractions
+- **2026-11-02T11:08:10+07:00** - [Event #2632] docs(api): document endpoint authentication requirements and error codes
