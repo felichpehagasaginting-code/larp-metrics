@@ -1710,3 +1710,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T21:59:00+07:00** - [Event #2705] feat(storage): introduce lock-free concurrent hash map for state lookups
 - **2026-11-02T22:13:44+07:00** - [Event #2706] test(storage): verify cache eviction policy under memory pressure
 - **2026-11-02T22:17:23+07:00** - [Event #2707] test(storage): verify cache eviction policy under memory pressure
+- **2026-11-02T22:35:23+07:00** - [Event #2708] test(api): test input validation edge cases with malformed payloads
