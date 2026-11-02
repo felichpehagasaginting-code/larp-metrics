@@ -1618,3 +1618,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T09:00:00+07:00** - [Event #2613] test(api): test input validation edge cases with malformed payloads
 - **2026-11-02T09:05:40+07:00** - [Event #2614] fix(engine): correct task priority inversion in scheduler heap
 - **2026-11-02T09:15:06+07:00** - [Event #2615] fix(api): adjust CORS allowed origins header for multi-tenant domains
+- **2026-11-02T09:18:56+07:00** - [Event #2616] feat(crypto): add ED25519 asymmetric signature verification utility
