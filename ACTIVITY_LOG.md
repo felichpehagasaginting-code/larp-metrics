@@ -1660,3 +1660,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T14:37:06+07:00** - [Event #2655] docs(config): document all configuration options with safe defaults
 - **2026-11-02T14:41:37+07:00** - [Event #2656] refactor(network): consolidate HTTP client middleware pipeline handlers
 - **2026-11-02T14:45:16+07:00** - [Event #2657] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-11-02T14:57:02+07:00** - [Event #2658] feat(storage): support compressed chunked blob storage format
