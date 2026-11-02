@@ -1714,3 +1714,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T22:44:17+07:00** - [Event #2709] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-11-02T22:44:36+07:00** - [Event #2710] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-11-02T23:02:27+07:00** - [Event #2711] chore(deps): update core external dependencies to latest stable patches
+- **2026-11-02T23:11:51+07:00** - [Event #2712] fix(network): resolve TCP socket half-open state on silent client disconnect
