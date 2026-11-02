@@ -1679,3 +1679,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-02T16:28:51+07:00** - [Event #2674] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-11-02T16:29:53+07:00** - [Event #2675] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-11-02T16:36:15+07:00** - [Event #2676] refactor(config): group environment variables into validated config structs
+- **2026-11-02T16:44:48+07:00** - [Event #2677] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
