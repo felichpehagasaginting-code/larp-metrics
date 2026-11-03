@@ -1787,3 +1787,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T19:15:32+07:00** - [Event #2782] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-11-03T19:27:17+07:00** - [Event #2783] docs(api): document endpoint authentication requirements and error codes
 - **2026-11-03T19:40:42+07:00** - [Event #2784] feat(engine): implement high-throughput asynchronous batch processor
+- **2026-11-03T19:49:21+07:00** - [Event #2785] fix(storage): handle disk full error gracefully with alert notification
