@@ -1759,3 +1759,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T14:40:39+07:00** - [Event #2754] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-11-03T14:45:07+07:00** - [Event #2755] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-11-03T14:52:54+07:00** - [Event #2756] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-11-03T14:55:49+07:00** - [Event #2757] fix(network): adjust buffer size to prevent MTU packet fragmentation
