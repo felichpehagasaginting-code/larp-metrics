@@ -1746,3 +1746,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T12:08:12+07:00** - [Event #2741] test(storage): add integration tests for WAL replay on clean startup
 - **2026-11-03T12:19:04+07:00** - [Event #2742] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-11-03T12:26:07+07:00** - [Event #2743] perf(storage): replace JSON marshaling with zero-allocation binary codec
+- **2026-11-03T13:30:43+07:00** - [Event #2744] perf(storage): batch sequential disk write operations into memory ring buffer
