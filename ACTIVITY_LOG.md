@@ -1784,3 +1784,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T17:21:56+07:00** - [Event #2779] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-11-03T17:29:32+07:00** - [Event #2780] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-11-03T17:41:01+07:00** - [Event #2781] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
+- **2026-11-03T19:15:32+07:00** - [Event #2782] feat(api): define RESTful resource endpoints for session lifecycle events
