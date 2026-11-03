@@ -1726,3 +1726,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T09:34:26+07:00** - [Event #2721] refactor(utils): streamline byte slice manipulation and buffer pooling
 - **2026-11-03T09:41:56+07:00** - [Event #2722] perf(storage): batch sequential disk write operations into memory ring buffer
 - **2026-11-03T09:56:10+07:00** - [Event #2723] refactor(storage): modularize WAL serialization codec into dedicated package
+- **2026-11-03T10:03:56+07:00** - [Event #2724] test(engine): add fuzzing tests for binary message deserializer
