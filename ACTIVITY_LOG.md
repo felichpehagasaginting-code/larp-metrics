@@ -1780,3 +1780,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T17:00:28+07:00** - [Event #2775] refactor(config): group environment variables into validated config structs
 - **2026-11-03T17:01:27+07:00** - [Event #2776] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-11-03T17:14:44+07:00** - [Event #2777] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-11-03T17:21:55+07:00** - [Event #2778] docs(deploy): document containerized deployment guide with Docker and Helm
