@@ -1721,3 +1721,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T09:04:30+07:00** - [Event #2716] perf(network): compress outbound response bodies using gzip and brotli
 - **2026-11-03T09:04:31+07:00** - [Event #2717] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-11-03T09:15:06+07:00** - [Event #2718] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-11-03T09:18:40+07:00** - [Event #2719] refactor(engine): simplify worker state machine transitions and error states
