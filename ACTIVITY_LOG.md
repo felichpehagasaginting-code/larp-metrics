@@ -1722,3 +1722,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T09:04:31+07:00** - [Event #2717] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-11-03T09:15:06+07:00** - [Event #2718] feat(engine): add adaptive backoff retry strategy for failed event tasks
 - **2026-11-03T09:18:40+07:00** - [Event #2719] refactor(engine): simplify worker state machine transitions and error states
+- **2026-11-03T09:28:30+07:00** - [Event #2720] fix(network): fix DNS lookup timeout under slow upstream resolver
