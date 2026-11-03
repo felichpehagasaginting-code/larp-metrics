@@ -1796,3 +1796,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T20:51:57+07:00** - [Event #2791] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-11-03T21:04:47+07:00** - [Event #2792] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-11-03T21:04:59+07:00** - [Event #2793] fix(network): prevent HTTP response header injection via unescaped cookies
+- **2026-11-03T21:21:16+07:00** - [Event #2794] fix(api): return 429 Too Many Requests status when rate limit exceeded
