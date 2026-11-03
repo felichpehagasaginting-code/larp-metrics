@@ -1792,3 +1792,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T20:09:54+07:00** - [Event #2787] refactor(network): consolidate HTTP client middleware pipeline handlers
 - **2026-11-03T20:14:23+07:00** - [Event #2788] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-11-03T20:30:29+07:00** - [Event #2789] perf(crypto): accelerate AES encryption using hardware CPU instructions
+- **2026-11-03T20:33:56+07:00** - [Event #2790] feat(cli): support human-readable and JSON output formatters
