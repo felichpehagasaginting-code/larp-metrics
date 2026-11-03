@@ -1739,3 +1739,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T11:15:20+07:00** - [Event #2734] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-11-03T11:22:52+07:00** - [Event #2735] test(storage): add integration tests for WAL replay on clean startup
 - **2026-11-03T11:27:19+07:00** - [Event #2736] test(engine): test worker recovery after simulated unhandled panic
+- **2026-11-03T11:34:37+07:00** - [Event #2737] fix(network): fix DNS lookup timeout under slow upstream resolver
