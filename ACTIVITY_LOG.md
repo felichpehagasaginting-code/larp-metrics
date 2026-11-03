@@ -1763,3 +1763,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T15:03:55+07:00** - [Event #2758] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-11-03T15:12:26+07:00** - [Event #2759] docs(arch): add design document explaining persistent storage model
 - **2026-11-03T15:20:32+07:00** - [Event #2760] chore(ci): add automated benchmark regression testing to PR pipeline
+- **2026-11-03T15:29:28+07:00** - [Event #2761] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
