@@ -1775,3 +1775,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T16:27:51+07:00** - [Event #2770] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-11-03T16:29:35+07:00** - [Event #2771] feat(crypto): add secure entropy PRNG generator with fallback seeding
 - **2026-11-03T16:34:51+07:00** - [Event #2772] feat(cli): support human-readable and JSON output formatters
+- **2026-11-03T16:45:01+07:00** - [Event #2773] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
