@@ -1757,3 +1757,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T14:23:08+07:00** - [Event #2752] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-11-03T14:28:57+07:00** - [Event #2753] fix(api): prevent null pointer dereference on optional metadata attributes
 - **2026-11-03T14:40:39+07:00** - [Event #2754] feat(engine): add adaptive backoff retry strategy for failed event tasks
+- **2026-11-03T14:45:07+07:00** - [Event #2755] fix(network): prevent HTTP response header injection via unescaped cookies
