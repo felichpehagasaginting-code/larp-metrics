@@ -1738,3 +1738,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T11:08:13+07:00** - [Event #2733] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-11-03T11:15:20+07:00** - [Event #2734] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-11-03T11:22:52+07:00** - [Event #2735] test(storage): add integration tests for WAL replay on clean startup
+- **2026-11-03T11:27:19+07:00** - [Event #2736] test(engine): test worker recovery after simulated unhandled panic
