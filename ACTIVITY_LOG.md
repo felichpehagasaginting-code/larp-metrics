@@ -1744,3 +1744,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T11:56:16+07:00** - [Event #2739] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
 - **2026-11-03T11:59:46+07:00** - [Event #2740] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-11-03T12:08:12+07:00** - [Event #2741] test(storage): add integration tests for WAL replay on clean startup
+- **2026-11-03T12:19:04+07:00** - [Event #2742] feat(network): introduce token bucket rate limiter with IP subnet bursting
