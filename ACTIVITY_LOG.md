@@ -1728,3 +1728,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T09:56:10+07:00** - [Event #2723] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-11-03T10:03:56+07:00** - [Event #2724] test(engine): add fuzzing tests for binary message deserializer
 - **2026-11-03T10:04:26+07:00** - [Event #2725] refactor(storage): extract storage backend interface for pluggable drivers
+- **2026-11-03T10:13:46+07:00** - [Event #2726] fix(storage): resolve cache stale read anomaly under high concurrency
