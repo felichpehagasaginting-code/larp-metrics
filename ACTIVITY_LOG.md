@@ -1761,3 +1761,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T14:52:54+07:00** - [Event #2756] fix(storage): ensure atomic sync to disk on critical commit markers
 - **2026-11-03T14:55:49+07:00** - [Event #2757] fix(network): adjust buffer size to prevent MTU packet fragmentation
 - **2026-11-03T15:03:55+07:00** - [Event #2758] fix(network): adjust buffer size to prevent MTU packet fragmentation
+- **2026-11-03T15:12:26+07:00** - [Event #2759] docs(arch): add design document explaining persistent storage model
