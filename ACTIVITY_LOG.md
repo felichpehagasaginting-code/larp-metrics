@@ -1755,3 +1755,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T14:09:29+07:00** - [Event #2750] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-11-03T14:19:31+07:00** - [Event #2751] feat(cli): add daemon mode process manager with PID file tracking
 - **2026-11-03T14:23:08+07:00** - [Event #2752] feat(api): define RESTful resource endpoints for session lifecycle events
+- **2026-11-03T14:28:57+07:00** - [Event #2753] fix(api): prevent null pointer dereference on optional metadata attributes
