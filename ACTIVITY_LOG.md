@@ -1768,3 +1768,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T15:41:45+07:00** - [Event #2763] feat(cli): implement interactive terminal progress spinner and progress bar
 - **2026-11-03T15:42:46+07:00** - [Event #2764] feat(engine): implement dynamic configuration reloader without daemon restart
 - **2026-11-03T15:48:04+07:00** - [Event #2765] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
+- **2026-11-03T15:58:18+07:00** - [Event #2766] feat(storage): implement atomic transaction rollback on write failure
