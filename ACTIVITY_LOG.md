@@ -1770,3 +1770,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T15:48:04+07:00** - [Event #2765] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-11-03T15:58:18+07:00** - [Event #2766] feat(storage): implement atomic transaction rollback on write failure
 - **2026-11-03T15:59:38+07:00** - [Event #2767] feat(network): support TLS 1.3 session resumption and cipher suite configuration
+- **2026-11-03T16:06:05+07:00** - [Event #2768] fix(engine): fix memory leak from unclosed event emitter subscriptions
