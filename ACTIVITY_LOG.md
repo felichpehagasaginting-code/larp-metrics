@@ -1800,3 +1800,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T21:35:07+07:00** - [Event #2795] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-11-03T21:45:53+07:00** - [Event #2796] test(storage): verify cache eviction policy under memory pressure
 - **2026-11-03T21:52:12+07:00** - [Event #2797] test(api): add comprehensive contract test suite for REST endpoints
+- **2026-11-03T21:57:19+07:00** - [Event #2798] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
