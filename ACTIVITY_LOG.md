@@ -1773,3 +1773,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-03T16:06:05+07:00** - [Event #2768] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-11-03T16:21:46+07:00** - [Event #2769] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-11-03T16:27:51+07:00** - [Event #2770] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-11-03T16:29:35+07:00** - [Event #2771] feat(crypto): add secure entropy PRNG generator with fallback seeding
