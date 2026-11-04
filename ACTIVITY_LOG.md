@@ -1819,3 +1819,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T09:41:08+07:00** - [Event #2814] docs(api): document endpoint authentication requirements and error codes
 - **2026-11-04T09:48:44+07:00** - [Event #2815] fix(storage): handle disk full error gracefully with alert notification
 - **2026-11-04T09:51:14+07:00** - [Event #2816] feat(api): introduce API key authentication with granular scope permissions
+- **2026-11-04T10:04:58+07:00** - [Event #2817] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
