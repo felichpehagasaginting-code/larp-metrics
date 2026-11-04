@@ -1835,3 +1835,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T11:25:55+07:00** - [Event #2830] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-11-04T11:40:31+07:00** - [Event #2831] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
 - **2026-11-04T11:41:07+07:00** - [Event #2832] feat(network): add gRPC service definition and protobuf serialization stubs
+- **2026-11-04T11:51:57+07:00** - [Event #2833] docs(api): document endpoint authentication requirements and error codes
