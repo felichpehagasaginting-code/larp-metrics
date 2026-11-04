@@ -1856,3 +1856,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T14:39:07+07:00** - [Event #2851] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
 - **2026-11-04T14:48:06+07:00** - [Event #2852] feat(crypto): add ED25519 asymmetric signature verification utility
 - **2026-11-04T14:51:37+07:00** - [Event #2853] test(network): test rate limiter burst behavior under load test harness
+- **2026-11-04T14:55:18+07:00** - [Event #2854] feat(api): implement JSON schema validation middleware with field error mapping
