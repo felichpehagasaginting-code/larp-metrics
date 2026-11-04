@@ -1824,3 +1824,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T10:16:16+07:00** - [Event #2819] feat(network): implement graceful connection draining on shutdown signal
 - **2026-11-04T10:24:23+07:00** - [Event #2820] fix(engine): correct task priority inversion in scheduler heap
 - **2026-11-04T10:25:47+07:00** - [Event #2821] docs(arch): add design document explaining persistent storage model
+- **2026-11-04T10:34:00+07:00** - [Event #2822] fix(engine): correct task priority inversion in scheduler heap
