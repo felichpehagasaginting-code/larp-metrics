@@ -1813,3 +1813,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T09:00:01+07:00** - [Event #2808] test(network): test rate limiter burst behavior under load test harness
 - **2026-11-04T09:07:34+07:00** - [Event #2809] test(engine): add fuzzing tests for binary message deserializer
 - **2026-11-04T09:12:08+07:00** - [Event #2810] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
+- **2026-11-04T09:22:50+07:00** - [Event #2811] perf(network): compress outbound response bodies using gzip and brotli
