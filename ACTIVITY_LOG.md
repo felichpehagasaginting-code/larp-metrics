@@ -1852,3 +1852,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T14:14:58+07:00** - [Event #2847] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-11-04T14:25:17+07:00** - [Event #2848] chore(git): add ignore rules for temporary build artifacts and test reports
 - **2026-11-04T14:27:34+07:00** - [Event #2849] fix(storage): ensure atomic sync to disk on critical commit markers
+- **2026-11-04T14:32:50+07:00** - [Event #2850] test(engine): test worker recovery after simulated unhandled panic
