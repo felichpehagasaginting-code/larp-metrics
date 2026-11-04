@@ -1829,3 +1829,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T10:51:13+07:00** - [Event #2824] fix(storage): repair index segment corruption on unexpected process kill
 - **2026-11-04T10:56:45+07:00** - [Event #2825] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-11-04T11:05:45+07:00** - [Event #2826] feat(storage): implement append-only persistent WAL log storage driver
+- **2026-11-04T11:11:22+07:00** - [Event #2827] feat(engine): implement dynamic configuration reloader without daemon restart
