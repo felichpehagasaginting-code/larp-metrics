@@ -1838,3 +1838,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T11:51:57+07:00** - [Event #2833] docs(api): document endpoint authentication requirements and error codes
 - **2026-11-04T11:53:45+07:00** - [Event #2834] fix(engine): handle SIGTERM signal gracefully during active transaction
 - **2026-11-04T12:04:33+07:00** - [Event #2835] feat(storage): add snapshot compaction and automated segment garbage collection
+- **2026-11-04T12:09:13+07:00** - [Event #2836] perf(storage): replace JSON marshaling with zero-allocation binary codec
