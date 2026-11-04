@@ -1881,3 +1881,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T17:09:47+07:00** - [Event #2876] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-11-04T17:10:49+07:00** - [Event #2877] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-11-04T17:19:36+07:00** - [Event #2878] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-11-04T17:27:14+07:00** - [Event #2879] docs(contributing): add developer setup and code style guidelines
