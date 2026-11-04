@@ -1897,3 +1897,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T20:47:21+07:00** - [Event #2892] feat(api): implement OpenAPI v3 specification generator and Swagger UI route
 - **2026-11-04T21:02:01+07:00** - [Event #2893] refactor(config): group environment variables into validated config structs
 - **2026-11-04T21:02:23+07:00** - [Event #2894] test(api): add comprehensive contract test suite for REST endpoints
+- **2026-11-04T21:14:16+07:00** - [Event #2895] refactor(engine): decouple task scheduler from concrete queue implementations
