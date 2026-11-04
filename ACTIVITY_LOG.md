@@ -1904,3 +1904,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T21:53:19+07:00** - [Event #2899] refactor(network): consolidate HTTP client middleware pipeline handlers
 - **2026-11-04T22:03:15+07:00** - [Event #2900] docs(contributing): add developer setup and code style guidelines
 - **2026-11-04T22:13:36+07:00** - [Event #2901] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
+- **2026-11-04T22:18:40+07:00** - [Event #2902] refactor(network): replace raw socket handling with stream abstractions
