@@ -1899,3 +1899,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T21:02:23+07:00** - [Event #2894] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-11-04T21:14:16+07:00** - [Event #2895] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-11-04T21:26:27+07:00** - [Event #2896] feat(crypto): support AES-GCM 256-bit envelope encryption for sensitive payload
+- **2026-11-04T21:38:27+07:00** - [Event #2897] fix(api): correct ISO 8601 UTC timestamp serialization in response payload
