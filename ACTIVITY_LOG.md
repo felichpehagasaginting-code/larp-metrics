@@ -1830,3 +1830,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T10:56:45+07:00** - [Event #2825] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-11-04T11:05:45+07:00** - [Event #2826] feat(storage): implement append-only persistent WAL log storage driver
 - **2026-11-04T11:11:22+07:00** - [Event #2827] feat(engine): implement dynamic configuration reloader without daemon restart
+- **2026-11-04T11:18:31+07:00** - [Event #2828] fix(network): fix DNS lookup timeout under slow upstream resolver
