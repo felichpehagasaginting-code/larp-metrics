@@ -1846,3 +1846,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T13:39:17+07:00** - [Event #2841] refactor(engine): migrate event dispatcher to observer pub-sub pattern
 - **2026-11-04T13:48:50+07:00** - [Event #2842] fix(engine): correct task priority inversion in scheduler heap
 - **2026-11-04T13:58:21+07:00** - [Event #2843] test(engine): test worker recovery after simulated unhandled panic
+- **2026-11-04T14:00:28+07:00** - [Event #2844] fix(network): prevent HTTP response header injection via unescaped cookies
