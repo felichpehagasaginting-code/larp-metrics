@@ -1817,3 +1817,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T09:23:18+07:00** - [Event #2812] feat(engine): implement high-throughput asynchronous batch processor
 - **2026-11-04T09:35:05+07:00** - [Event #2813] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-11-04T09:41:08+07:00** - [Event #2814] docs(api): document endpoint authentication requirements and error codes
+- **2026-11-04T09:48:44+07:00** - [Event #2815] fix(storage): handle disk full error gracefully with alert notification
