@@ -1883,3 +1883,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T17:19:36+07:00** - [Event #2878] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-11-04T17:27:14+07:00** - [Event #2879] docs(contributing): add developer setup and code style guidelines
 - **2026-11-04T17:35:01+07:00** - [Event #2880] feat(storage): implement append-only persistent WAL log storage driver
+- **2026-11-04T17:40:23+07:00** - [Event #2881] feat(cli): add command-line flag parser with custom help templates
