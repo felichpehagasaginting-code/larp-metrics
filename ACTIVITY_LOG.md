@@ -1872,3 +1872,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T16:20:39+07:00** - [Event #2867] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-11-04T16:26:06+07:00** - [Event #2868] feat(storage): add snapshot compaction and automated segment garbage collection
 - **2026-11-04T16:30:23+07:00** - [Event #2869] perf(crypto): accelerate AES encryption using hardware CPU instructions
+- **2026-11-04T16:34:15+07:00** - [Event #2870] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
