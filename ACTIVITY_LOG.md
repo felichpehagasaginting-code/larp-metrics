@@ -1879,3 +1879,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T16:53:17+07:00** - [Event #2874] test(engine): add stress test suite for concurrent event dispatcher
 - **2026-11-04T17:00:13+07:00** - [Event #2875] test(engine): add fuzzing tests for binary message deserializer
 - **2026-11-04T17:09:47+07:00** - [Event #2876] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-11-04T17:10:49+07:00** - [Event #2877] refactor(engine): migrate event dispatcher to observer pub-sub pattern
