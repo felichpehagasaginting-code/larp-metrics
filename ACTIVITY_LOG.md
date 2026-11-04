@@ -1850,3 +1850,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T14:02:16+07:00** - [Event #2845] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-11-04T14:08:04+07:00** - [Event #2846] refactor(types): standardize domain error definitions and error code constants
 - **2026-11-04T14:14:58+07:00** - [Event #2847] perf(crypto): accelerate AES encryption using hardware CPU instructions
+- **2026-11-04T14:25:17+07:00** - [Event #2848] chore(git): add ignore rules for temporary build artifacts and test reports
