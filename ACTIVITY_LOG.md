@@ -1841,3 +1841,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T12:09:13+07:00** - [Event #2836] perf(storage): replace JSON marshaling with zero-allocation binary codec
 - **2026-11-04T12:18:27+07:00** - [Event #2837] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
 - **2026-11-04T12:19:21+07:00** - [Event #2838] docs(api): document endpoint authentication requirements and error codes
+- **2026-11-04T13:30:04+07:00** - [Event #2839] feat(storage): add snapshot compaction and automated segment garbage collection
