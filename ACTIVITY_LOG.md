@@ -1827,3 +1827,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T10:34:00+07:00** - [Event #2822] fix(engine): correct task priority inversion in scheduler heap
 - **2026-11-04T10:45:26+07:00** - [Event #2823] perf(engine): reduce thread contention by sharding global state lock
 - **2026-11-04T10:51:13+07:00** - [Event #2824] fix(storage): repair index segment corruption on unexpected process kill
+- **2026-11-04T10:56:45+07:00** - [Event #2825] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
