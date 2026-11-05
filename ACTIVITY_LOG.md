@@ -1954,3 +1954,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T14:01:17+07:00** - [Event #2949] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-11-05T14:03:55+07:00** - [Event #2950] perf(memory): reduce GC pressure by reusing allocated slice buffers
 - **2026-11-05T14:09:27+07:00** - [Event #2951] fix(engine): prevent deadlock when acquiring multi-partition mutex locks
+- **2026-11-05T14:19:46+07:00** - [Event #2952] test(engine): add fuzzing tests for binary message deserializer
