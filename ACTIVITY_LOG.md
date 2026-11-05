@@ -1936,3 +1936,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T11:10:55+07:00** - [Event #2931] feat(engine): support distributed tracing with OpenTelemetry context propagation
 - **2026-11-05T11:16:42+07:00** - [Event #2932] feat(network): introduce token bucket rate limiter with IP subnet bursting
 - **2026-11-05T11:16:44+07:00** - [Event #2933] perf(network): enable TCP_NODELAY and socket send buffer auto-tuning
+- **2026-11-05T11:25:48+07:00** - [Event #2934] docs(contributing): add developer setup and code style guidelines
