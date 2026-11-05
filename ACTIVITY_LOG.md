@@ -1923,3 +1923,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T09:43:43+07:00** - [Event #2918] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
 - **2026-11-05T09:54:12+07:00** - [Event #2919] chore(deps): update core external dependencies to latest stable patches
 - **2026-11-05T09:58:58+07:00** - [Event #2920] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-11-05T10:01:33+07:00** - [Event #2921] fix(storage): handle disk full error gracefully with alert notification
