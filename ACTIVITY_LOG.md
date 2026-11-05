@@ -2017,3 +2017,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T22:27:39+07:00** - [Event #3012] docs(deploy): document containerized deployment guide with Docker and Helm
 - **2026-11-05T22:33:40+07:00** - [Event #3013] feat(api): add pagination cursor support for high-cardinality audit logs
 - **2026-11-05T22:48:21+07:00** - [Event #3014] perf(crypto): accelerate AES encryption using hardware CPU instructions
+- **2026-11-05T22:54:25+07:00** - [Event #3015] feat(api): introduce API key authentication with granular scope permissions
