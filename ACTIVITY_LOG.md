@@ -1983,3 +1983,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T16:39:44+07:00** - [Event #2978] fix(api): sanitize input query parameters against wildcard regex DoS
 - **2026-11-05T16:46:26+07:00** - [Event #2979] refactor(storage): modularize WAL serialization codec into dedicated package
 - **2026-11-05T16:52:03+07:00** - [Event #2980] refactor(network): replace raw socket handling with stream abstractions
+- **2026-11-05T16:58:44+07:00** - [Event #2981] refactor(network): replace raw socket handling with stream abstractions
