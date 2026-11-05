@@ -1929,3 +1929,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T10:21:54+07:00** - [Event #2924] feat(network): add WebSocket heartbeat ping-pong and auto-reconnect
 - **2026-11-05T10:25:29+07:00** - [Event #2925] perf(storage): optimize binary search lookup in sorted key segments
 - **2026-11-05T10:33:08+07:00** - [Event #2926] fix(api): adjust CORS allowed origins header for multi-tenant domains
+- **2026-11-05T10:42:16+07:00** - [Event #2927] fix(engine): prevent integer overflow when calculating exponential backoff
