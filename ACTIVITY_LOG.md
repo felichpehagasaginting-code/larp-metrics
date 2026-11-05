@@ -1973,3 +1973,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T15:43:37+07:00** - [Event #2968] test(api): add comprehensive contract test suite for REST endpoints
 - **2026-11-05T15:53:39+07:00** - [Event #2969] fix(api): adjust CORS allowed origins header for multi-tenant domains
 - **2026-11-05T15:55:33+07:00** - [Event #2970] feat(crypto): add secure entropy PRNG generator with fallback seeding
+- **2026-11-05T15:56:34+07:00** - [Event #2971] feat(crypto): add ED25519 asymmetric signature verification utility
