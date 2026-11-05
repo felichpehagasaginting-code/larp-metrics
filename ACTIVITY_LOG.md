@@ -1985,3 +1985,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T16:52:03+07:00** - [Event #2980] refactor(network): replace raw socket handling with stream abstractions
 - **2026-11-05T16:58:44+07:00** - [Event #2981] refactor(network): replace raw socket handling with stream abstractions
 - **2026-11-05T17:00:01+07:00** - [Event #2982] test(storage): add integration tests for WAL replay on clean startup
+- **2026-11-05T17:02:04+07:00** - [Event #2983] test(storage): verify cache eviction policy under memory pressure
