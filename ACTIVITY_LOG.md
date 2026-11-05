@@ -2003,3 +2003,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T20:26:06+07:00** - [Event #2998] fix(network): prevent HTTP response header injection via unescaped cookies
 - **2026-11-05T20:31:59+07:00** - [Event #2999] refactor(types): standardize domain error definitions and error code constants
 - **2026-11-05T20:39:08+07:00** - [Event #3000] feat(network): support TLS 1.3 session resumption and cipher suite configuration
+- **2026-11-05T20:49:56+07:00** - [Event #3001] fix(network): adjust buffer size to prevent MTU packet fragmentation
