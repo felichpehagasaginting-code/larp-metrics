@@ -1947,3 +1947,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T12:16:22+07:00** - [Event #2942] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-11-05T12:28:22+07:00** - [Event #2943] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-11-05T13:30:36+07:00** - [Event #2944] feat(engine): add resilient circuit breaker for external service calls
+- **2026-11-05T13:31:29+07:00** - [Event #2945] fix(api): sanitize input query parameters against wildcard regex DoS
