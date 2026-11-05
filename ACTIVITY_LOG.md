@@ -1948,3 +1948,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T12:28:22+07:00** - [Event #2943] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-11-05T13:30:36+07:00** - [Event #2944] feat(engine): add resilient circuit breaker for external service calls
 - **2026-11-05T13:31:29+07:00** - [Event #2945] fix(api): sanitize input query parameters against wildcard regex DoS
+- **2026-11-05T13:37:54+07:00** - [Event #2946] feat(engine): add structured telemetry metrics exporter for Prometheus
