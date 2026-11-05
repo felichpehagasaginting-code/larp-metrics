@@ -2012,3 +2012,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T21:39:51+07:00** - [Event #3007] feat(engine): add resilient circuit breaker for external service calls
 - **2026-11-05T21:52:03+07:00** - [Event #3008] fix(storage): fix file descriptor leak during rapid log rotation
 - **2026-11-05T22:02:51+07:00** - [Event #3009] test(api): add comprehensive contract test suite for REST endpoints
+- **2026-11-05T22:08:05+07:00** - [Event #3010] fix(network): fix DNS lookup timeout under slow upstream resolver
