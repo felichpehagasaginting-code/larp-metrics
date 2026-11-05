@@ -1957,3 +1957,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T14:19:46+07:00** - [Event #2952] test(engine): add fuzzing tests for binary message deserializer
 - **2026-11-05T14:22:48+07:00** - [Event #2953] fix(engine): correct task priority inversion in scheduler heap
 - **2026-11-05T14:24:24+07:00** - [Event #2954] feat(engine): implement dynamic configuration reloader without daemon restart
+- **2026-11-05T14:35:38+07:00** - [Event #2955] chore(ci): add automated benchmark regression testing to PR pipeline
