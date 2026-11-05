@@ -1961,3 +1961,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T14:35:57+07:00** - [Event #2956] chore(lint): enable strict static analysis and dead code elimination rules
 - **2026-11-05T14:44:50+07:00** - [Event #2957] fix(storage): resolve cache stale read anomaly under high concurrency
 - **2026-11-05T14:52:00+07:00** - [Event #2958] docs(arch): add design document explaining persistent storage model
+- **2026-11-05T14:53:23+07:00** - [Event #2959] fix(storage): fix file descriptor leak during rapid log rotation
