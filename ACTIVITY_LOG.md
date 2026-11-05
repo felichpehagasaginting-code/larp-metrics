@@ -1996,3 +1996,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T19:24:53+07:00** - [Event #2991] feat(api): define RESTful resource endpoints for session lifecycle events
 - **2026-11-05T19:30:23+07:00** - [Event #2992] fix(engine): fix memory leak from unclosed event emitter subscriptions
 - **2026-11-05T19:39:05+07:00** - [Event #2993] fix(api): prevent null pointer dereference on optional metadata attributes
+- **2026-11-05T19:52:10+07:00** - [Event #2994] fix(engine): resolve race condition in worker thread pool task queue
