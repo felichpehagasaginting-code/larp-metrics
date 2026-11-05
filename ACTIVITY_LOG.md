@@ -1992,3 +1992,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T17:32:12+07:00** - [Event #2987] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-11-05T17:34:19+07:00** - [Event #2988] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
 - **2026-11-05T17:34:45+07:00** - [Event #2989] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
+- **2026-11-05T19:15:50+07:00** - [Event #2990] fix(engine): correct task priority inversion in scheduler heap
