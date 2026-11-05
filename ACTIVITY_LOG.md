@@ -1999,3 +1999,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T19:52:10+07:00** - [Event #2994] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-11-05T20:02:42+07:00** - [Event #2995] test(engine): test worker recovery after simulated unhandled panic
 - **2026-11-05T20:11:26+07:00** - [Event #2996] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-11-05T20:21:29+07:00** - [Event #2997] refactor(storage): modularize WAL serialization codec into dedicated package
