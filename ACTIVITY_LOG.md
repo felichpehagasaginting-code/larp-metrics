@@ -1920,3 +1920,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T09:28:13+07:00** - [Event #2915] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-11-05T09:32:55+07:00** - [Event #2916] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-11-05T09:41:58+07:00** - [Event #2917] feat(api): introduce API key authentication with granular scope permissions
+- **2026-11-05T09:43:43+07:00** - [Event #2918] feat(storage): add thread-safe LRU in-memory cache layer with TTL eviction
