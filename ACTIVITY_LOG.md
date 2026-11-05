@@ -1952,3 +1952,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T13:46:40+07:00** - [Event #2947] docs(config): document all configuration options with safe defaults
 - **2026-11-05T13:48:17+07:00** - [Event #2948] refactor(engine): decouple task scheduler from concrete queue implementations
 - **2026-11-05T14:01:17+07:00** - [Event #2949] perf(engine): optimize event loop throughput using epoll/kqueue abstractions
+- **2026-11-05T14:03:55+07:00** - [Event #2950] perf(memory): reduce GC pressure by reusing allocated slice buffers
