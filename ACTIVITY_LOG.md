@@ -2015,3 +2015,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T22:08:05+07:00** - [Event #3010] fix(network): fix DNS lookup timeout under slow upstream resolver
 - **2026-11-05T22:17:44+07:00** - [Event #3011] feat(engine): add resilient circuit breaker for external service calls
 - **2026-11-05T22:27:39+07:00** - [Event #3012] docs(deploy): document containerized deployment guide with Docker and Helm
+- **2026-11-05T22:33:40+07:00** - [Event #3013] feat(api): add pagination cursor support for high-cardinality audit logs
