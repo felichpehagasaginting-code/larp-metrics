@@ -1978,3 +1978,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T16:08:25+07:00** - [Event #2973] perf(crypto): accelerate AES encryption using hardware CPU instructions
 - **2026-11-05T16:13:34+07:00** - [Event #2974] chore(ci): add automated benchmark regression testing to PR pipeline
 - **2026-11-05T16:26:09+07:00** - [Event #2975] feat(network): introduce token bucket rate limiter with IP subnet bursting
+- **2026-11-05T16:30:23+07:00** - [Event #2976] fix(network): resolve TCP socket half-open state on silent client disconnect
