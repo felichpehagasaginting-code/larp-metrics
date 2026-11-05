@@ -1946,3 +1946,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T12:07:48+07:00** - [Event #2941] fix(engine): resolve race condition in worker thread pool task queue
 - **2026-11-05T12:16:22+07:00** - [Event #2942] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-11-05T12:28:22+07:00** - [Event #2943] fix(network): fix DNS lookup timeout under slow upstream resolver
+- **2026-11-05T13:30:36+07:00** - [Event #2944] feat(engine): add resilient circuit breaker for external service calls
