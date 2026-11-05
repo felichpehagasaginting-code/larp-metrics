@@ -1932,3 +1932,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T10:42:16+07:00** - [Event #2927] fix(engine): prevent integer overflow when calculating exponential backoff
 - **2026-11-05T10:52:46+07:00** - [Event #2928] fix(network): fix TLS handshake failure on legacy certificate authorities
 - **2026-11-05T10:55:55+07:00** - [Event #2929] fix(engine): resolve race condition in worker thread pool task queue
+- **2026-11-05T11:04:53+07:00** - [Event #2930] fix(engine): resolve race condition in worker thread pool task queue
