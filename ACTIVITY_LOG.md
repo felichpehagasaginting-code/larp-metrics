@@ -1913,3 +1913,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-04T23:19:54+07:00** - [Event #2908] feat(engine): introduce zero-copy memory buffer pooling for binary payloads
 - **2026-11-04T23:31:20+07:00** - [Event #2909] fix(network): resolve TCP socket half-open state on silent client disconnect
 - **2026-11-04T23:40:51+07:00** - [Event #2910] refactor(utils): streamline byte slice manipulation and buffer pooling
+- **2026-11-05T09:03:30+07:00** - [Event #2911] fix(api): sanitize input query parameters against wildcard regex DoS
