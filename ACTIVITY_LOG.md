@@ -1994,3 +1994,4 @@ Automated development telemetry and pipeline event logs.
 - **2026-11-05T17:34:45+07:00** - [Event #2989] chore(ci): configure multi-platform matrix build for Linux, macOS and Windows
 - **2026-11-05T19:15:50+07:00** - [Event #2990] fix(engine): correct task priority inversion in scheduler heap
 - **2026-11-05T19:24:53+07:00** - [Event #2991] feat(api): define RESTful resource endpoints for session lifecycle events
+- **2026-11-05T19:30:23+07:00** - [Event #2992] fix(engine): fix memory leak from unclosed event emitter subscriptions
